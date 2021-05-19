@@ -1,9 +1,9 @@
 ---
 title: People
 subtitle: The humans behind this project
-executive-board:
-  - name: Thibaut Jombart
-    img: /img/people/thibaut-jombart.jpg
+instructor:
+  - name: Eray Tuzun
+    img: /img/people/eraytuzun.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://thibautjombart.netlify.com/
     url: https://thibautjombart.netlify.com/
