@@ -9,7 +9,8 @@ founder:
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-Graduate-Students:
+
+graduate-students:
   - name: Eray Tuzun
     img: /img/people/eraytuzun.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
@@ -122,7 +123,8 @@ Graduate-Students:
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-Undergraduate-Students:
+
+undergraduate-students:
   - name: Eray Tuzun
     img: /img/people/eraytuzun.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
@@ -226,16 +228,14 @@ Undergraduate-Students:
 
 ## Founder
 {% include list-circles.html items=page.founder %}
-
-## Members
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
 
-##Graduate-Students 
-{% include list-circles.html items=page.Graduate-Students %}
+##graduate-Students 
+{% include list-circles.html items=page.graduate-students %}
 
-##Undergraduate-Students 
-{% include list-circles.html items=page.Undergraduate-Students %}
+##undergraduate-Students 
+{% include list-circles.html items=page.undergraduate-students %}
 
 
 
