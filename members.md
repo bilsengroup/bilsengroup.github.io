@@ -9,7 +9,6 @@ Instructor:
     url: http://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
- 
 Graduate Students:
   - name: Eray Tüzün
     img: /img/people/eraytuzun.jpg
