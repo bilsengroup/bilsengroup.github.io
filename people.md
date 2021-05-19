@@ -31,7 +31,7 @@ graduate-students:
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
-    img: /img/people/aliqamar.jpg
+    img: /img/people/aliqamar.jpeg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
