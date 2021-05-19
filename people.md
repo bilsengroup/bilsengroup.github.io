@@ -230,8 +230,10 @@ undergrads:
 ## Members
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
+
 ##Graduate Students 
 {% include list-circles.html items=page.grads %}
+
 ##Undergraduate Students 
 {% include list-circles.html items=page.undergrads %}
 
