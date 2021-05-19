@@ -222,6 +222,13 @@ members:
   
 ---
 
+## Members
+
+Members are THE people involved in Bilsen as graduate students,undergrad students or volunteers. 
+See [this page](../contact) if you would like more information on working with us.
+
+{% include list-circles.html items=page.members %}
+
 
 
 
