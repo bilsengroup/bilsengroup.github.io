@@ -11,219 +11,220 @@ founder:
     twitter: https://twitter.com/eraytuzun
 
 graduate-students:
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Barış Ardıç
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Utku Ünal
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Shirin Pirouzkhah
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Khushbakht Ali
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Emre Sülün
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Elgun Jabrayilzade
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Erdem Tuna
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+research-volunteers:  
+  - name: Berfin Küçük
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Cansu Moran
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Ata Yurtsever
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Ayda Yurtoğlu
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Yahya Elnouby
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Ayberk Tecimer
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Olcaytu Gürkan
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Bartu Atabek
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+part-time-engineers:
+  - name: Emre Açıkgöz
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-
-undergraduate-students:
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Işık Özsoy
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Mustafa Yaşar
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Ayberk Yaşa
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+summer-inters:
+  - name: Fatih Sevban Uyanık
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Büşra Büyükgebiz
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Ozan Aydın
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Yusuf Avcı
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+former-members:
+  - name: Bedir Tekinerdoğan
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: İrem Yurdakul
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Kaan Ünlü
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Doren Calliku
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Zeynep Cankara
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Emre Doğan, MSc
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-  - name: Eray Tuzun
-    img: /img/people/eraytuzun.jpg
+  - name: Hamdi Alperen Çetin, MSc
+    img: /img/people/none.jpg
     desc: Founder, President. Statistician and R programmer specialized in outbreak analysis. London School of Hygiene and Tropical Medicine / Imperial College London, UK.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
-  
+    twitter: https://twitter.com/eraytuzun	
 ---
 
 ## Founder
@@ -234,8 +235,14 @@ See [this page](../contact) if you would like more information on working with u
 ## Graduate Students 
 {% include list-circles.html items=page.graduate-students %}
 
-## Undergraduate Students 
-{% include list-circles.html items=page.undergraduate-students %}
+## Research Volunteers 
+{% include list-circles.html items=page.research-volunteers %}
 
+## Part Time Engineers 
+{% include list-circles.html items=page.part-time-engineers %}
 
+## Summer Interns 
+{% include list-circles.html items=page.summer-inters %}
 
+## Former Members
+{% include list-circles.html items=page.former-members %}
