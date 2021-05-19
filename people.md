@@ -223,26 +223,5 @@ members:
 ---
 
 
-## Executive board
 
-These people are currently heading RECON.
-
-{% include list-circles.html items=page.executive-board %}
-
-
-
-## Members
-
-Members are people actively involved in, and contributing to, RECON's activities. 
-See [this page](../join) if you would like more information on membership.
-
-{% include list-circles.html items=page.members %}
-
-
-
-## Advisory board
-
-We are extremely lucky to have the following people supporting and guiding our efforts:
-
-{% include list-circles.html items=page.advisory-board %}
 
