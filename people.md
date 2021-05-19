@@ -12,26 +12,25 @@ founder:
 
 graduate-students:
   - name: Barış Ardıç
-    img: /img/people/none.jpg
+    img: /img/people/barisardic.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+	linkedin: https://www.linkedin.com/in/barisardic/
   - name: Utku Ünal
-    img: /img/people/none.jpg
+    img: /img/people/utkuunal.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Shirin Pirouzkhah
-    img: /img/people/none.jpg
+    img: /img/people/shirinpirouzkhah.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
+    url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
+    github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -40,25 +39,25 @@ graduate-students:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Emre Sülün
-    img: /img/people/none.jpg
+    img: /img/people/emresulun.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
-    img: /img/people/none.jpg
+    img: /img/people/elgunjabrayilzade.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
-    img: /img/people/none.jpg
+    img: /img/people/erdemtuna.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
+    github: https://github.com/erdemtuna
     twitter: https://twitter.com/eraytuzun
 research-volunteers:  
   - name: Berfin Küçük
