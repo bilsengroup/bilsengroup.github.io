@@ -9,7 +9,7 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  background-image: url(../img/background.png);
+  background-image: #F3F7E7;
   background-repeat: no-repeat;
 }
 p {
