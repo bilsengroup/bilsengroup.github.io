@@ -16,7 +16,7 @@ graduate-students:
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
-	linkedin: https://www.linkedin.com/in/barisardic/
+	twitter: https://www.linkedin.com/in/barisardic/
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -58,7 +58,7 @@ graduate-students:
     url: https://www.eraytuzun.com/
     github: https://github.com/erdemtuna
     twitter: https://twitter.com/eraytuzun
-research-volunteers:  
+research-volunteers:
   - name: Berfin Küçük
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
