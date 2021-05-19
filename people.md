@@ -52,7 +52,7 @@ graduate-students:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
-    img: /img/people/emretuna.jpg
+    img: /img/people/erdemtuna.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
