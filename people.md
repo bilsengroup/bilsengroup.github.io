@@ -32,7 +32,7 @@ graduate-students:
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
-    img: /img/people/none.jpg
+    img: /img/people/aliqamar.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
@@ -46,7 +46,7 @@ graduate-students:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
-    img: /img/people/elgunjabrayilzade.jpg
+    img: /img/people/elgunjabyilzade.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
@@ -145,7 +145,7 @@ part-time-engineers:
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-summer-inters:
+summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -241,7 +241,7 @@ See [this page](../contact) if you would like more information on working with u
 {% include list-circles.html items=page.part-time-engineers %}
 
 ## Summer Interns 
-{% include list-circles.html items=page.summer-inters %}
+{% include list-circles.html items=page.summer-interns %}
 
 ## Former Members
 {% include list-circles.html items=page.former-members %}
