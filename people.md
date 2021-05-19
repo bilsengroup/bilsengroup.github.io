@@ -9,10 +9,9 @@ founder:
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
-
 graduate-students:
   - name: Barış Ardıç
-    img: /img/people/barisardic.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
@@ -26,34 +25,34 @@ graduate-students:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Shirin Pirouzkhah
-    img: /img/people/shirinpirouzkhah.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
-    img: /img/people/aliqamar.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Emre Sülün
-    img: /img/people/emresulun.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
-    img: /img/people/elgunjabyilzade.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
-    img: /img/people/erdemtuna.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
