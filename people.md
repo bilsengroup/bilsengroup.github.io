@@ -4,7 +4,7 @@ subtitle: Members of Bilsen
 founder:
   - name: Eray Tüzün
     img: /img/people/eraytuzun.jpg
-    desc: Eray Tüzün is currently a faculty member and leading the Bilkent University Software Engineering and Data Analytics Research Group (BILSEN)  in the Department of Computer Engineering at Bilkent University. He has over 15 years of experience designing and building software.
+    desc: Assistant Professor at the Computer Engineering Department of Bilkent University
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
