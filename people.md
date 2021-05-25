@@ -48,8 +48,8 @@ graduate-students:
     img: /img/people/elgunjabyilzade.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.linkedin.com/in/elgunjabrayilzade/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
+    url: https://www.linkedin.com/in/elgunjabrayilzade/
+    github: https://github.com/jelgun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
