@@ -46,10 +46,10 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: Bachelor's: Izmir Institute of Technology. Research areas: Source Code Analysis, NLP, Bus Factor in SE.
+    desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.eraytuzun.com/
-    github: https://github.com/jelgun
+    github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
