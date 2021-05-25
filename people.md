@@ -1,10 +1,10 @@
 ---
 title: People
 subtitle: Members of Bilsen
-pi:
+PI:
   - name: Eray Tüzün 
     img: /img/people/eraytuzun.jpg
-    desc: Assistant Professor at the Computer Engineering Department of Bilkent University.
+    desc: Assistant Professor at the Computer Engineering Department of Bilkent University
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
@@ -46,11 +46,11 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: Bachelor's: Izmir Institute of Technology.
-    website: https://www.linkedin.com/in/elgunjabrayilzade/
-    url: https://www.linkedin.com/in/elgunjabrayilzade/
-    github: https://github.com/jelgun
-    twitter: https://github.com/jelgun
+    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    website: https://www.eraytuzun.com/
+    url: https://www.eraytuzun.com/
+    github: https://github.com/eraytuzun
+    twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -88,19 +88,19 @@ research-volunteers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Yahya Elnouby
-    img: /img/people/yahyaelnoubly.jpg
-    desc: Undergraduate student in Bilkent University, working on Serious Games.
-    website: https://www.linkedin.com/in/yahyaelnouby/
-    url: https://www.linkedin.com/in/yahyaelnouby/
-    github: https://github.com/YahyaElnouby
-    twitter: https://twitter.com/Yahya_Elnouby26
-  - name: Ayberk Tecimer
-    img: /img/people/ayberktecimer.jpg
+    img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.linkedin.com/in/ayberktecimer/
-    url: https://www.linkedin.com/in/ayberktecimer/
-    github: https://github.com/ayberktecimer
-    twitter: https://twitter.com/AyberkTecimer
+    website: https://www.eraytuzun.com/
+    url: https://www.eraytuzun.com/
+    github: https://github.com/eraytuzun
+    twitter: https://twitter.com/eraytuzun
+  - name: Ayberk Tecimer
+    img: /img/people/none.jpg
+    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    website: https://www.eraytuzun.com/
+    url: https://www.eraytuzun.com/
+    github: https://github.com/eraytuzun
+    twitter: https://twitter.com/eraytuzun
   - name: Olcaytu Gürkan
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -226,7 +226,7 @@ former-members:
 ---
 
 ## PI
-{% include list-circles.html items=page.pi%}
+{% include list-circles.html items=page.PI%}
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
 
