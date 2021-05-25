@@ -4,7 +4,7 @@ subtitle: Members of Bilsen
 pi:
   - name: Eray Tüzün 
     img: /img/people/eraytuzun.jpg
-    desc: Assistant Professor at the Computer Engineering Department of Bilkent University
+    desc: Assistant Professor at the Computer Engineering Department of Bilkent University.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
