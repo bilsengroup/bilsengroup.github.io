@@ -1,7 +1,7 @@
 ---
 title: People
 subtitle: Members of Bilsen
-PI:
+pi:
   - name: Eray Tüzün 
     img: /img/people/eraytuzun.jpg
     desc: Assistant Professor at the Computer Engineering Department of Bilkent University
@@ -226,7 +226,7 @@ former-members:
 ---
 
 ## PI
-{% include list-circles.html items=page.PI%}
+{% include list-circles.html items=page.pi%}
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
 
