@@ -95,7 +95,7 @@ research-volunteers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Ayberk Tecimer
-    img: /img/people/none.jpg
+    img: /img/people/ayberktecimer.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
