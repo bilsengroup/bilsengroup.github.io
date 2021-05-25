@@ -46,7 +46,7 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    desc: Bachelors degree from İzmir Institude of Technology. My research areas are : source code analysis, NLP, bus factor in SE. 
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
