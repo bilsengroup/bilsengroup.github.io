@@ -46,11 +46,11 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    desc: Bachelor's: Izmir Institute of Technology.
+    website: https://www.linkedin.com/in/elgunjabrayilzade/
+    url: https://www.linkedin.com/in/elgunjabrayilzade/
+    github: https://github.com/jelgun
+    twitter: https://github.com/jelgun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -88,19 +88,19 @@ research-volunteers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Yahya Elnouby
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/yahyaelnoubly.jpg
+    desc: Undergraduate student in Bilkent University, working on Serious Games.
+    website: https://www.linkedin.com/in/yahyaelnouby/
+    url: https://www.linkedin.com/in/yahyaelnouby/
+    github: https://github.com/YahyaElnouby
+    twitter: https://twitter.com/Yahya_Elnouby26
   - name: Ayberk Tecimer
-    img: /img/people/none.jpg
+    img: /img/people/ayberktecimer.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    website: https://www.linkedin.com/in/ayberktecimer/
+    url: https://www.linkedin.com/in/ayberktecimer/
+    github: https://github.com/ayberktecimer
+    twitter: https://twitter.com/AyberkTecimer
   - name: Olcaytu Gürkan
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
