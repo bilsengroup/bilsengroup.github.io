@@ -53,11 +53,11 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
+    desc: Bachelors from Electrical and Electronics Engineering, Middle East Technical University. My current research Areas are software analytics and software process smells.
+    website: https://www.erdemtuna.me/
+    url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
-    twitter: https://twitter.com/eraytuzun
+    twitter: https://www.linkedin.com/in/erdem-tuna/
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/none.jpg
