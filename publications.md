@@ -27,19 +27,19 @@ image: /img/logo.png
 			<br><button data-toggle="collapse" data-target="#demo2">See Abstract</button><br>
 
 			<div id="demo2" class="collapse">
-			Context:
+			<br>Context:<br>
 			Various types of artifacts (requirements, source code, test cases, documents, etc.) are produced throughout the lifecycle of a software. These artifacts are connected with each other via traceability links that are stored in modern application lifecycle management repositories. Throughout the lifecycle of a software, various types of changes can arise in any one of these artifacts. It is important to review such changes to minimize their potential negative impacts. To make sure the review is conducted properly, the reviewer(s) should be chosen appropriately.
 
-			Objective:
+			<br>Objective:<br>
 			We previously introduced a novel approach, named RSTrace, to automatically recommend reviewers that are best suited based on their familiarity with a given artifact. In this study, we introduce an advanced version of RSTrace, named RSTrace+ that accounts for recency information of traceability links including practical tool support for GitHub.
 
-			Methods:
+			<br>Methods:<br>
 			In this study, we conducted a series of experiments on finding the appropriate code reviewer(s) using RSTrace+ and provided a comparison with the other code reviewer recommendation approaches.
 
-			Results:
+			<br>Results:<br>
 			We had initially tested RSTrace+ on an open source project (Qt 3D Studio) and achieved a top-3 accuracy of 0.89 with an MRR (mean reciprocal ranking) of 0.81. In a further empirical evaluation of 40 open source projects, we compared RSTrace+ with Naive-Bayes, RevFinder and Profile based approach, and observed higher accuracies on the average.
 
-			Conclusion:
+			<br>Conclusion:<br>
 			We confirmed that the proposed reviewer recommendation approach yields promising top-k and MRR scores on the average compared to the existing reviewer recommendation approaches. Unlike other code reviewer recommendation approaches, RSTrace+ is not limited to recommending reviewers for source code artifacts and can potentially be used for recommending reviewers for other types of artifacts. Our approach can also visualize the affected artifacts and help the developer to make assessments of the potential impacts of change to the reviewed artifact.
 		</div>
         </div>
