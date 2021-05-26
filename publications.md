@@ -50,6 +50,11 @@ image: /img/logo.png
             <a href="https://dl.acm.org/doi/10.1145/3368089.3417932">CRSG: A Serious Game for Teaching Code Review</a>
             <br><i>Kaan Ünlü, Barış Ardıç, Eray Tüzün</i>
             <br>ESEC/FSE 2020 Tool Demonstrations Track, 2020
+			<br><button data-toggle="collapse" data-target="#demo3">See Abstract</button><br>
+
+			<div id="demo3" class="collapse">
+			The application of code review in a development environment is essential, but this skill is not taught very often in an educational context despite its wide usage. To streamline the teaching process of code review, we propose a browser based "Code Review Serious Game" (CRSG) with high accessibility, progressive level difficulty and an evolvable foundation for prospective improvements or changes. The application is built as a serious game to reinforce the learning experience of its users by immersing them in its story and theme, helping them learn while having fun. The effectiveness of the game components are measured with a case study of 132 students of 2 software engineering courses. The promising result of this case study suggests CRSG can indeed be used effectively to teach code review. The demo video for the game can be accessed at https://youtu.be/FLnr3p4bhOg, and CRSG itself at: https://github.com/barisardic/crsg.
+		</div>
         </div>
     </li>
     <br>
@@ -58,6 +63,13 @@ image: /img/logo.png
             <a href="https://www.researchgate.net/publication/343712903_Identifying_Key_Developers_using_Artifact_Traceability_Graphs"> Identifying Key Developers using Artifact Traceability Graphs</a> 
             <br><i>H.Alperen Çetin, Eray Tüzün</i>
             <br>16th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020)
+			<br><button data-toggle="collapse" data-target="#demo4">See Abstract</button><br>
+
+			<div id="demo4" class="collapse">
+			Developers are the most important resource to build and maintain software projects. Due to various reasons, some developers take more responsibility, and this type of developers are more valuable and indispensable for the project. Without them, the success of the project would be at risk. We use the term key developers for these essential and valuable developers, and identifying them is a crucial task for managerial decisions such as risk assessment for potential developer resignations. We study key developers under three categories: jacks, mavens and connectors. A typical jack (of all trades) has a broad knowledge of the project, they are familiar with different parts of the source code, whereas mavens represent the developers who are the sole experts in specific parts of the projects. Connectors are the developers who involve different groups of developers or teams. They are like bridges between teams.
+
+			To identify key developers in a software project, we propose to use traceable links among software artifacts such as the links between change sets and files. First, we build an artifact traceability graph, then we define various metrics to find key developers. We conduct experiments on three open source projects: Hadoop, Hive and Pig. To validate our approach, we use developer comments in issue tracking systems and demonstrate that the identified key developers by our approach match the top commenters up to 92%.
+		</div>			
         </div>
     </li>
     <br>
@@ -66,6 +78,10 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/9206173">Creation of a Serious Game For Teaching Code Review: An Experience Report</a>
             <br><i>Barış Ardıç, İrem Yurdakul, Eray Tüzün</i>
             <br>32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020)
+			<br><button data-toggle="collapse" data-target="#demo5">See Abstract</button><br>
+
+			<div id="demo5" class="collapse">
+			Code review, a manual inspection of source code by developers other than the author, is a frequently used practice for improving code quality in the software development life-cycle. Employing a tool-based review of code changes has become the norm for a wide variety of open source and industrial systems. Despite its widespread usage and importance, software development practices such as code review are often not addressed in typical Software Engineering education. To address this knowledge gap, we propose to use a serious game approach for teaching code review practices. In this study, we define our learning objectives and design a code review serious game along with its companion quizzes. Then we conduct a small preliminary experiment in order to procure feedback. Using the results of the experiment and participant interviews, we improve our game prototype for integration into a software engineering course while optimizing the initial experiment for student's benefit. We document the process, lessons learned and the future directions of the game. The results we gather indicate that the game is ready to be used in a software engineering course setting.
         </div>
     </li>
     <br>
