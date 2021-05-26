@@ -5,19 +5,16 @@ image: /img/logo.png
 ---
 
 <ul>
-	<li>
-		<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-		<div id="demo" class="collapse">
-		Lorem ipsum dolor text....
-		</div>
-	<li>
-		<br>
      <li>
         <div style="text-align: justify">
             <a href="">Characterizing Duplicate Bugs: An Empirical Analysis</a>
             <br><i>Berfin Küçük, Eray Tüzün</i>
             <br>The Third International Workshop On Intelligent Bug Fixing, 2021
+			<button data-toggle="collapse" data-target="#demo">Collapsible</button>
+
+			<div id="demo" class="collapse">
+			Lorem ipsum dolor text....
+		</div>
         </div>
     </li>
         <br>
