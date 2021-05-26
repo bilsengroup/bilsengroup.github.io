@@ -10,7 +10,7 @@ image: /img/logo.png
             <a href="">Characterizing Duplicate Bugs: An Empirical Analysis</a>
             <br><i>Berfin Küçük, Eray Tüzün</i>
             <br>The Third International Workshop On Intelligent Bug Fixing, 2021
-			<button data-toggle="collapse" data-target="#demo">Collapsible</button>
+			<br><button data-toggle="collapse" data-target="#demo">Collapsible</button><br>
 
 			<div id="demo" class="collapse">
 			Lorem ipsum dolor text....
