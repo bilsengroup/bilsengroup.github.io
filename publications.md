@@ -177,7 +177,7 @@ To identify the connectors and mavens, we propose an approach using graph centra
             <br>Journal of Systems and Software,2019
 			<br><button data-toggle="collapse" data-target="#demo11">See Abstract</button><br>
 
-			<div id="demo12" class="collapse">
+			<div id="demo11" class="collapse">
 			 <br>Context <br>
 			According to various reports, many software engineering (SE) graduates often face difficulties when beginning their careers, which is mainly due to misalignment of the skills learned in university education with what is needed in the software industry.
 
