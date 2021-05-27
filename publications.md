@@ -91,6 +91,21 @@ image: /img/logo.png
             <a href="https://dl.acm.org/doi/abs/10.1145/3360497">Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK </a> 
             <br><i>Vahid Garouisi,  Görkem Giray, Eray Tüzün</i>
             <br>ACM Transactions on Computing Education, 2019
+			<br><button data-toggle="collapse" data-target="#demo6">See Abstract</button><br>
+
+			<div id="demo6" class="collapse">
+			<br>Context:<br>
+			Knowledge level and productivity of the software engineering (SE) workforce are the subject of regular discussions among practitioners, educators, and researchers. There have been many efforts to measure and improve the knowledge gap between SE education and industrial needs.
+
+			<br>Objective:<br> 
+			Although the existing efforts for aligning SE education and industrial needs have provided valuable insights, there is a need for analyzing the SE topics in a more “fine-grained” manner; i.e., knowing that SE university graduates should know more about requirements engineering is important, but it is more valuable to know the exact topics of requirements engineering that are most important in the industry.
+
+			<br>Method:<br>
+			We achieve the above objective by assessing the knowledge gaps of software engineers by designing and executing an opinion survey on levels of knowledge learned in universities versus skills needed in industry. We designed the survey by using the SE knowledge areas (KAs) from the latest version of the Software Engineering Body of Knowledge (SWEBOK v3), which classifies the SE knowledge into 12 KAs, which are themselves broken down into 67 subareas (sub-KAs) in total. Our analysis is based on (opinion) data gathered from 129 practitioners, who are mostly based in Turkey.
+
+			<br>Results:<br> 
+			Based on our findings, we recommend that educators should include more materials on software maintenance, software configuration management, and testing in their SE curriculum. Based on the literature as well as the current trends in industry, we provide actionable suggestions to improve SE curriculum to decrease the knowledge gap.
+		</div>
         </div>
     </li>
     <br>
