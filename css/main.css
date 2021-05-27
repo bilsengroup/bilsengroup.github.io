@@ -103,7 +103,6 @@ img {
   background: #314f96;
   border-bottom: 1px solid #294481;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  z-index: -1;
 }
 
 .navbar-custom .nav li a {
