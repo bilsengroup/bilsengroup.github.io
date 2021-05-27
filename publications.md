@@ -114,6 +114,11 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/8870190">Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies </a> (Best Emerging Results and Vision Paper Award)
             <br><i>Emre Doğan,  Eray Tüzün,  K. Ayberk Tecimer  and  H. Altay Güvenir</i>
             <br>13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019)
+			<br><button data-toggle="collapse" data-target="#demo7">See Abstract</button><br>
+
+			<div id="demo7" class="collapse">
+			Background: Selecting the ideal code reviewer in modern code review is a crucial first step to perform effective code reviews. There are several algorithms proposed in the literature for recommending the ideal code reviewer for a given pull request. The success of these code reviewer recommendation algorithms is measured by comparing the recommended reviewers with the ground truth that is the assigned reviewers selected in real life. However, in practice, the assigned reviewer may not be the ideal reviewer for a given pull request.Aims: In this study, we investigate the validity of ground truth data in code reviewer recommendation studies.Method: By conducting an informal literature review, we compared the reviewer selection heuristics in real life and the algorithms used in recommendation models. We further support our claims by using empirical data from code reviewer recommendation studies.Results: By literature review, and accompanying empirical data, we show that ground truth data used in code reviewer recommendation studies is potentially problematic. This reduces the validity of the code reviewer datasets and the reviewer recommendation studies. Conclusion: We demonstrated the cases where the ground truth in code reviewer recommendation studies are invalid and discussed the potential solutions to address this issue.
+		</div>
         </div>
     </li>
     <br>
@@ -122,6 +127,13 @@ image: /img/logo.png
             <a href="https://dl.acm.org/doi/10.1145/3345629.3345637">Reviewer Recommendation Using Software Artifact Traceability Graphs </a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
+			<br><button data-toggle="collapse" data-target="#demo8">See Abstract</button><br>
+
+			<div id="demo8" class="collapse">
+			Various types of artifacts (requirements, source code, test cases, documents, etc.) are produced throughout the lifecycle of a software. These artifacts are often related with each other via traceability links that are stored in modern application lifecycle management repositories. Throughout the lifecycle of a software, various types of changes can arise in any one of these artifacts. It is important to review such changes to minimize their potential negative impacts. To maximize benefits of the review process, the reviewer(s) should be chosen appropriately.
+
+			In this study, we reformulate the reviewer suggestion problem using software artifact traceability graphs. We introduce a novel approach, named RSTrace, to automatically recommend reviewers that are best suited based on their familiarity with a given artifact. The proposed approach, in theory, could be applied to all types of artifacts. For the purpose of this study, we focused on the source code artifact and conducted an experiment on finding the appropriate code reviewer(s). We initially tested RSTrace on an open source project and achieved top-3 recall of 0.85 with an MRR (mean reciprocal ranking) of 0.73. In a further empirical evaluation of 37 open source projects, we confirmed that the proposed reviewer recommendation approach yields promising top-k and MRR scores on the average compared to the existing reviewer recommendation approaches.
+		</div>
         </div>
     </li>
     <br>
@@ -132,6 +144,12 @@ image: /img/logo.png
             <br><i>H. Alperen Cetin</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
             Foundations of Software Engineering (ESEC/FSE 2019)
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -142,6 +160,12 @@ image: /img/logo.png
             <br><i>Emre Sülün</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
             Foundations of Software Engineering (ESEC/FSE 2019)
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -151,6 +175,12 @@ image: /img/logo.png
                 engineering education with industrial needs: a meta-analysis </a>
             <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
             <br>Journal of Systems and Software,2019
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -161,6 +191,12 @@ image: /img/logo.png
                 up with Method and Process Practice: A new Baseline for Researchers </a>
             <br><i>HELENA Consurtium</i>
             <br>International Conference on Software Engineering in Practice, 2019
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -169,7 +205,13 @@ image: /img/logo.png
             <a href="https://www.sciencedirect.com/science/article/pii/S0164121218302565">Adopting Integrated
                 Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach </a>
             <br><i>Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince</i>
-            <br>Journal of Systems and Software, 2018 
+            <br>Journal of Systems and Software, 2018
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>			
         </div>
     </li>
     <br>
@@ -178,6 +220,12 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/8861461">An Auction-Based Serious Game for Bug Tracking</a>
             <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
             <br>IET Software, 2019
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -187,6 +235,12 @@ image: /img/logo.png
                 industrial needs </a>
             <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
             <br>IEEE Software
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -196,6 +250,12 @@ image: /img/logo.png
                 Purpose of Software Development Process Training and Improvement: An Exploration </a>
             <br><i>İpek Ohri, İrem Öge, Bora Orkun, Murat Yılmaz, Eray Tüzün, Paul Clarke, RV O’Connor</i>
             <br>European Conference on Software Process Improvement, 195-206
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -205,6 +265,12 @@ image: /img/logo.png
                 Development Methods </a>
             <br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i>
             <br>Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -216,6 +282,12 @@ image: /img/logo.png
             <br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i>
             <br>Connected Environments for the Internet of Things, Challenges and Solutions, Springer International
             Publishing, 2018 (Book Chapter)
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -226,6 +298,12 @@ image: /img/logo.png
                 Software Product Line Engineering with Essence Framework </a>
             <br><i>Eray Tüzün, Görkem Giray, Bedir Tekinerdogan, Yagup Macit</i>
             <br>International Journal of Informatics Technologies, 2018
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>
         </div>
     </li>
     <br>
@@ -234,4 +312,14 @@ image: /img/logo.png
             <a href="https://arxiv.org/abs/1805.08894">Are Computer Science and Engineering Graduates Ready for the
                 Software Industry? Experiences from an Industrial Student Training Program </a>
             <br><i>Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin</i>
-            <br>International Conference in Software Engineering SEET 2018 (Acceptance rate <25%) </div> </li> </ul>
+            <br>International Conference in Software Engineering SEET 2018 (Acceptance rate <25%)
+			<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+			<div id="demo1" class="collapse">
+			Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively. 
+
+		</div>			
+			</div> 
+			</li> 
+			</ul>
+			
