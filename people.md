@@ -46,18 +46,25 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: Bachelors degree from Izmir Institude of Technology, my research areas are source code analysis, NLP, bus factor in SE. 
+    desc: BSc from Izmir Institude of Technology, my research areas are source code analysis, NLP, bus factor in SE. 
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
     twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
-    desc: Bachelors from Electrical and Electronics Engineering, Middle East Technical University. My current research Areas are software analytics and software process smells.
+    desc: BSc from Electrical and Electronics Engineering, Middle East Technical University. My current research Areas are software analytics and software process smells.
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
     twitter: https://www.linkedin.com/in/erdem-tuna/
+  - name: Muhammad Umair Ahmed
+	img: /img/people/MuhammadUmairAhmed.jpg
+	desc: BSc from Computer Science, Bilkent University. My current research Area is general practices in software engineering.
+	website: https://www.linkedin.com/in/muhammad-umair-ahmed/
+	url: https://www.linkedin.com/in/muhammad-umair-ahmed/
+	github: https://github.com/ahmed-umair
+	twitter: https://www.linkedin.com/in/muhammad-umair-ahmed/
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/none.jpg
