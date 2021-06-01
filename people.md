@@ -99,11 +99,11 @@ research-volunteers:
     twitter: https://twitter.com/eraytuzun
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
+    website: https://www.linkedin.com/in/ayberktecimer/
+    url: https://www.linkedin.com/in/ayberktecimer/
+    github: https://github.com/ayberktecimer
+    twitter: https://twitter.com/AyberkTecimer
   - name: Olcaytu Gürkan
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -149,7 +149,7 @@ part-time-engineers:
     twitter: https://twitter.com/eraytuzun
 summer-interns:
   - name: Fatih Sevban Uyanık
-    img: /img/people/none.jpg
+    img: /img/people/fatihsevbanuyanık.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
