@@ -12,11 +12,10 @@ PI:
 graduate-students:
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://www.linkedin.com/in/barisardic/
+    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games.
+    website: https://www.linkedin.com/in/barisardic/
+    url: https://github.com/barisardic
+    github: https://github.com/barisardic
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -26,7 +25,7 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Shirin Pirouzkhah
     img: /img/people/shirinpirouzkhah.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics.
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
@@ -64,7 +63,6 @@ graduate-students:
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
-    twitter: https://www.linkedin.com/in/muhammad-umair-ahmed/
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/none.jpg
@@ -74,12 +72,11 @@ research-volunteers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Cansu Moran
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    img: /img/people/cansumoran.jpg
+    desc: Ongoing BSc in Bilkent University. <br> systematic labelling bias in defect management
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
   - name: Ata Yurtsever
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
