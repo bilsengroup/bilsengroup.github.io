@@ -59,7 +59,7 @@ graduate-students:
     github: https://github.com/erdemtuna
     twitter: https://www.linkedin.com/in/erdem-tuna/
   - name: Muhammad Umair Ahmed
-    img: /img/people/none.jpg
+    img: /img/people/MuhammadUmairAhmed.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio. 
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
