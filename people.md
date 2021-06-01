@@ -42,7 +42,6 @@ graduate-students:
     website: https://linkedin.com/in/sulun
     url: https://linkedin.com/in/sulun
     github: https://github.com/sulunemre
-    twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
     desc: BSc from Izmir Institude of Technology, my research areas are source code analysis, NLP, bus factor in SE. 
@@ -93,7 +92,7 @@ research-volunteers:
     twitter: https://twitter.com/eraytuzun
   - name: Yahya Elnouby
     img: /img/people/yahyaelnoubly.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
