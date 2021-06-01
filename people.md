@@ -54,8 +54,7 @@ graduate-students:
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
     desc: BSc from Electrical and Electronics Engineering, Middle East Technical University.
-	
-	Software analytics and software process smells.
+    Software analytics and software process smells.
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
