@@ -227,7 +227,6 @@ former-members:
     github: https://github.com/hacetin
 ---
 
-## PI
 {% include list-circles.html items=page.PI%}
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
