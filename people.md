@@ -12,7 +12,7 @@ PI:
 graduate-students:
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games.
+    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
@@ -25,7 +25,7 @@ graduate-students:
     twitter: https://twitter.com/eraytuzun
   - name: Shirin Pirouzkhah
     img: /img/people/shirinpirouzkhah.jpg
-    desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics.
+    desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
@@ -73,10 +73,10 @@ research-volunteers:
     twitter: https://twitter.com/eraytuzun
   - name: Cansu Moran
     img: /img/people/cansumoran.jpg
-    desc: Ongoing BSc in Bilkent University. <br> systematic labelling bias in defect management
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
+    desc: Ongoing BSc in Bilkent University. <br> Systematic labelling bias in defect management
+    website: https://www.linkedin.com/in/cansu-moran/
+    url: https://www.linkedin.com/in/cansu-moran/
+    github: https://github.com/cansumoran
   - name: Ata Yurtsever
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -221,12 +221,11 @@ former-members:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Hamdi Alperen Çetin, MSc
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun	
+    img: /img/people/alperencetin.jpg
+    desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology <br> Artifact Traceability Graphs and Identifying Key Developers
+    website: https://www.linkedin.com/in/hacetin/
+    url: https://www.linkedin.com/in/hacetin/
+    github: https://github.com/hacetin
 ---
 
 ## PI
