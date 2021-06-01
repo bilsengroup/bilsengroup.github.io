@@ -60,7 +60,7 @@ graduate-students:
     twitter: https://www.linkedin.com/in/erdem-tuna/
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio. 
+    desc: BSc from Computer Science, Bilkent University. Current research Area is general practices in software engineering. 
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
