@@ -43,7 +43,7 @@ image: /img/logo.png
 	<br>
 	<li>
         <div style="text-align: justify">
-            <a href="">A Review of Code Reviewer Recommendation Studies: Challenges and Future Directions</a>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167642321000459">A Review of Code Reviewer Recommendation Studies: Challenges and Future Directions</a>
             <br><i>H. Alperen Cetin, Emre Doğan, Eray Tüzün</i>
             <br>Science of Computer Programming Journal 2021
 			<br><button data-toggle="collapse" data-target="#demo22">See Abstract</button><br>
