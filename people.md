@@ -93,10 +93,10 @@ research-volunteers:
   - name: Yahya Elnouby
     img: /img/people/yahyaelnoubly.jpg
     desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    website: https://www.linkedin.com/in/yahyaelnouby/
+    url: https://www.linkedin.com/in/yahyaelnouby/
+    github: https://github.com/YahyaElnouby
+    twitter: https://twitter.com/Yahya_Elnouby26
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
@@ -149,12 +149,12 @@ part-time-engineers:
     twitter: https://twitter.com/eraytuzun
 summer-interns:
   - name: Fatih Sevban Uyanık
-    img: /img/people/fatihsevbanuyanık.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/fatihsevbanuyanik.jpg
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
+    website: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
+    url: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
+    github: https://github.com/FatihSevbanUyanik
+    twitter: https://twitter.com/SevbanUyan
   - name: Büşra Büyükgebiz
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
