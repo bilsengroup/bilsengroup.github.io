@@ -84,7 +84,7 @@ research-volunteers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Ayda Yurtoğlu
-    img: /img/people/none.jpg
+    img: /img/people/aydayurtoglu.jpg
     desc: Ongoing BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
     website: https://www.linkedin.com/in/aydayurtoglu/
     url: https://www.linkedin.com/in/aydayurtoglu/
