@@ -85,11 +85,10 @@ research-volunteers:
     twitter: https://twitter.com/eraytuzun
   - name: Ayda Yurtoğlu
     img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
+    website: https://www.linkedin.com/in/aydayurtoglu/
+    url: https://www.linkedin.com/in/aydayurtoglu/
+    github: https://github.com/aydayurtoglu
   - name: Yahya Elnouby
     img: /img/people/yahyaelnoubly.jpg
     desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
