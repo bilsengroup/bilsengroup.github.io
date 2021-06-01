@@ -37,11 +37,11 @@ graduate-students:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Emre Sülün
-    img: /img/people/emresulun.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
+    img: /img/people/emresülün.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
+    website: https://linkedin.com/in/sulun
+    url: https://linkedin.com/in/sulun
+    github: https://github.com/sulunemre
     twitter: https://twitter.com/eraytuzun
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
