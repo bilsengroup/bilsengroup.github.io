@@ -5,9 +5,45 @@ image: /img/logo.png
 ---
 
 <ul>
+<li>
+        <div style="text-align: justify">
+            <a href="">Towards a Taxonomy of Bug Tracking Process Smells: A Quantitative Analysis</a>
+            <br><i>Khushbakht Ali Qamar, Emre Sülün, Eray Tüzün</i>
+            <br>EuroMicro 2021
+			<br><button data-toggle="collapse" data-target="#demo23">See Abstract</button><br>
+
+			<div id="demo23" class="collapse">
+			Code review is the process of inspecting code changes by a developer who is not involved in the development of the changeset. One of the initial and important steps of code review process is selecting code reviewer(s) for a given code change. To maximize the benefits of the code review process, the appropriate selection of the reviewer is essential. Code reviewer recommendation has been an active research area over the last few years, and many recommendation models have been proposed in the literature.
+			<br>
+			Bug tracking is the process of monitoring and
+			reporting malfunctions or issues found in software. While there is
+			no consensus on a formally specified bug tracking process, some
+			certain rules and best practices for an optimal bug tracking
+			process are accepted by many companies and open-source software
+			(OSS) projects. Despite slight variations between different
+			platforms, the primary aim of all these rules and practices is to
+			perform a more efficient bug tracking process. Practitioners' noncompliance
+			with the best practices not only impedes the benefits
+			of the bug tracking process but also negatively affects the other
+			phases of the life cycle of software development.
+			In this study, based on the results of a multivocal literature
+			review, we analyzed 60 sources in academic and gray literature
+			and propose a taxonomy of 12 bad practices in the bug tracking
+			process, that is bug tracking process smells. To quantitatively
+			analyze these process smells, we inspect bug reports collected
+			from six projects. Among these projects, four of them are Jirabased
+			(MongoDB Core Server, Evergreen, Confluence Server &
+			Data Center, Jira Server & Data Center) and the other two
+			are Bugzilla-based (GCC and Wireshark). We observed that a
+			considerable amount of bug tracking process smells exist in all
+			projects with varying ratios.
+		</div>
+        </div>
+    </li>	
+	<br>
 	<li>
         <div style="text-align: justify">
-            <a href="">A review of code reviewer recommendation studies: Challenges and future directions</a>
+            <a href="">A Review of Code Reviewer Recommendation Studies: Challenges and Future Directions</a>
             <br><i>H. Alperen Cetin, Emre Doğan, Eray Tüzün</i>
             <br>Science of Computer Programming Journal 2021
 			<br><button data-toggle="collapse" data-target="#demo22">See Abstract</button><br>
