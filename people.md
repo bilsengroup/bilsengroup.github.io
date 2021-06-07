@@ -18,11 +18,11 @@ graduate-students:
     github: https://github.com/barisardic
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    desc:  BSc from Computer Science, Bilkent University and MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
+    website: https://www.linkedin.com/in/utkuunalcs/
+    url: https://www.linkedin.com/in/utkuunalcs/
+    github: https://github.com/utkuunalCS
+    twitter: https://twitter.com/utkuunal_
   - name: Shirin Pirouzkhah
     img: /img/people/shirinpirouzkhah.jpg
     desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics
@@ -31,11 +31,11 @@ graduate-students:
     github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
     img: /img/people/aliqamar.jpeg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    desc: BSc from National University of Science & Technology (NUST), <br> Bus Tracking Process Smells
+    website: https://www.linkedin.com/in/khushbakht-ali-422959110/
+    url: https://www.linkedin.com/in/khushbakht-ali-422959110/
+    github: https://github.com/khushbakhtali
+    twitter: https://twitter.com/khushbakhtali
   - name: Emre Sülün
     img: /img/people/emresülün.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
@@ -64,25 +64,25 @@ graduate-students:
     github: https://github.com/ahmed-umair
 research-volunteers:
   - name: Berfin Küçük
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/berfinkucuk.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Characterization of duplicate bugs.
+    website: https://tr.linkedin.com/in/berfinkucuk
+    url: https://tr.linkedin.com/in/berfinkucuk
+    github: https://github.com/berfinkucuk
+    twitter: https://tr.linkedin.com/in/berfinkucuk
   - name: Cansu Moran
     img: /img/people/cansumoran.jpg
-    desc: Ongoing BSc in Bilkent University. <br> Systematic labelling bias in defect management
+    desc: Ongoing BSc in Bilkent University. <br> Systematic labelling bias in defect management.
     website: https://www.linkedin.com/in/cansu-moran/
     url: https://www.linkedin.com/in/cansu-moran/
     github: https://github.com/cansumoran
   - name: Ata Yurtsever
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/atayurtsever.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Design Patterns Education, Interactive Learning
+    website: https://www.linkedin.com/in/atayurtsever/
+    url: https://www.linkedin.com/in/atayurtsever/
+    github: https://github.com/AtaYurtsever
+    twitter: https://twitter.com/atayrs
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
     desc: Ongoing BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
@@ -104,11 +104,11 @@ research-volunteers:
     github: https://github.com/ayberktecimer
     twitter: https://twitter.com/AyberkTecimer
   - name: Olcaytu Gürkan
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
+    img: /img/people/olcaytugurkan.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Comment Smells
+    website: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
+    url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
+    github: https://github.com/olcaytu-gurkan
     twitter: https://twitter.com/eraytuzun
   - name: Bartu Atabek
     img: /img/people/none.jpg
@@ -133,12 +133,11 @@ part-time-engineers:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Mustafa Yaşar
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/mustafayasar.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
+    website: www.linkedin.com/in/mustafayasar2828
+    url: www.linkedin.com/in/mustafayasar2828
+    github: https://github.com/mustafayasar28
   - name: Ayberk Yaşa
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -191,12 +190,11 @@ former-members:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Kaan Ünlü
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/kaanunlu.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Gamification and Human Computer Interaction
+    website: https://kaanunlu.cargo.site/
+    url: https://kaanunlu.cargo.site/
+    github: https://github.com/Paledomain
   - name: Doren Calliku
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
@@ -205,12 +203,12 @@ former-members:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Zeynep Cankara
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/zeynepcankara.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Eliminating Systematic Bias in Bug Assignment Studies.
+    website: https://www.linkedin.com/in/zeynep-cankara/
+    url: https://www.linkedin.com/in/zeynep-cankara/
+    github: https://github.com/zeynepCankara
+    twitter: https://twitter.com/ZeynepCankara
   - name: Emre Doğan, MSc
     img: /img/people/none.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
