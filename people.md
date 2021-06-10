@@ -181,12 +181,11 @@ former-members:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: İrem Yurdakul
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/iremyurdakul.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
+    website: https://www.linkedin.com/in/iremyurdakul96/
+    url: https://www.linkedin.com/in/iremyurdakul96/
+    github: https://github.com/iremyurdakul
   - name: Kaan Ünlü
     img: /img/people/kaanunlu.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Gamification and Human Computer Interaction
