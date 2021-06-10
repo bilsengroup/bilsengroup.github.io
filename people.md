@@ -119,19 +119,18 @@ research-volunteers:
     twitter: https://twitter.com/eraytuzun
 part-time-engineers:
   - name: Emre Açıkgöz
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/emreacikgoz.jpg
+    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
+    website: https://www.linkedin.com/in/emrez/
+    url: https://www.linkedin.com/in/emrez/
+    github: https://github.com/emrez
   - name: Işık Özsoy
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/isikozsoy.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/isikozsoy
+    url: https://www.linkedin.com/in/isikozsoy
+    github: https://www.github.com/isikozsoy
+    twitter: https://www.twitter.com/isikozsoy
   - name: Mustafa Yaşar
     img: /img/people/mustafayasar.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
@@ -139,12 +138,11 @@ part-time-engineers:
     url: www.linkedin.com/in/mustafayasar2828
     github: https://github.com/mustafayasar28
   - name: Ayberk Yaşa
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/ayberkyasa.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
+    website: https://www.linkedin.com/in/ayberkyasa/
+    url: https://www.linkedin.com/in/ayberkyasa/
+    github: https://github.com/ayberkyasa
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
@@ -168,12 +166,12 @@ summer-interns:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
   - name: Yusuf Avcı
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/yusufavci.jpg
+    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Engineering Education and Serious Games
+    website: https://www.linkedin.com/in/yusuf-avci/
+    url: https://www.linkedin.com/in/yusuf-avci/
+    github: https://github.com/yusufavci99
+    twitter: https://twitter.com/_yusuf_avci_
 former-members:
   - name: Bedir Tekinerdoğan
     img: /img/people/none.jpg
@@ -210,12 +208,12 @@ former-members:
     github: https://github.com/zeynepCankara
     twitter: https://twitter.com/ZeynepCankara
   - name: Emre Doğan, MSc
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/emredogan.jpg
+    desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering​ <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
+    website: https://www.linkedin.com/in/emredogan7/
+    url: https://www.linkedin.com/in/emredogan7/
+    github: https://github.com/emredogan7
+    twitter: https://twitter.com/mrdogan7
   - name: Hamdi Alperen Çetin, MSc
     img: /img/people/alperencetin.jpg
     desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology <br> Artifact Traceability Graphs and Identifying Key Developers
