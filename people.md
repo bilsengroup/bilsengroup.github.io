@@ -1,6 +1,6 @@
 ---
 title: People
-subtitle: Members of Bilsen
+subtitle: Members of BILSEN
 PI:
   - name: Eray Tüzün 
     img: /img/people/eraytuzun.jpg
@@ -31,7 +31,7 @@ graduate-students:
     github: https://github.com/shirinpirouzkhaah
   - name: Khushbakht Ali
     img: /img/people/aliqamar.jpeg
-    desc: BSc from National University of Science & Technology (NUST), <br> Bus Tracking Process Smells
+    desc: BSc from National University of Science & Technology (NUST), <br> Bug Tracking Process Smells
     website: https://www.linkedin.com/in/khushbakht-ali-422959110/
     url: https://www.linkedin.com/in/khushbakht-ali-422959110/
     github: https://github.com/khushbakhtali
@@ -44,7 +44,7 @@ graduate-students:
     github: https://github.com/sulunemre
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: BSc from Izmir Institude of Technology, my research areas are source code analysis, NLP, bus factor in SE. 
+    desc: BSc from Izmir Institude of Technolog  <br> NLP, bus factor in SE. 
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
@@ -175,7 +175,7 @@ summer-interns:
 former-members:
   - name: Bedir Tekinerdoğan
     img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
+    desc: Former PI
     website: https://www.eraytuzun.com/
     url: https://www.eraytuzun.com/
     github: https://github.com/eraytuzun
