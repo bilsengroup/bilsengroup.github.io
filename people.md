@@ -111,12 +111,12 @@ research-volunteers:
     github: https://github.com/olcaytu-gurkan
     twitter: https://twitter.com/eraytuzun
   - name: Bartu Atabek
-    img: /img/people/none.jpg
+    img: /img/people/bartuatabek.jpg
     desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    website: https://www.linkedin.com/in/bartu-atabek
+    url: https://www.linkedin.com/in/bartu-atabek
+    github: https://github.com/bartuatabek
+    twitter: https://twitter.com/baatabek
 part-time-engineers:
   - name: Emre Açıkgöz
     img: /img/people/emreacikgoz.jpg
