@@ -5,7 +5,20 @@ image: /img/logo.png
 ---
 
 <ul>
-<li>
+	<li>
+		<div style="text-align: justify">
+			<a href="https://www.researchgate.net/publication/352106199_Detection_and_Elimination_of_Systematic_Labeling_Bias_in_Code_Reviewer_Recommendation_Systems">Detection and Elimination of Systematic Labeling Bias in Code Reviewer Recommendation Systems</a>
+			<br><i>Kazım Ayberk Tecimer, Eray Tüzün, Eray Tüzün, Hamdi Dibeklioğlu, Hakan Erdogmus</i>
+			<br>The International Conference on Evaluation and Assessment in Software Engineering (EASE 2021)
+			<br><button data-toggle="collapse" data-target="#demo24">See Abstract</button><br>
+
+			<div id="demo24" class="collapse">
+			Reviewer selection in modern code review is crucial for effective code reviews. Several techniques exist for recommending reviewers appropriate for a given pull request (PR). Most code reviewer recommendation techniques in the literature build and evaluate their models based on datasets collected from real projects using open-source or industrial practices. The techniques invariably presume that these datasets reliably represent the "ground truth. " In the context of a classification problem, ground truth refers to the objectively correct labels of a class used to build models from a dataset or evaluate a model's performance. In a project dataset used to build a code reviewer recommendation system, the recommended code reviewer picked for a PR is usually assumed to be the best code reviewer for that PR. However, in practice, the recommended code reviewer may not be the best possible code reviewer, or even a qualified one. Recent code reviewer recommendation studies suggest that the datasets used tend to suffer from systematic labeling bias, making the ground truth unreliable. Therefore, models and recommendation systems built on such datasets may perform poorly in real practice. In this study, we introduce a novel approach to automatically detect and eliminate systematic labeling bias in code reviewer recommendation systems. The bias that we remove results from selecting reviewers that do not ensure a permanently successful fix for a bug-related PR. To demonstrate the effectiveness of our approach, we evaluated it on two open-source project datasets-HIVE and QT Creator-and with five code reviewer recommendation techniques-Profile-Based, RSTrace, Naive Bayes, k-NN, and Decision Tree. Our debiasing approach appears promising since it improved the Mean Reciprocal Rank (MRR) of the evaluated techniques up to 26% in the datasets used.
+			</div>
+		</div>
+    </li>
+	<br>	
+	<li>
         <div style="text-align: justify">
             <a href="">Towards a Taxonomy of Bug Tracking Process Smells: A Quantitative Analysis</a>
             <br><i>Khushbakht Ali Qamar, Emre Sülün, Eray Tüzün</i>
