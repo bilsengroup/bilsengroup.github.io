@@ -152,19 +152,17 @@ summer-interns:
     github: https://github.com/FatihSevbanUyanik
     twitter: https://twitter.com/SevbanUyan
   - name: Büşra Büyükgebiz
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/busrabuyukgebiz.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells
+    website: https://www.linkedin.com/in/busrabuyukgebiz
+    url: https://www.linkedin.com/in/busrabuyukgebiz
+    github: https://www.github.com/busrabgz
   - name: Ozan Aydın
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    img: /img/people/ozanaydin.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells
+    website: https://www.linkedin.com/in/ozanaydin99/
+    url: https://www.linkedin.com/in/ozanaydin99/
+    github: https://github.com/Ozanaydinn
   - name: Yusuf Avcı
     img: /img/people/yusufavci.jpg
     desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Engineering Education and Serious Games
