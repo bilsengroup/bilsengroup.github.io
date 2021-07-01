@@ -174,10 +174,10 @@ former-members:
   - name: Bedir Tekinerdoğan
     img: /img/people/none.jpg
     desc: Former PI
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
+    website: https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm
+    url: https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm
+    github: https://github.com/bedir-t
+    twitter: https://twitter.com/bedritek?lang=en
   - name: İrem Yurdakul
     img: /img/people/iremyurdakul.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
@@ -190,13 +190,6 @@ former-members:
     website: https://kaanunlu.cargo.site/
     url: https://kaanunlu.cargo.site/
     github: https://github.com/Paledomain
-  - name: Doren Calliku
-    img: /img/people/none.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.eraytuzun.com/
-    url: https://www.eraytuzun.com/
-    github: https://github.com/eraytuzun
-    twitter: https://twitter.com/eraytuzun
   - name: Zeynep Cankara
     img: /img/people/zeynepcankara.jpg
     desc: BSc from Computer Science, Bilkent University <br> Eliminating Systematic Bias in Bug Assignment Studies.
