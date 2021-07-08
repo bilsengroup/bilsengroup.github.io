@@ -111,12 +111,12 @@ research-volunteers:
     github: https://github.com/olcaytu-gurkan
     twitter: https://twitter.com/eraytuzun
   - name: Bartu Atabek
-    img: /img/people/bartuatabek.jpg
-    desc: This bio is a placeholder and will be updated once the member provides their bio.
-    website: https://www.linkedin.com/in/bartu-atabek
-    url: https://www.linkedin.com/in/bartu-atabek
-    github: https://github.com/bartuatabek
-    twitter: https://twitter.com/baatabek
+    img: /img/people/oguzhandere.jpg
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
+    website: https://www.linkedin.com/in/osandere/
+    url: https://www.linkedin.com/in/osandere/
+    github: https://github.com/oguzhandere2
+    twitter: https://twitter.com/oguzcukustum
 part-time-engineers:
   - name: Emre Açıkgöz
     img: /img/people/emreacikgoz.jpg
@@ -210,6 +210,13 @@ former-members:
     website: https://www.linkedin.com/in/hacetin/
     url: https://www.linkedin.com/in/hacetin/
     github: https://github.com/hacetin
+  - name: Bartu Atabek
+    img: /img/people/bartuatabek.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Code Review Visualization & Human Computer Interaction
+    website: https://www.linkedin.com/in/bartu-atabek
+    url: https://www.linkedin.com/in/bartu-atabek
+    github: https://github.com/bartuatabek
+    twitter: https://twitter.com/baatabek
 ---
 
 {% include list-circles.html items=page.PI%}
