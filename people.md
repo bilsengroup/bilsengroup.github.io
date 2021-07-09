@@ -110,7 +110,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
     github: https://github.com/olcaytu-gurkan
     twitter: https://twitter.com/eraytuzun
-  - name: Bartu Atabek
+  - name: Oguzhan Dere
     img: /img/people/oguzhandere.jpg
     desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
     website: https://www.linkedin.com/in/osandere/
