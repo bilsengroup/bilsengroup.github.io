@@ -117,6 +117,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/osandere/
     github: https://github.com/oguzhandere2
     twitter: https://twitter.com/oguzcukustum
+  - name: Burak Yetiştiren
+    img: /img/people/burakyetistiren.jpg
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
+    website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
+    url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
+    github: https://github.com/burakyetistiren
 part-time-engineers:
   - name: Emre Açıkgöz
     img: /img/people/emreacikgoz.jpg
