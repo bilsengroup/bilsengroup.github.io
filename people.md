@@ -119,7 +119,7 @@ research-volunteers:
     twitter: https://twitter.com/oguzcukustum
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
