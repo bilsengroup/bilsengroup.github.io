@@ -7,6 +7,19 @@ image: /img/logo.png
 <ul>
 	<li>
 		<div style="text-align: justify">
+			<a href="https://ieeexplore.ieee.org/abstract/document/9491146">Ground Truth Deficiencies in Software Engineering: When Codifying the Past Can be Counterproductive</a>
+			<br><i>E. Tüzün, H. Erdogmus, M. T. Baldassarre, M. Felderer, R. Feldt and B. Turhan</i>
+			<br>IEEE Software 
+			<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
+
+			<div id="demo25" class="collapse">
+			Many software engineering tools build and evaluate their models based on historical data to support development and process decisions. These models help us answer numerous interesting questions, but have their own caveats. In a real-life setting, the objective function of human decision-makers for a given task might be influenced by a whole host of factors that stem from their cognitive biases, subverting the ideal objective function required for an optimally functioning system. Relying on this data as ground truth may give rise to systems that end up automating software engineering decisions by mimicking past sub-optimal behaviour. We illustrate this phenomenon and suggest mitigation strategies to raise awareness.
+			</div>
+		</div>
+    </li>
+	<br>
+	<li>
+		<div style="text-align: justify">
 			<a href="https://www.researchgate.net/publication/352106199_Detection_and_Elimination_of_Systematic_Labeling_Bias_in_Code_Reviewer_Recommendation_Systems">Detection and Elimination of Systematic Labeling Bias in Code Reviewer Recommendation Systems</a>
 			<br><i>Kazım Ayberk Tecimer, Eray Tüzün, Eray Tüzün, Hamdi Dibeklioğlu, Hakan Erdogmus</i>
 			<br>The International Conference on Evaluation and Assessment in Software Engineering (EASE 2021)
