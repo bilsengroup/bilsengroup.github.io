@@ -103,13 +103,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/ayberktecimer/
     github: https://github.com/ayberktecimer
     twitter: https://twitter.com/AyberkTecimer
-  - name: Olcaytu Gürkan
-    img: /img/people/olcaytugurkan.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Code Comment Smells
-    website: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
-    url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
-    github: https://github.com/olcaytu-gurkan
-    twitter: https://twitter.com/eraytuzun
   - name: Oguzhan Dere
     img: /img/people/oguzhandere.jpg
     desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
@@ -223,6 +216,13 @@ former-members:
     url: https://www.linkedin.com/in/bartu-atabek
     github: https://github.com/bartuatabek
     twitter: https://twitter.com/baatabek
+  - name: Olcaytu Gürkan
+    img: /img/people/olcaytugurkan.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Comment Smells
+    website: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
+    url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
+    github: https://github.com/olcaytu-gurkan
+    twitter: https://twitter.com/eraytuzun
 ---
 
 {% include list-circles.html items=page.PI%}
