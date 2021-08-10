@@ -7,6 +7,19 @@ image: /img/logo.png
 <ul>
 	<li>
 		<div style="text-align: justify">
+			<a href="https://ieeexplore.ieee.org/abstract/document/9496156/authors">What Makes Agile Software Development Agile</a>
+			<br><i>M Kuhrmann,P Tell,R Hebig,J Ann-Christin Klunder,J Munch,O Linssen,D Pfahl,M Felderer,C Prause,S Macdonell,J Nakatumba-Nabende,D Raffo,S Beecham,E Tuzun,G Lopez,N Paez,D Fontdevila,S Licorish,S Kupper,G Ruhe,E Knauss,O Ozcan-Top,P Clarke,F Hugh Mc Caffery,M Genero,A Vizcaino,M Piattini,M Kalinowski,T Conte,R Prikladnicki,S Krusche,A Coskuncay,E Scott,F Calefato,S Pimonova,R Pfeiffer,U Pagh Schultz,R Heldal,M Fazal-Baqaie,C Anslow,M Nayebi,K Schneider,S Sauer,D Winkler,S Biffl,C Bastarrica,I Richardson
+</i>
+			<br>IEEE Transactions on Software Engineering 
+			<br><button data-toggle="collapse" data-target="#demo26">See Abstract</button><br>
+
+			<div id="demo26" class="collapse">
+			Together with many success stories, promises such as the increase in production speed and the improvement in stakeholders' collaboration have contributed to making agile a transformation in the software industry in which many companies want to take part. However, driven either by a natural and expected evolution or by contextual factors that challenge the adoption of agile methods as prescribed by their creator(s), software processes in practice mutate into hybrids over time. Are these still agile In this article, we investigate the question: what makes a software development method agile We present an empirical study grounded in a large-scale international survey that aims to identify software development methods and practices that improve or tame agility. Based on 556 data points, we analyze the perceived degree of agility in the implementation of standard project disciplines and its relation to used development methods and practices. Our findings suggest that only a small number of participants operate their projects in a purely traditional or agile manner (under 15%). That said, most project disciplines and most practices show a clear trend towards increasing degrees of agility. Compared to the methods used to develop software, the selection of practices has a stronger effect on the degree of agility of a given discipline. Finally, there are no methods or practices that explicitly guarantee or prevent agility. We conclude that agility cannot be defined solely at the process level. Additional factors need to be taken into account when trying to implement or improve agility in a software company. Finally, we discuss the field of software process-related research in the light of our findings and present a roadmap for future research.</div>
+		</div>
+    </li>
+	<br>
+	<li>
+		<div style="text-align: justify">
 			<a href="https://ieeexplore.ieee.org/abstract/document/9491146">Ground Truth Deficiencies in Software Engineering: When Codifying the Past Can be Counterproductive</a>
 			<br><i>E. Tüzün, H. Erdogmus, M. T. Baldassarre, M. Felderer, R. Feldt and B. Turhan</i>
 			<br>IEEE Software 
