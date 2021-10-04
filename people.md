@@ -10,12 +10,6 @@ PI:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
 graduate-students:
-  - name: Barış Ardıç
-    img: /img/people/barisardic.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
-    website: https://www.linkedin.com/in/barisardic/
-    url: https://github.com/barisardic
-    github: https://github.com/barisardic
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
     desc:  BSc from Computer Science, Bilkent University and MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
@@ -89,13 +83,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/aydayurtoglu/
     url: https://www.linkedin.com/in/aydayurtoglu/
     github: https://github.com/aydayurtoglu
-  - name: Yahya Elnouby
-    img: /img/people/yahyaelnoubly.jpg
-    desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
-    website: https://www.linkedin.com/in/yahyaelnouby/
-    url: https://www.linkedin.com/in/yahyaelnouby/
-    github: https://github.com/YahyaElnouby
-    twitter: https://twitter.com/Yahya_Elnouby26
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
@@ -223,6 +210,19 @@ former-members:
     url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
     github: https://github.com/olcaytu-gurkan
     twitter: https://twitter.com/eraytuzun
+  - name: Barış Ardıç
+    img: /img/people/barisardic.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
+    website: https://www.linkedin.com/in/barisardic/
+    url: https://github.com/barisardic
+    github: https://github.com/barisardic
+  - name: Yahya Elnouby
+    img: /img/people/yahyaelnoubly.jpg
+    desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
+    website: https://www.linkedin.com/in/yahyaelnouby/
+    url: https://www.linkedin.com/in/yahyaelnouby/
+    github: https://github.com/YahyaElnouby
+    twitter: https://twitter.com/Yahya_Elnouby26
 ---
 
 {% include list-circles.html items=page.PI%}
