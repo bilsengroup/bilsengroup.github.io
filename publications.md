@@ -8,7 +8,7 @@ image: /img/logo.png
 	<li>
 		<div style="text-align: justify">
 			<a href="https://ieeexplore.ieee.org/abstract/document/9496156/authors">What Makes Agile Software Development Agile</a>
-			<br><i>M Kuhrmann,P Tell,R Hebig,J Ann-Christin Klunder,J Munch,O Linssen,D Pfahl,M Felderer,C Prause,S Macdonell,J Nakatumba-Nabende,D Raffo,S Beecham,E Tuzun,G Lopez,N Paez,D Fontdevila,S Licorish,S Kupper,G Ruhe,E Knauss,O Ozcan-Top,P Clarke,F Hugh Mc Caffery,M Genero,A Vizcaino,M Piattini,M Kalinowski,T Conte,R Prikladnicki,S Krusche,A Coskuncay,E Scott,F Calefato,S Pimonova,R Pfeiffer,U Pagh Schultz,R Heldal,M Fazal-Baqaie,C Anslow,M Nayebi,K Schneider,S Sauer,D Winkler,S Biffl,C Bastarrica,I Richardson
+			<br><i>M. Kuhrmann,P Tell,R Hebig,J Ann-Christin Klunder,J Munch,O Linssen,D Pfahl,M Felderer,C Prause,S Macdonell,J Nakatumba-Nabende,D Raffo,S Beecham,E. Tuzun,G Lopez,N Paez,D Fontdevila,S Licorish,S Kupper,G Ruhe,E Knauss,O Ozcan-Top,P Clarke,F Hugh Mc Caffery,M Genero,A Vizcaino,M Piattini,M Kalinowski,T Conte,R Prikladnicki,S Krusche,A Coskuncay,E Scott,F Calefato,S Pimonova,R Pfeiffer,U Pagh Schultz,R Heldal,M Fazal-Baqaie,C Anslow,M Nayebi,K Schneider,S Sauer,D Winkler,S Biffl,C Bastarrica,I Richardson
 </i>
 			<br>IEEE Transactions on Software Engineering 
 			<br><button data-toggle="collapse" data-target="#demo26">See Abstract</button><br>
