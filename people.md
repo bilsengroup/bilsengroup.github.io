@@ -58,7 +58,7 @@ graduate-students:
     github: https://github.com/ahmed-umair
   - name: İdil Hanhan
     img: /img/people/idil.jpg
-    desc:  BSc from Computer Engineering, Bilkent University <br> Software analytics
+    desc: BSc from Computer Engineering, Bilkent University <br> Software analytics
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
