@@ -96,13 +96,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/ayberktecimer/
     github: https://github.com/ayberktecimer
     twitter: https://twitter.com/AyberkTecimer
-  - name: Oguzhan Dere
-    img: /img/people/oguzhandere.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
-    website: https://www.linkedin.com/in/osandere/
-    url: https://www.linkedin.com/in/osandere/
-    github: https://github.com/oguzhandere2
-    twitter: https://twitter.com/oguzcukustum
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
     desc: Ongoing BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
@@ -224,7 +217,7 @@ former-members:
     twitter: https://twitter.com/eraytuzun
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
+    desc: MSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
@@ -235,6 +228,13 @@ former-members:
     url: https://www.linkedin.com/in/yahyaelnouby/
     github: https://github.com/YahyaElnouby
     twitter: https://twitter.com/Yahya_Elnouby26
+  - name: Oguzhan Dere
+    img: /img/people/oguzhandere.jpg
+    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
+    website: https://www.linkedin.com/in/osandere/
+    url: https://www.linkedin.com/in/osandere/
+    github: https://github.com/oguzhandere2
+    twitter: https://twitter.com/oguzcukustum
 ---
 
 {% include list-circles.html items=page.PI%}
