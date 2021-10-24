@@ -109,6 +109,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
+  - name: Muhammet Abdullah Koç
+    img: /img/people/koc.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
+    url: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
+    github: https://github.com/abdullah-koc
 part-time-engineers:
   - name: Emre Açıkgöz
     img: /img/people/emreacikgoz.jpg
