@@ -56,8 +56,8 @@ graduate-students:
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
-  - name: İdil
-    img: /img/people/idil.png
+  - name: İdil Hanhan
+    img: /img/people/idil.jpg
     desc:  BSc from Computer Engineering, Bilkent University <br> Software analytics
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url:https://www.linkedin.com/in/idil-hanhan-14ba6713b/
