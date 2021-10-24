@@ -108,13 +108,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
     url: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
     github: https://github.com/abdullah-koc
-part-time-engineers:
-  - name: Emre Açıkgöz
-    img: /img/people/emreacikgoz.jpg
-    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
-    website: https://www.linkedin.com/in/emrez/
-    url: https://www.linkedin.com/in/emrez/
-    github: https://github.com/emrez
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
@@ -122,12 +115,14 @@ part-time-engineers:
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
     twitter: https://www.twitter.com/isikozsoy
-  - name: Mustafa Yaşar
-    img: /img/people/mustafayasar.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
-    website: www.linkedin.com/in/mustafayasar2828
-    url: www.linkedin.com/in/mustafayasar2828
-    github: https://github.com/mustafayasar28
+part-time-engineers:
+  - name: Işık Özsoy
+    img: /img/people/isikozsoy.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/isikozsoy
+    url: https://www.linkedin.com/in/isikozsoy
+    github: https://www.github.com/isikozsoy
+    twitter: https://www.twitter.com/isikozsoy
   - name: Ayberk Yaşa
     img: /img/people/ayberkyasa.jpg
     desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
@@ -235,6 +230,18 @@ former-members:
     url: https://www.linkedin.com/in/osandere/
     github: https://github.com/oguzhandere2
     twitter: https://twitter.com/oguzcukustum
+  - name: Emre Açıkgöz
+    img: /img/people/emreacikgoz.jpg
+    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
+    website: https://www.linkedin.com/in/emrez/
+    url: https://www.linkedin.com/in/emrez/
+    github: https://github.com/emrez
+  - name: Mustafa Yaşar
+    img: /img/people/mustafayasar.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
+    website: www.linkedin.com/in/mustafayasar2828
+    url: www.linkedin.com/in/mustafayasar2828
+    github: https://github.com/mustafayasar28
 ---
 
 {% include list-circles.html items=page.PI%}
