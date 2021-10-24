@@ -62,7 +62,6 @@ graduate-students:
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url:https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
-    
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/berfinkucuk.jpg
