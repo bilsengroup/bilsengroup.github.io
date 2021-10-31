@@ -102,12 +102,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
-  - name: Muhammet Abdullah Koç
-    img: /img/people/koc.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
-    website: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
-    url: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
-    github: https://github.com/abdullah-koc
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
@@ -129,6 +123,18 @@ part-time-engineers:
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
+  - name: Muhammet Abdullah Koç
+    img: /img/people/koc.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
+    url: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
+    github: https://github.com/abdullah-koc
+  - name: Eylül Çağlar
+    img: /img/people/Eylul.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/eylulcaglar
+    url: https://www.linkedin.com/in/eylulcaglar
+    github: https://github.com/eylulcaglar
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
