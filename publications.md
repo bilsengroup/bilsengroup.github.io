@@ -3,20 +3,136 @@ layout: post
 title: Publications
 image: /img/logo.png
 ---
+
 <ul>
+	<li>
+		<div style="text-align: justify">
+			<a href="https://ieeexplore.ieee.org/abstract/document/9496156/authors">What Makes Agile Software Development Agile</a>
+			<br><i>M. Kuhrmann,P Tell,R Hebig,J Ann-Christin Klunder,J Munch,O Linssen,D Pfahl,M Felderer,C Prause,S Macdonell,J Nakatumba-Nabende,D Raffo,S Beecham,E. Tuzun,G Lopez,N Paez,D Fontdevila,S Licorish,S Kupper,G Ruhe,E Knauss,O Ozcan-Top,P Clarke,F Hugh Mc Caffery,M Genero,A Vizcaino,M Piattini,M Kalinowski,T Conte,R Prikladnicki,S Krusche,A Coskuncay,E Scott,F Calefato,S Pimonova,R Pfeiffer,U Pagh Schultz,R Heldal,M Fazal-Baqaie,C Anslow,M Nayebi,K Schneider,S Sauer,D Winkler,S Biffl,C Bastarrica,I Richardson
+</i>
+			<br>IEEE Transactions on Software Engineering 
+			<br><button data-toggle="collapse" data-target="#demo26">See Abstract</button><br>
+
+    		<div id="demo26" class="collapse">
+    		Together with many success stories, promises such as the increase in production speed and the improvement in stakeholders' collaboration have contributed to making agile a transformation in the software industry in which many companies want to take part. However, driven either by a natural and expected evolution or by contextual factors that challenge the adoption of agile methods as prescribed by their creator(s), software processes in practice mutate into hybrids over time. Are these still agile In this article, we investigate the question: what makes a software development method agile We present an empirical study grounded in a large-scale international survey that aims to identify software development methods and practices that improve or tame agility. Based on 556 data points, we analyze the perceived degree of agility in the implementation of standard project disciplines and its relation to used development methods and practices. Our findings suggest that only a small number of participants operate their projects in a purely traditional or agile manner (under 15%). That said, most project disciplines and most practices show a clear trend towards increasing degrees of agility. Compared to the methods used to develop software, the selection of practices has a stronger effect on the degree of agility of a given discipline. Finally, there are no methods or practices that explicitly guarantee or prevent agility. We conclude that agility cannot be defined solely at the process level. Additional factors need to be taken into account when trying to implement or improve agility in a software company. Finally, we discuss the field of software process-related research in the light of our findings and present a roadmap for future research.</div>
+    	</div>
+    </li>
+    <br>
+    <li>
+    	<div style="text-align: justify">
+    		<a href="https://ieeexplore.ieee.org/abstract/document/9491146">Ground Truth Deficiencies in Software Engineering: When Codifying the Past Can be Counterproductive</a>
+    		<br><i>E. Tüzün, H. Erdogmus, M. T. Baldassarre, M. Felderer, R. Feldt and B. Turhan</i>
+    		<br>IEEE Software
+    		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
+
+    		<div id="demo25" class="collapse">
+    		Many software engineering tools build and evaluate their models based on historical data to support development and process decisions. These models help us answer numerous interesting questions, but have their own caveats. In a real-life setting, the objective function of human decision-makers for a given task might be influenced by a whole host of factors that stem from their cognitive biases, subverting the ideal objective function required for an optimally functioning system. Relying on this data as ground truth may give rise to systems that end up automating software engineering decisions by mimicking past sub-optimal behaviour. We illustrate this phenomenon and suggest mitigation strategies to raise awareness.
+    		</div>
+    	</div>
+    </li>
+    <br>
+    <li>
+    	<div style="text-align: justify">
+    		<a href="https://www.researchgate.net/publication/352106199_Detection_and_Elimination_of_Systematic_Labeling_Bias_in_Code_Reviewer_Recommendation_Systems">Detection and Elimination of Systematic Labeling Bias in Code Reviewer Recommendation Systems</a>
+    		<br><i>Kazım Ayberk Tecimer, Eray Tüzün, Eray Tüzün, Hamdi Dibeklioğlu, Hakan Erdogmus</i>
+    		<br>The International Conference on Evaluation and Assessment in Software Engineering (EASE 2021)
+    		<br><button data-toggle="collapse" data-target="#demo24">See Abstract</button><br>
+
+    		<div id="demo24" class="collapse">
+    		Reviewer selection in modern code review is crucial for effective code reviews. Several techniques exist for recommending reviewers appropriate for a given pull request (PR). Most code reviewer recommendation techniques in the literature build and evaluate their models based on datasets collected from real projects using open-source or industrial practices. The techniques invariably presume that these datasets reliably represent the "ground truth. " In the context of a classification problem, ground truth refers to the objectively correct labels of a class used to build models from a dataset or evaluate a model's performance. In a project dataset used to build a code reviewer recommendation system, the recommended code reviewer picked for a PR is usually assumed to be the best code reviewer for that PR. However, in practice, the recommended code reviewer may not be the best possible code reviewer, or even a qualified one. Recent code reviewer recommendation studies suggest that the datasets used tend to suffer from systematic labeling bias, making the ground truth unreliable. Therefore, models and recommendation systems built on such datasets may perform poorly in real practice. In this study, we introduce a novel approach to automatically detect and eliminate systematic labeling bias in code reviewer recommendation systems. The bias that we remove results from selecting reviewers that do not ensure a permanently successful fix for a bug-related PR. To demonstrate the effectiveness of our approach, we evaluated it on two open-source project datasets-HIVE and QT Creator-and with five code reviewer recommendation techniques-Profile-Based, RSTrace, Naive Bayes, k-NN, and Decision Tree. Our debiasing approach appears promising since it improved the Mean Reciprocal Rank (MRR) of the evaluated techniques up to 26% in the datasets used.
+    		</div>
+    	</div>
+    </li>
+    <br>
+    <li>
+        <div style="text-align: justify">
+            <a href="https://ieeexplore.ieee.org/document/9582562">Towards a Taxonomy of Bug Tracking Process Smells: A Quantitative Analysis</a>
+            <br><i>Khushbakht Ali Qamar, Emre Sülün, Eray Tüzün</i>
+            <br>EuroMicro 2021
+    		<br><button data-toggle="collapse" data-target="#demo23">See Abstract</button><br>
+
+    		<div id="demo23" class="collapse">
+    		Code review is the process of inspecting code changes by a developer who is not involved in the development of the changeset. One of the initial and important steps of code review process is selecting code reviewer(s) for a given code change. To maximize the benefits of the code review process, the appropriate selection of the reviewer is essential. Code reviewer recommendation has been an active research area over the last few years, and many recommendation models have been proposed in the literature.
+    		<br>
+    		Bug tracking is the process of monitoring and
+    		reporting malfunctions or issues found in software. While there is
+    		no consensus on a formally specified bug tracking process, some
+    		certain rules and best practices for an optimal bug tracking
+    		process are accepted by many companies and open-source software
+    		(OSS) projects. Despite slight variations between different
+    		platforms, the primary aim of all these rules and practices is to
+    		perform a more efficient bug tracking process. Practitioners' noncompliance
+    		with the best practices not only impedes the benefits
+    		of the bug tracking process but also negatively affects the other
+    		phases of the life cycle of software development.
+    		In this study, based on the results of a multivocal literature
+    		review, we analyzed 60 sources in academic and gray literature
+    		and propose a taxonomy of 12 bad practices in the bug tracking
+    		process, that is bug tracking process smells. To quantitatively
+    		analyze these process smells, we inspect bug reports collected
+    		from six projects. Among these projects, four of them are Jirabased
+    		(MongoDB Core Server, Evergreen, Confluence Server &
+    		Data Center, Jira Server & Data Center) and the other two
+    		are Bugzilla-based (GCC and Wireshark). We observed that a
+    		considerable amount of bug tracking process smells exist in all
+    		projects with varying ratios.
+    	</div>
+        </div>
+    </li>
+    <br>
+    <li>
+        <div style="text-align: justify">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167642321000459">A Review of Code Reviewer Recommendation Studies: Challenges and Future Directions</a>
+            <br><i>H. Alperen Cetin, Emre Doğan, Eray Tüzün</i>
+            <br>Science of Computer Programming Journal 2021
+    		<br><button data-toggle="collapse" data-target="#demo22">See Abstract</button><br>
+
+    		<div id="demo22" class="collapse">
+    		Code review is the process of inspecting code changes by a developer who is not involved in the development of the changeset. One of the initial and important steps of code review process is selecting code reviewer(s) for a given code change. To maximize the benefits of the code review process, the appropriate selection of the reviewer is essential. Code reviewer recommendation has been an active research area over the last few years, and many recommendation models have been proposed in the literature.
+    		<br>
+    		In this study, we conduct a systematic literature review by inspecting 29 primary studies published from 2009 to 2020. Based on the outcomes of our review: (1) most preferred approaches are heuristic approaches closely followed by machine learning approaches, (2) the majority of the studies use open source projects to evaluate their models, (3) the majority of the studies prefer incremental training set validation techniques, (4) most studies suffer from reproducibility problems, (5) model generalizability and dataset integrity are the most common validity threats for the models and (6) refining models and conducting additional experiments are the most common future work discussions in the studies.
+    	</div>
+        </div>
+    </li>
+    <br>
      <li>
         <div style="text-align: justify">
-            <a href="">Characterizing Duplicate Bugs: An Empirical Analysis</a>
+            <a href="https://ieeexplore.ieee.org/document/9426000">Characterizing Duplicate Bugs: An Empirical Analysis</a>
             <br><i>Berfin Küçük, Eray Tüzün</i>
             <br>The Third International Workshop On Intelligent Bug Fixing, 2021
+    		<br><button data-toggle="collapse" data-target="#demo1">See Abstract</button><br>
+
+    		<div id="demo1" class="collapse">
+    		Bug  handling  is  an  essential  part  of  the  softwaredevelopment process. Ideally, in a bug tracking system, bugs arereported,  fixed,  verified,  and  closed.  In  some  cases,  bugs  haveto  be  reopened  mostly  due  to  an  incorrect  fix.  However,  insteadof  reopening  the  existing  bug  report,  users  may  submit  a  newreport on a previously reported bug, which causes duplicate bugreports.  Additionally,  users  might  report  duplicate  bugs  if  theyare unable to reopen the previously reported bugs due to the bugbeing unresolved (i.e., in progress) and when they miss previouslyreported bug reports. These duplicate bug reports may cost extramaintenance  efforts  in  triaging  and  fixing  bugs.There  have  been  several  studies  on  characterizing  reopenedbugs  and  duplicate  bug  reports,  however,  to  the  best  of  ourknowledge,  there  has  been  no  prior  work  on  understanding  thedynamics of their intersection, which ismissed reopenbugs. Ourstudy  is  based  on  analyzing  the  differences  between  duplicateand non-duplicate bugs, and further categorizing the duplicatedbugs.  In  this  regard,  we  categorize  duplicate  bugs  accordingto  their  creation  time  with  respect  to  their  master’s  resolutionstatus  as  Master-Unresolved  bugs  and  Master-Resolved  (MissedReopen  bugs)  to  distinguish  their  properties.  We  compare  thesetwo  different  types  of  bugs  in  terms  of  various  aspects  such  astheir  relationships  to  their  master  bugs,  bug  surface  time,  bugfix  time,  bug’s  severity,  and  the  number  of  users  involved.  Weperform case studies using the Eclipse and Mozilla projects’ bugrepositories  that  include  more  than  165,500  and  394,000  bugreports  respectively.
+
+    	</div>
         </div>
     </li>
         <br>
+
    <li>
         <div style="text-align: justify">
             <a href="https://www.sciencedirect.com/science/article/pii/S0950584920300021">RSTrace+: Reviewer Suggestion using Software Artifact Traceability Graphs</a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>Information and Software Technology, 2020
+			<br><button data-toggle="collapse" data-target="#demo2">See Abstract</button><br>
+
+    		<div id="demo2" class="collapse">
+    		<br>Context:<br>
+    		Various types of artifacts (requirements, source code, test cases, documents, etc.) are produced throughout the lifecycle of a software. These artifacts are connected with each other via traceability links that are stored in modern application lifecycle management repositories. Throughout the lifecycle of a software, various types of changes can arise in any one of these artifacts. It is important to review such changes to minimize their potential negative impacts. To make sure the review is conducted properly, the reviewer(s) should be chosen appropriately.
+
+    		<br>Objective:<br>
+    		We previously introduced a novel approach, named RSTrace, to automatically recommend reviewers that are best suited based on their familiarity with a given artifact. In this study, we introduce an advanced version of RSTrace, named RSTrace+ that accounts for recency information of traceability links including practical tool support for GitHub.
+
+    		<br>Methods:<br>
+    		In this study, we conducted a series of experiments on finding the appropriate code reviewer(s) using RSTrace+ and provided a comparison with the other code reviewer recommendation approaches.
+
+    		<br>Results:<br>
+    		We had initially tested RSTrace+ on an open source project (Qt 3D Studio) and achieved a top-3 accuracy of 0.89 with an MRR (mean reciprocal ranking) of 0.81. In a further empirical evaluation of 40 open source projects, we compared RSTrace+ with Naive-Bayes, RevFinder and Profile based approach, and observed higher accuracies on the average.
+
+    		<br>Conclusion:<br>
+    		We confirmed that the proposed reviewer recommendation approach yields promising top-k and MRR scores on the average compared to the existing reviewer recommendation approaches. Unlike other code reviewer recommendation approaches, RSTrace+ is not limited to recommending reviewers for source code artifacts and can potentially be used for recommending reviewers for other types of artifacts. Our approach can also visualize the affected artifacts and help the developer to make assessments of the potential impacts of change to the reviewed artifact.
+    	</div>
         </div>
     </li>
     <br>
@@ -25,14 +141,26 @@ image: /img/logo.png
             <a href="https://dl.acm.org/doi/10.1145/3368089.3417932">CRSG: A Serious Game for Teaching Code Review</a>
             <br><i>Kaan Ünlü, Barış Ardıç, Eray Tüzün</i>
             <br>ESEC/FSE 2020 Tool Demonstrations Track, 2020
+    		<br><button data-toggle="collapse" data-target="#demo3">See Abstract</button><br>
+
+    		<div id="demo3" class="collapse">
+    		The application of code review in a development environment is essential, but this skill is not taught very often in an educational context despite its wide usage. To streamline the teaching process of code review, we propose a browser based "Code Review Serious Game" (CRSG) with high accessibility, progressive level difficulty and an evolvable foundation for prospective improvements or changes. The application is built as a serious game to reinforce the learning experience of its users by immersing them in its story and theme, helping them learn while having fun. The effectiveness of the game components are measured with a case study of 132 students of 2 software engineering courses. The promising result of this case study suggests CRSG can indeed be used effectively to teach code review. The demo video for the game can be accessed at https://youtu.be/FLnr3p4bhOg, and CRSG itself at: https://github.com/barisardic/crsg.
+    	</div>
         </div>
     </li>
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://www.researchgate.net/publication/343712903_Identifying_Key_Developers_using_Artifact_Traceability_Graphs"> Identifying Key Developers using Artifact Traceability Graphs</a> 
+            <a href="https://www.researchgate.net/publication/343712903_Identifying_Key_Developers_using_Artifact_Traceability_Graphs"> Identifying Key Developers using Artifact Traceability Graphs</a>
             <br><i>H.Alperen Çetin, Eray Tüzün</i>
             <br>16th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020)
+    		<br><button data-toggle="collapse" data-target="#demo4">See Abstract</button><br>
+
+    		<div id="demo4" class="collapse">
+    		Developers are the most important resource to build and maintain software projects. Due to various reasons, some developers take more responsibility, and this type of developers are more valuable and indispensable for the project. Without them, the success of the project would be at risk. We use the term key developers for these essential and valuable developers, and identifying them is a crucial task for managerial decisions such as risk assessment for potential developer resignations. We study key developers under three categories: jacks, mavens and connectors. A typical jack (of all trades) has a broad knowledge of the project, they are familiar with different parts of the source code, whereas mavens represent the developers who are the sole experts in specific parts of the projects. Connectors are the developers who involve different groups of developers or teams. They are like bridges between teams.
+
+    		To identify key developers in a software project, we propose to use traceable links among software artifacts such as the links between change sets and files. First, we build an artifact traceability graph, then we define various metrics to find key developers. We conduct experiments on three open source projects: Hadoop, Hive and Pig. To validate our approach, we use developer comments in issue tracking systems and demonstrate that the identified key developers by our approach match the top commenters up to 92%.
+    	</div>
         </div>
     </li>
     <br>
@@ -41,14 +169,34 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/9206173">Creation of a Serious Game For Teaching Code Review: An Experience Report</a>
             <br><i>Barış Ardıç, İrem Yurdakul, Eray Tüzün</i>
             <br>32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020)
+    		<br><button data-toggle="collapse" data-target="#demo5">See Abstract</button><br>
+
+    		<div id="demo5" class="collapse">
+    		Code review, a manual inspection of source code by developers other than the author, is a frequently used practice for improving code quality in the software development life-cycle. Employing a tool-based review of code changes has become the norm for a wide variety of open source and industrial systems. Despite its widespread usage and importance, software development practices such as code review are often not addressed in typical Software Engineering education. To address this knowledge gap, we propose to use a serious game approach for teaching code review practices. In this study, we define our learning objectives and design a code review serious game along with its companion quizzes. Then we conduct a small preliminary experiment in order to procure feedback. Using the results of the experiment and participant interviews, we improve our game prototype for integration into a software engineering course while optimizing the initial experiment for student's benefit. We document the process, lessons learned and the future directions of the game. The results we gather indicate that the game is ready to be used in a software engineering course setting.
         </div>
+    	</div>
     </li>
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://dl.acm.org/doi/abs/10.1145/3360497">Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK </a> 
+            <a href="https://dl.acm.org/doi/abs/10.1145/3360497">Understanding the knowledge gaps of software engineers: An empirical analysis based on SWEBOK </a>
             <br><i>Vahid Garouisi,  Görkem Giray, Eray Tüzün</i>
             <br>ACM Transactions on Computing Education, 2019
+    		<br><button data-toggle="collapse" data-target="#demo6">See Abstract</button><br>
+
+    		<div id="demo6" class="collapse">
+    		<br>Context:<br>
+    		Knowledge level and productivity of the software engineering (SE) workforce are the subject of regular discussions among practitioners, educators, and researchers. There have been many efforts to measure and improve the knowledge gap between SE education and industrial needs.
+
+    		<br>Objective:<br>
+    		Although the existing efforts for aligning SE education and industrial needs have provided valuable insights, there is a need for analyzing the SE topics in a more “fine-grained” manner; i.e., knowing that SE university graduates should know more about requirements engineering is important, but it is more valuable to know the exact topics of requirements engineering that are most important in the industry.
+
+    		<br>Method:<br>
+    		We achieve the above objective by assessing the knowledge gaps of software engineers by designing and executing an opinion survey on levels of knowledge learned in universities versus skills needed in industry. We designed the survey by using the SE knowledge areas (KAs) from the latest version of the Software Engineering Body of Knowledge (SWEBOK v3), which classifies the SE knowledge into 12 KAs, which are themselves broken down into 67 subareas (sub-KAs) in total. Our analysis is based on (opinion) data gathered from 129 practitioners, who are mostly based in Turkey.
+
+    		<br>Results:<br>
+    		Based on our findings, we recommend that educators should include more materials on software maintenance, software configuration management, and testing in their SE curriculum. Based on the literature as well as the current trends in industry, we provide actionable suggestions to improve SE curriculum to decrease the knowledge gap.
+    	</div>
         </div>
     </li>
     <br>
@@ -57,6 +205,11 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/8870190">Investigating the Validity of Ground Truth in Code Reviewer Recommendation Studies </a> (Best Emerging Results and Vision Paper Award)
             <br><i>Emre Doğan,  Eray Tüzün,  K. Ayberk Tecimer  and  H. Altay Güvenir</i>
             <br>13th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2019)
+    		<br><button data-toggle="collapse" data-target="#demo7">See Abstract</button><br>
+
+    		<div id="demo7" class="collapse">
+    		Background: Selecting the ideal code reviewer in modern code review is a crucial first step to perform effective code reviews. There are several algorithms proposed in the literature for recommending the ideal code reviewer for a given pull request. The success of these code reviewer recommendation algorithms is measured by comparing the recommended reviewers with the ground truth that is the assigned reviewers selected in real life. However, in practice, the assigned reviewer may not be the ideal reviewer for a given pull request.Aims: In this study, we investigate the validity of ground truth data in code reviewer recommendation studies.Method: By conducting an informal literature review, we compared the reviewer selection heuristics in real life and the algorithms used in recommendation models. We further support our claims by using empirical data from code reviewer recommendation studies.Results: By literature review, and accompanying empirical data, we show that ground truth data used in code reviewer recommendation studies is potentially problematic. This reduces the validity of the code reviewer datasets and the reviewer recommendation studies. Conclusion: We demonstrated the cases where the ground truth in code reviewer recommendation studies are invalid and discussed the potential solutions to address this issue.
+    	</div>
         </div>
     </li>
     <br>
@@ -65,6 +218,13 @@ image: /img/logo.png
             <a href="https://dl.acm.org/doi/10.1145/3345629.3345637">Reviewer Recommendation Using Software Artifact Traceability Graphs </a>
             <br><i>Emre Sülün, Eray Tüzün, Uğur Doğrusöz</i>
             <br>15th International Conference on Predictive Models and Data Analytics in Software Engineering - PROMISE '19, 2019
+    		<br><button data-toggle="collapse" data-target="#demo8">See Abstract</button><br>
+
+    		<div id="demo8" class="collapse">
+    		Various types of artifacts (requirements, source code, test cases, documents, etc.) are produced throughout the lifecycle of a software. These artifacts are often related with each other via traceability links that are stored in modern application lifecycle management repositories. Throughout the lifecycle of a software, various types of changes can arise in any one of these artifacts. It is important to review such changes to minimize their potential negative impacts. To maximize benefits of the review process, the reviewer(s) should be chosen appropriately.
+
+    		In this study, we reformulate the reviewer suggestion problem using software artifact traceability graphs. We introduce a novel approach, named RSTrace, to automatically recommend reviewers that are best suited based on their familiarity with a given artifact. The proposed approach, in theory, could be applied to all types of artifacts. For the purpose of this study, we focused on the source code artifact and conducted an experiment on finding the appropriate code reviewer(s). We initially tested RSTrace on an open source project and achieved top-3 recall of 0.85 with an MRR (mean reciprocal ranking) of 0.73. In a further empirical evaluation of 37 open source projects, we confirmed that the proposed reviewer recommendation approach yields promising top-k and MRR scores on the average compared to the existing reviewer recommendation approaches.
+    	</div>
         </div>
     </li>
     <br>
@@ -75,16 +235,29 @@ image: /img/logo.png
             <br><i>H. Alperen Cetin</i>
             <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
             Foundations of Software Engineering (ESEC/FSE 2019)
-        </div>
-    </li>
-    <br>
-    <li>
-        <div style="text-align: justify">
-            <a href="https://dl.acm.org/doi/10.1145/3338906.3342507">
-                Suggesting Reviewers of Software Artifacts Using Traceability Graphs</a>
-            <br><i>Emre Sülün</i>
-            <br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
-            Foundations of Software Engineering (ESEC/FSE 2019)
+    		<br><button data-toggle="collapse" data-target="#demo9">See Abstract</button><br>
+
+    		<div id="demo9" class="collapse">
+    		Finding the most valuable and indispensable developers is a crucial task in software development. We categorize these valuable developers into two categories: connector and maven. A typical connector represents a developer who connects different groups of developers in a large-scale project. Mavens represent the developers who are the sole experts in specific modules of the project.
+
+To identify the connectors and mavens, we propose an approach using graph centrality metrics and connections of traceability graphs. We conducted a preliminary study on this approach by using two open source projects: QT 3D Studio and Android. Initial results show that the approach leads to identify the essential developers.
+
+</div>
+</div>
+</li>
+<br>
+<li>
+<div style="text-align: justify">
+<a href="https://dl.acm.org/doi/10.1145/3338906.3342507">
+Suggesting Reviewers of Software Artifacts Using Traceability Graphs</a>
+<br><i>Emre Sülün</i>
+<br>In Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the
+Foundations of Software Engineering (ESEC/FSE 2019)
+<br><button data-toggle="collapse" data-target="#demo10">See Abstract</button><br>
+
+    		<div id="demo10" class="collapse">
+    		During the lifecycle of a software project, software artifacts constantly change. A change should be peer-reviewed to ensure the software quality. To maximize the benefit of review, the reviewer(s) should be chosen appropriately. However, choosing the right reviewer(s) might not be trivial especially in large projects. Researchers developed different methods to recommend reviewers. In this study, we introduce a novel approach for reviewer recommendation problem. Our approach utilizes the traceability graph of a software project and assigns a know-about score to each developer, then recommends the developers who have the maximum know-about score for an artifact. We tested our approach on an open source project and achieved top-3 recall of 0.85 with an MRR (mean reciprocal ranking) of 0.73.
+    	</div>
         </div>
     </li>
     <br>
@@ -94,6 +267,24 @@ image: /img/logo.png
                 engineering education with industrial needs: a meta-analysis </a>
             <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
             <br>Journal of Systems and Software,2019
+    		<br><button data-toggle="collapse" data-target="#demo11">See Abstract</button><br>
+
+    		<div id="demo11" class="collapse">
+    		 <br>Context <br>
+    		According to various reports, many software engineering (SE) graduates often face difficulties when beginning their careers, which is mainly due to misalignment of the skills learned in university education with what is needed in the software industry.
+
+    		 <br>Objective <br>
+    		Our objective is to perform a meta-analysis to aggregate the results of the studies published in this area to provide a consolidated view on how to align SE education with industry needs, to identify the most important skills and also existing knowledge gaps.
+
+    		 <br>Method <br>
+    		To synthesize the body of knowledge, we performed a systematic literature review (SLR), in which we systematically selected a pool of 35 studies and then conducted a meta-analysis using data extracted from those studies.
+
+    		 <br>Results <br>
+    		Via a meta-analysis and using data from 13 countries and over 4,000 data points, highlights of the SLR include: (1) software requirements, design, and testing are the most important skills; and (2) the greatest knowledge gaps are in configuration management, SE models and methods, SE process, design (and architecture), as well as in testing.
+
+    		 <br>Conclusion <br>
+    		This paper provides implications for both educators and hiring managers by listing the most important SE skills and the knowledge gaps in the industry.
+    	</div>
         </div>
     </li>
     <br>
@@ -104,6 +295,11 @@ image: /img/logo.png
                 up with Method and Process Practice: A new Baseline for Researchers </a>
             <br><i>HELENA Consurtium</i>
             <br>International Conference on Software Engineering in Practice, 2019
+    		<br><button data-toggle="collapse" data-target="#demo13">See Abstract</button><br>
+
+    		<div id="demo13" class="collapse">
+    		Software development methods are usually not applied by the book. Companies are under pressure to continuously deploy software products that meet market needs and stakeholders’ requests. To implement efficient and effective development processes, companies utilize multiple frameworks, methods and practices, and combine these into hybrid methods. A common combination contains a rich management framework to organize and steer projects complemented with a number of smaller practices providing the development teams with tools to complete their tasks. In this paper, based on 732 data points collected through an international survey, we study the software development process use in practice. Our results show that 76.8% of the companies implement hybrid methods. Company size as well as the strategy in devising and evolving hybrid methods affect the suitability of the chosen process to reach company or project goals. Our findings show that companies that combine planned improvement programs with process evolution can increase their process’ suitability by up to 5%.
+    	</div>
         </div>
     </li>
     <br>
@@ -112,7 +308,25 @@ image: /img/logo.png
             <a href="https://www.sciencedirect.com/science/article/pii/S0164121218302565">Adopting Integrated
                 Application Lifecycle Management within a Large-Scale Software Company: An Action Research Approach </a>
             <br><i>Eray Tuzun, Bedir Tekinerdogan, Yagup Macit, Kursat Ince</i>
-            <br>Journal of Systems and Software, 2018 
+            <br>Journal of Systems and Software, 2018
+    		<br><button data-toggle="collapse" data-target="#demo14">See Abstract</button><br>
+
+    		<div id="demo14" class="collapse">
+    		<br>Context<br>
+    		Application Lifecycle Management (ALM) is a paradigm for integrating and managing the various activities related to the governance, development and maintenance of software products. In the last decade, several ALM tools have been proposed to support this process, and an increasing number of companies have started to adopt ALM.
+
+    		<br>Objective<br>
+    		We aim to investigate the impact of adopting ALM in a real industrial context to understand and justify both the benefits and obstacles of applying integrated ALM.
+
+    		<br>Method<br>
+    		As a research methodology, we apply action research that we have carried out within HAVELSAN, a large-scale IT company. The research was carried out over a period of seven years starting in 2010 when the ALM initiative has been started in the company to increase productivity and decrease maintenance costs.
+
+    		<br>Results<br>
+    		The paper presents the results of the action research that includes the application of ALM practices. The transitions among the different steps are discussed in detail, together with the identified obstacles, benefits and lessons learned.
+
+    		<br>Conclusions<br>
+    		Our seven-year study shows that the adoption of ALM processes is not trivial and its success is related to many factors. An important conclusion is that a piecemeal solution as provided by ALM 1.0 is not feasible for the complex process and tool integration problems of large enterprises. Hence the transition to ALM 2.0 was found necessary to cope with the organizational and business needs. Although ALM 2.0 appeared to be a more mature ALM approach, there are still obstacles that need attention from both researchers and practitioners.
+    	</div>
         </div>
     </li>
     <br>
@@ -121,6 +335,11 @@ image: /img/logo.png
             <a href="https://ieeexplore.ieee.org/document/8861461">An Auction-Based Serious Game for Bug Tracking</a>
             <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
             <br>IET Software, 2019
+    		<br><button data-toggle="collapse" data-target="#demo15">See Abstract</button><br>
+
+    		<div id="demo15" class="collapse">
+    		Today, one of the challenges in software engineering is utilising application lifecycle management (ALM) tools effectively in software development. In particular, it is hard for software developers to engage with the work items that are appointed to themselves in these ALM tools. In this study, the authors have focused on bug tracking in ALM where one of the most important metrics is mean time to resolution that is the average time to fix a reported bug. To improve this metric, they developed a serious game application based on an auction-based reward mechanism. The ultimate aim of this approach is to create an incentive structure for software practitioners to find and resolved bugs that are auctioned where participants are encouraged to solve and test more bugs in less time and improve quality of software development in a competitive environment. They conduct hypothesis tests by performing a Monte Carlo simulation. The preliminary results of this research support the idea that using a gamification approach for an issue tracking system enhances the productivity and decreases mean time to resolution.
+    	</div>
         </div>
     </li>
     <br>
@@ -130,6 +349,11 @@ image: /img/logo.png
                 industrial needs </a>
             <br><i>Vahid Garousi, Görkem Giray, Eray Tüzün, Cagatay Catal, Michael Felderer</i>
             <br>IEEE Software
+    		<br><button data-toggle="collapse" data-target="#demo16">See Abstract</button><br>
+
+    		<div id="demo16" class="collapse">
+    		Many recent software engineering graduates often face difficulties when beginning their professional careers, due to misalignment of the skills learned in their university education with what is needed in industry. In this article, we report a literature review of the studies that have been done to make improvements on this issue.
+    	</div>
         </div>
     </li>
     <br>
@@ -139,6 +363,11 @@ image: /img/logo.png
                 Purpose of Software Development Process Training and Improvement: An Exploration </a>
             <br><i>İpek Ohri, İrem Öge, Bora Orkun, Murat Yılmaz, Eray Tüzün, Paul Clarke, RV O’Connor</i>
             <br>European Conference on Software Process Improvement, 195-206
+    		<br><button data-toggle="collapse" data-target="#demo17">See Abstract</button><br>
+
+    		<div id="demo17" class="collapse">
+    		Augmented reality (AR) is a technological field of study that bridges the physical and digital world together with a view to improving user experience. AR holds great potential to change the delivery of software services or software process improvement by utilizing a specific set of components. The purpose of this exploratory study is to propose an integration framework to support AR for improving the onboarding process, notably in introducing new hires to the development process while performing their daily tasks. In addition, it also aims to enhance the software development workflow process using AR. Similar to a GPS device that can guide you from point A to point B, our goal is to create software artifacts like navigation components where software teams may benefit from digitally enhanced working conditions provided using AR. After conducting a review in the literature, we confirmed that there is lack of studies about the combination of augmented reality with software engineering disciplines for onboarding. In this paper, we formalized our approach based on the benefits of AR. Ultimately; we propose an AR-based preliminary model for improving the software development process.
+    	</div>
         </div>
     </li>
     <br>
@@ -148,6 +377,11 @@ image: /img/logo.png
                 Development Methods </a>
             <br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i>
             <br>Internet of Things: Challenges, Advances and Applications, CRC Press, 2018 (Book Chapter)
+    		<br><button data-toggle="collapse" data-target="#demo18">See Abstract</button><br>
+
+    		<div id="demo18" class="collapse">
+    		This chapter presents an overview of system development methods (SDMs) dedicated for Internet of Things (IoT) systems. It summarizes IoT SDMs along with their process flows represented using Business Process Model and Notation. The chapter presents the characterization of these methods using the evaluation criteria. The objective of an IoT SDM is to guide a project team in developing and combining these components in order to be able to fulfill user requirements. SDM is preferred over the "software development method" concept since an IoT system encompasses many software, hardware, and communication components. An important aspect in IoT is that changes in the properties of a thing and its corresponding virtual entity need to be synchronized. The IoT Methodology is a generic, lightweight method built on iterative prototyping and Lean start-up approaches. Ignite provides guidance for developing IoT services and software components for IoT devices from a business and project management perspective; however, it does not provide a low-level, technical guidance.
+    	</div>
         </div>
     </li>
     <br>
@@ -159,6 +393,11 @@ image: /img/logo.png
             <br><i>Görkem Giray, Bedir Tekinerdogan, Eray Tüzün</i>
             <br>Connected Environments for the Internet of Things, Challenges and Solutions, Springer International
             Publishing, 2018 (Book Chapter)
+    		<br><button data-toggle="collapse" data-target="#demo19">See Abstract</button><br>
+
+    		<div id="demo19" class="collapse">
+    		The Internet of Things (IoT) is a global network of smart devices which enables these objects to collect and exchange data. Research in the IoT is still progressing, and it is now being applied in various domains. One of the key observations is that the development of IoT systems is not trivial and needs to be carefully managed to meet the required functional and quality concerns. Due to the heterogeneous aspects including software, hardware, and communication, developing the IoT systems implies various challenges that need to be explicitly considered in the development process and successfully resolved. Unfortunately, less focus has been provided so far on the development methods for the IoT systems. To address the particular IoT development concerns, we analyze and discuss the existing approaches that target the development of IoT systems. For this purpose, we use the Essence Framework, which has been recently developed as a framework for modeling various kinds of software development practices and methods. We propose an initial practice library, which can be used to develop and/or tailor project-specific IoT system development methods.
+    	</div>
         </div>
     </li>
     <br>
@@ -169,6 +408,11 @@ image: /img/logo.png
                 Software Product Line Engineering with Essence Framework </a>
             <br><i>Eray Tüzün, Görkem Giray, Bedir Tekinerdogan, Yagup Macit</i>
             <br>International Journal of Informatics Technologies, 2018
+    		<br><button data-toggle="collapse" data-target="#demo20">See Abstract</button><br>
+
+    		<div id="demo20" class="collapse">
+    		Although several software product line engineering (SPLE) methods have been described in the literature, adopting these methods in practice is often not straightforward. Thorough understanding of the methods and their artefacts is necessary to apply the methods in a proper manner, and likewise realize the expected goals of SPLE. Recently the Essence framework has been proposed to model the essential elements of a method and to support the modeling of a broad set of software development methods including plan-driven methods and agile methods. So far, the Essence framework has been applied to single system development methods and not yet for SPLE methods. To enhance the understanding of SPLE methods and support a vision for tailoring SPLE methods, we provide a mapping of an SPLE method to the Essence framework. We present experiences about modeling an SPLE method using the Essence framework within the industrial context of Havelsan.
+    	</div>
         </div>
     </li>
     <br>
@@ -177,4 +421,12 @@ image: /img/logo.png
             <a href="https://arxiv.org/abs/1805.08894">Are Computer Science and Engineering Graduates Ready for the
                 Software Industry? Experiences from an Industrial Student Training Program </a>
             <br><i>Eray Tuzun, Hakan Erdogmus and Izzet Gokhan Ozbilgin</i>
-            <br>International Conference in Software Engineering SEET 2018 (Acceptance rate <25%) </div> </li> </ul>
+            <br>International Conference in Software Engineering SEET 2018 (Acceptance rate <25%)
+    		<br><button data-toggle="collapse" data-target="#demo21">See Abstract</button><br>
+
+    		<div id="demo21" class="collapse">
+    		It has  been  50  years  since  the  term  “software  engineering”  was coined  in  1968  at  a  NATO  conference.  The  field  should  be relatively   mature   by   now,   with   most   established   universities coveringcore  software  engineering  topics  in  their  Computer Science   programs   and   others   offering   specialized   degrees. However,  still  many  practitioners  lament  a  lack  of  skills  in  new software   engineering   hires.   With   the   growing   demand   for software  engineers  from  the  industry,  this  apparent  gap  becomes more and more pronounced. One corporate strategy to address this gap   is   for   the   industry   to   develop   supplementary   training programs   before   the   hiring   process,   which   could   also   help companiesscreen  viable  candidates.In  this  paper,  we  report  on our  experiences  and  lessons  learned  in conducting  a  summer school  program  aimed  at  screening  new  graduates,  introducing them to core  skills relevant  to  the  organization  and industry,  and assessing  their  attitudes  toward  mastering  those  skills  before  the hiring   process   begins.   Our   experiencesuggests   that   such initiatives can be mutually beneficial for new hires and companiesalike.  We  support  this  insight  with  pre-and  post-training  data collected  from  the  participants  during  the  first  edition  of thesummer  school  and  a  follow-up  questionnaire  conducted  after  a year  with  the participants,  50%  of  whom werehired  by  the company shortly after the summer school.
+    	</div>
+    		</div>
+    		</li>
+    		</ul>
