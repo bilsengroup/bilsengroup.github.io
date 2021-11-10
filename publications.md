@@ -8,7 +8,7 @@ image: /img/logo.png
 	<li>
     	<div style="text-align: justify">
     		<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584921001877">Towards a taxonomy of code review smells</a>
-    		<br><Emre Doğan, ErayTüzün</i>
+    		<br><i>Emre Doğan, ErayTüzün</i>
     		<br>Information and Software Technology
     		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
 
