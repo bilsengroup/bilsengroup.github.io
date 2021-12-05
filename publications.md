@@ -5,6 +5,19 @@ image: /img/logo.png
 ---
 
 <ul>
+	<li>
+    	<div style="text-align: justify">
+    		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:LPZeul_q3PIC">Augmenting Code Review Experience Through Visualization</a>
+    		<br><i>Faruk Balcı; Dilruba Sultan Haliloğlu; Onur Şahin; Cankat Tilki; Mehmet Ata Yurtsever; Eray Tüzün</i>
+    		<br>IEEE
+    		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
+
+    		<div id="demo25" class="collapse">
+    		Code review is a systematic inspection of the code-base. It ensures that the software satisfies the required functionalities and standards; thus, it is an essential stage in the modern development process and is used frequently in the industry. For a successful review, the reviewer should be able to identify defects; therefore, the process is highly dependent on the awareness of the reviewer. Currently, code review is done by comparing the line-by-line differences on the codebase. However, this does not give structural information, such as design pattern changes or dependency changes between services.To address this problem, we propose an augmented next-generation code review experience using visual and holistic approaches to streamline the reviewing process. The proposed code review experience shows the structural representation of the change by visualizing it into a UML-like relationship diagram. Along with this diagram, the risk percentage for each commit is highlighted to emphasize the differences that possibly can be most affected by the change. An artifact map is also produced that includes issue-commit relation for bug tracking, to make reviewers aware of the frequent issues that are brought up. This map also highlights the change frequency of the files, for focusing the reviewers on the possibly vulnerable parts of the software for better quality reviews. The proposed visualizations have been implemented in a plugin-based proof-of-concept tool integrated within GitHub, supporting the visual reviewing of changes in codebases developed with Java language.
+    		</div>
+    	</div>
+    </li>
+    <br>
     <li>
     	<div style="text-align: justify">
     		<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584921001877">Towards a taxonomy of code review smells</a>
