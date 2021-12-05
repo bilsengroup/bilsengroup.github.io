@@ -9,7 +9,7 @@ image: /img/logo.png
     	<div style="text-align: justify">
     		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:LPZeul_q3PIC">Augmenting Code Review Experience Through Visualization</a>
     		<br><i>Faruk Balcı; Dilruba Sultan Haliloğlu; Onur Şahin; Cankat Tilki; Mehmet Ata Yurtsever; Eray Tüzün</i>
-    		<br>IEEE
+    		<br>IEEE Software
     		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
 
     		<div id="demo28" class="collapse">
