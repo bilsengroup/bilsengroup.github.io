@@ -7,6 +7,19 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:VOx2b1Wkg3QC">Towards a Taxonomy of Inline Code Comment Smells</a>
+    		<br><i>Elgun Jabrayilzade; Olcaytu Gürkan; Eray Tüzün</i>
+    		<br>IEEE Software
+    		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
+
+    		<div id="demo30" class="collapse">
+    		Code comments play a vital role in source code comprehension and software maintainability. It is common for developers to write comments for explaining a code snippet. However, low-quality comments can have a detrimental effect on software quality or be ineffective for code understanding. This study aims to create a taxonomy of inline code comment smells and determine how commonly each smell type occurs in software projects. We conducted a multivocal literature review for defining the initial taxonomy of inline comment smells. Afterward, we manually labeled 899 inline comments from three open-source Java projects. We created a taxonomy of 11 inline code comment smell types and found out that the smells exist in practice with varying degrees.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:LPZeul_q3PIC">Augmenting Code Review Experience Through Visualization</a>
     		<br><i>Faruk Balcı; Dilruba Sultan Haliloğlu; Onur Şahin; Cankat Tilki; Mehmet Ata Yurtsever; Eray Tüzün</i>
     		<br>IEEE Software
