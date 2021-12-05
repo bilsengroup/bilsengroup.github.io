@@ -12,7 +12,7 @@ image: /img/logo.png
     		<br>IEEE
     		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
 
-    		<div id="demo25" class="collapse">
+    		<div id="demo28" class="collapse">
     		Code review is a systematic inspection of the code-base. It ensures that the software satisfies the required functionalities and standards; thus, it is an essential stage in the modern development process and is used frequently in the industry. For a successful review, the reviewer should be able to identify defects; therefore, the process is highly dependent on the awareness of the reviewer. Currently, code review is done by comparing the line-by-line differences on the codebase. However, this does not give structural information, such as design pattern changes or dependency changes between services.To address this problem, we propose an augmented next-generation code review experience using visual and holistic approaches to streamline the reviewing process. The proposed code review experience shows the structural representation of the change by visualizing it into a UML-like relationship diagram. Along with this diagram, the risk percentage for each commit is highlighted to emphasize the differences that possibly can be most affected by the change. An artifact map is also produced that includes issue-commit relation for bug tracking, to make reviewers aware of the frequent issues that are brought up. This map also highlights the change frequency of the files, for focusing the reviewers on the possibly vulnerable parts of the software for better quality reviews. The proposed visualizations have been implemented in a plugin-based proof-of-concept tool integrated within GitHub, supporting the visual reviewing of changes in codebases developed with Java language.
     		</div>
     	</div>
@@ -25,7 +25,7 @@ image: /img/logo.png
     		<br>Information and Software Technology
     		<br><button data-toggle="collapse" data-target="#demo25">See Abstract</button><br>
 
-    		<div id="demo25" class="collapse">
+    		<div id="demo27" class="collapse">
     		Context:
 Code review is a crucial step of the software development life cycle in order to detect possible problems in source code before merging the changeset to the codebase. Although there is no consensus on a formally defined life cycle of the code review process, many companies and open source software (OSS) communities converge on common rules and best practices. In spite of minor differences in different platforms, the primary purpose of all these rules and practices leads to a faster and more effective code review process. Non-conformance of developers to this process does not only reduce the advantages of the code review but can also introduce waste in later stages of the software development.
 
