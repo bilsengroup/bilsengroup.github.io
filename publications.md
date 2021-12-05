@@ -6,7 +6,6 @@ image: /img/logo.png
 
 <ul>
     <li>
-	<li>
     	<div style="text-align: justify">
     		<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584921001877">Towards a taxonomy of code review smells</a>
     		<br><i>Emre Doğan, ErayTüzün</i>
