@@ -5,7 +5,6 @@ image: /img/logo.png
 ---
 
 <ul>
-    </li>
     <br>
     <li>
 	<li>
