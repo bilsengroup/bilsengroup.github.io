@@ -5,7 +5,6 @@ image: /img/logo.png
 ---
 
 <ul>
-    <br>
     <li>
 	<li>
     	<div style="text-align: justify">
