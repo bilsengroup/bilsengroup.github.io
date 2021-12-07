@@ -9,7 +9,7 @@ image: /img/logo.png
     	<div style="text-align: justify">
     		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:VOx2b1Wkg3QC">Towards a Taxonomy of Inline Code Comment Smells</a>
     		<br><i>Elgun Jabrayilzade; Olcaytu Gürkan; Eray Tüzün</i>
-    		<br>IEEE Software
+    		<br>IEEE SCAM
     		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
 
     		<div id="demo30" class="collapse">
@@ -22,7 +22,7 @@ image: /img/logo.png
     	<div style="text-align: justify">
     		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:LPZeul_q3PIC">Augmenting Code Review Experience Through Visualization</a>
     		<br><i>Faruk Balcı; Dilruba Sultan Haliloğlu; Onur Şahin; Cankat Tilki; Mehmet Ata Yurtsever; Eray Tüzün</i>
-    		<br>IEEE Software
+    		<br>IEEE VISSOFT
     		<br><button data-toggle="collapse" data-target="#demo29">See Abstract</button><br>
 
     		<div id="demo29" class="collapse">
