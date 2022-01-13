@@ -7,8 +7,8 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
-    		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:VOx2b1Wkg3QC">Towards a Taxonomy of Inline Code Comment Smells</a>
-    		<br><i>Elgun Jabrayilzade; Olcaytu Gürkan; Eray Tüzün</i>
+    		<a href="https://ieeexplore.ieee.org/document/9610717">Towards a Taxonomy of Inline Code Comment Smells</a>
+    		<br><i>Elgun Jabrayilzade, Olcaytu Gürkan, Eray Tüzün</i>
     		<br>IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM 2021)
     		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
 
@@ -20,8 +20,8 @@ image: /img/logo.png
     <br>
 	<li>
     	<div style="text-align: justify">
-    		<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:LPZeul_q3PIC">Augmenting Code Review Experience Through Visualization</a>
-    		<br><i>Faruk Balcı; Dilruba Sultan Haliloğlu; Onur Şahin; Cankat Tilki; Mehmet Ata Yurtsever; Eray Tüzün</i>
+    		<a href="https://ieeexplore.ieee.org/document/9604852">Augmenting Code Review Experience Through Visualization</a>
+    		<br><i>Faruk Balcı, Dilruba Sultan Haliloğlu, Onur Şahin, Cankat Tilki, Mehmet Ata Yurtsever, Eray Tüzün</i>
     		<br>Working Conference on Software Visualization (VISSOFT 2021)
     		<br><button data-toggle="collapse" data-target="#demo29">See Abstract</button><br>
 
