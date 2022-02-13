@@ -58,6 +58,7 @@ graduate-students:
   - name: Vahid Haratian 
     img: /img/people/Vahid_Haratian.jpg
     desc: BSc from Computer Engineering, Sharif University of Technology <br> Software analytics
+    website: https://www.linkedin.com/in/vahid-haratian-754aa2183/
     url: https://www.linkedin.com/in/vahid-haratian-754aa2183/
     github: https://github.com/vharatian
     twitter: https://twitter.com/vharatian
