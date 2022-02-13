@@ -55,6 +55,12 @@ graduate-students:
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
+  - name: Vahid Haratian 
+    img: /img/people/Vahid_Haratian.jpg
+    desc: BSc from Computer Engineering, Sharif University of Technology <br> Software analytics
+    url: https://www.linkedin.com/in/vahid-haratian-754aa2183/
+    github: https://github.com/vharatian
+    twitter: https://twitter.com/vharatian
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/berfinkucuk.jpg
