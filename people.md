@@ -68,12 +68,6 @@ graduate-students:
     website: https://www.linkedin.com/in/selen-uysal-824b07176/
     url: https://www.linkedin.com/in/selen-uysal-824b07176/
     github: https://github.com/SelenUysal
-  - name: Beste Guney
-    img: /img/people/Beste.jpeg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
-    website: https://www.linkedin.com/in/beste-guney-23b5541b1/
-    url: https://www.linkedin.com/in/beste-guney-23b5541b1/
-    github: https://github.com/Beste-Guney
 research-volunteers:
   - name: Berfin Küçük
     img: /img/people/berfinkucuk.jpg
@@ -121,6 +115,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
     twitter: https://www.twitter.com/isikozsoy
+  - name: Beste Guney
+    img: /img/people/Beste.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
+    website: https://www.linkedin.com/in/beste-guney-23b5541b1/
+    url: https://www.linkedin.com/in/beste-guney-23b5541b1/
+    github: https://github.com/Beste-Guney
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
