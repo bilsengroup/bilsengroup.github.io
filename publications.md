@@ -60,7 +60,7 @@ The empirical analysis shows that the OSS projects are substantially affected by
     	<div style="text-align: justify">
     		<a href="https://research.tue.nl/en/publications/a-fine-grained-data-set-and-analysis-of-tangling-in-bug-fixing-co">A Fine-grained Data Set and Analysis of Tangling in Bug Fixing Commits</a>
     		<br><i>Steffen Herbold, Alexander Trautsch, Benjamin Ledel, Alireza Aghamohammadi, Taher Ahmed Ghaleb, Kuljit Kaur Chahal, Tim Bossenmaier, Bhaveet Nagaria, Philip Makedonski, Matin Nili Ahmadabadi, Kristóf Szabados, Helge Spieker, Matej Madeja, Nathaniel Hoy, Valentina Lenarduzzi, Shangwen Wang, Gema Rodriguez Perez, Ricardo Colomo-Palacios, Roberto Verdecchia, Paramvir Singh,Yihao Qin, Debasish Chakroborti, Willard Davis, Vijay Walunj, Hongjun Wu, Diego Marcilio, Omar Alam, Abdullah Aldaeej, Idan Amit, Burak Turhan, Simon Eismann, Anna-Katharina Wickert, Ivano Malavolta, Matúš Sulír, Fatemeh Fard, Austin Z Henley, Stratos Kourtzanidis, Eray Tüzün, Christoph Treude, Simin Maleki Shamasbi, Ivan Pashchenko, Marvin Wyrich, James C. Davis, Alexander Serebrenik, Ella Albrecht, Ethem Utku Aktas, Daniel Strüber, Johannes Erbel</i>
-    		<br>Software Engineering and Technology - W
+    		<br>Empirical Software Engineering
     		<br><button data-toggle="collapse" data-target="#demo27">See Abstract</button><br>
 
     		<div id="demo27" class="collapse">
