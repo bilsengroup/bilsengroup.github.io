@@ -128,6 +128,12 @@ part-time-engineers:
     website: https://www.linkedin.com/in/eylulcaglar
     url: https://www.linkedin.com/in/eylulcaglar
     github: https://github.com/eylulcaglar
+  - name: Emre Açıkgöz
+    img: /img/people/emreacikgoz.jpg
+    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
+    website: https://www.linkedin.com/in/emrez/
+    url: https://www.linkedin.com/in/emrez/
+    github: https://github.com/emrez
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
@@ -229,12 +235,6 @@ former-members:
     url: https://www.linkedin.com/in/osandere/
     github: https://github.com/oguzhandere2
     twitter: https://twitter.com/oguzcukustum
-  - name: Emre Açıkgöz
-    img: /img/people/emreacikgoz.jpg
-    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
-    website: https://www.linkedin.com/in/emrez/
-    url: https://www.linkedin.com/in/emrez/
-    github: https://github.com/emrez
   - name: Mustafa Yaşar
     img: /img/people/mustafayasar.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
