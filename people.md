@@ -23,13 +23,6 @@ graduate-students:
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
-  - name: Khushbakht Ali
-    img: /img/people/aliqamar.jpeg
-    desc: BSc from National University of Science & Technology (NUST), <br> Bug Tracking Process Smells
-    website: https://www.linkedin.com/in/khushbakht-ali-422959110/
-    url: https://www.linkedin.com/in/khushbakht-ali-422959110/
-    github: https://github.com/khushbakhtali
-    twitter: https://twitter.com/khushbakhtali
   - name: Emre Sülün
     img: /img/people/emresülün.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
@@ -248,6 +241,13 @@ former-members:
     website: www.linkedin.com/in/mustafayasar2828
     url: www.linkedin.com/in/mustafayasar2828
     github: https://github.com/mustafayasar28
+  - name: Khushbakht Ali
+    img: /img/people/aliqamar.jpeg
+    desc: BSc from National University of Science & Technology (NUST), <br> Bug Tracking Process Smells
+    website: https://www.linkedin.com/in/khushbakht-ali-422959110/
+    url: https://www.linkedin.com/in/khushbakht-ali-422959110/
+    github: https://github.com/khushbakhtali
+    twitter: https://twitter.com/khushbakhtali
 ---
 
 {% include list-circles.html items=page.PI%}
