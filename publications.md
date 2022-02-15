@@ -10,9 +10,9 @@ image: /img/logo.png
     		<a href="https://arxiv.org/abs/2202.01523">Bus Factor In Practice</a>
     		<br><i>Elgun Jabrayilzade, Mikhail Evtikhiev, Eray Tüzün, Vladimir Kovalenko</i>
     		<br> 44th International Conference on Software Engineering (ICSE 2022)
-    		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
+    		<br><button data-toggle="collapse" data-target="#demo32">See Abstract</button><br>
 
-    		<div id="demo31" class="collapse">
+    		<div id="demo32" class="collapse">
     		Bus factor is a metric that identifies how resilient is the project to the sudden engineer turnover. It states the minimal number of engineers that have to be hit by a bus for a project to be stalled. Even though the metric is often discussed in the community, few studies consider its general relevance. Moreover, the existing tools for bus factor estimation focus solely on the data from version control systems, even though there exists other channels for knowledge generation and distribution. With a survey of 269 engineers, we find that the bus factor is perceived as an important problem in collective development, and determine the highest impact channels of knowledge generation and distribution in software development teams. We also propose a multimodal bus factor estimation algorithm that uses data on code reviews and meetings together with the VCS data. We test the algorithm on 13 projects developed at JetBrains and compared its results to the results of the state-of-the-art tool by Avelino et al. against the ground truth collected in a survey of the engineers working on these projects. Our algorithm is slightly better in terms of both predicting the bus factor as well as key developers compared to the results of Avelino et al. Finally, we use the interviews and the surveys to derive a set of best practices to address the bus factor issue and proposals for the possible bus factor assessment tool.
     		</div>
     	</div>
@@ -23,9 +23,9 @@ image: /img/logo.png
     		<a href="https://ieeexplore.ieee.org/document/9610717">Towards a Taxonomy of Inline Code Comment Smells</a>
     		<br><i>Elgun Jabrayilzade, Olcaytu Gürkan, Eray Tüzün</i>
     		<br>IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM 2021)
-    		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
+    		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
 
-    		<div id="demo30" class="collapse">
+    		<div id="demo31" class="collapse">
     		Code comments play a vital role in source code comprehension and software maintainability. It is common for developers to write comments for explaining a code snippet. However, low-quality comments can have a detrimental effect on software quality or be ineffective for code understanding. This study aims to create a taxonomy of inline code comment smells and determine how commonly each smell type occurs in software projects. We conducted a multivocal literature review for defining the initial taxonomy of inline comment smells. Afterward, we manually labeled 899 inline comments from three open-source Java projects. We created a taxonomy of 11 inline code comment smell types and found out that the smells exist in practice with varying degrees.
     		</div>
     	</div>
@@ -36,10 +36,23 @@ image: /img/logo.png
     		<a href="https://ieeexplore.ieee.org/document/9604852">Augmenting Code Review Experience Through Visualization</a>
     		<br><i>Faruk Balcı, Dilruba Sultan Haliloğlu, Onur Şahin, Cankat Tilki, Mehmet Ata Yurtsever, Eray Tüzün</i>
     		<br>Working Conference on Software Visualization (VISSOFT 2021)
+    		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
+
+    		<div id="demo30" class="collapse">
+    		Code review is a systematic inspection of the code-base. It ensures that the software satisfies the required functionalities and standards; thus, it is an essential stage in the modern development process and is used frequently in the industry. For a successful review, the reviewer should be able to identify defects; therefore, the process is highly dependent on the awareness of the reviewer. Currently, code review is done by comparing the line-by-line differences on the codebase. However, this does not give structural information, such as design pattern changes or dependency changes between services.To address this problem, we propose an augmented next-generation code review experience using visual and holistic approaches to streamline the reviewing process. The proposed code review experience shows the structural representation of the change by visualizing it into a UML-like relationship diagram. Along with this diagram, the risk percentage for each commit is highlighted to emphasize the differences that possibly can be most affected by the change. An artifact map is also produced that includes issue-commit relation for bug tracking, to make reviewers aware of the frequent issues that are brought up. This map also highlights the change frequency of the files, for focusing the reviewers on the possibly vulnerable parts of the software for better quality reviews. The proposed visualizations have been implemented in a plugin-based proof-of-concept tool integrated within GitHub, supporting the visual reviewing of changes in codebases developed with Java language.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
+    		<a href="https://www.researchgate.net/publication/357871610_Bug_Tracking_Process_Smells_In_Practice">Bug Tracking Process Smells In Practice</a>
+    		<br><i>Erdem Tuna, Vladimir Kovalenko, Eray Tüzün</i>
+    		<br> 44th International Conference on Software Engineering (ICSE 2022)
     		<br><button data-toggle="collapse" data-target="#demo29">See Abstract</button><br>
 
     		<div id="demo29" class="collapse">
-    		Code review is a systematic inspection of the code-base. It ensures that the software satisfies the required functionalities and standards; thus, it is an essential stage in the modern development process and is used frequently in the industry. For a successful review, the reviewer should be able to identify defects; therefore, the process is highly dependent on the awareness of the reviewer. Currently, code review is done by comparing the line-by-line differences on the codebase. However, this does not give structural information, such as design pattern changes or dependency changes between services.To address this problem, we propose an augmented next-generation code review experience using visual and holistic approaches to streamline the reviewing process. The proposed code review experience shows the structural representation of the change by visualizing it into a UML-like relationship diagram. Along with this diagram, the risk percentage for each commit is highlighted to emphasize the differences that possibly can be most affected by the change. An artifact map is also produced that includes issue-commit relation for bug tracking, to make reviewers aware of the frequent issues that are brought up. This map also highlights the change frequency of the files, for focusing the reviewers on the possibly vulnerable parts of the software for better quality reviews. The proposed visualizations have been implemented in a plugin-based proof-of-concept tool integrated within GitHub, supporting the visual reviewing of changes in codebases developed with Java language.
+    		Software teams use bug tracking (BT) tools to report and manage bugs. Each record in a bug tracking system (BTS) is a reporting entity consisting of several information fields. The contents of the reports are similar across different tracking tools, though not the same. The variation in the workflow of teams prevents defining an ideal process of running BTS. Nevertheless, there are best practices reported both in white and gray literature. Developer teams may not adopt the best practices in their BT process. This study investigates the non-compliance of developers with best practices, so-called smells, in the BT process. We mine bug reports of four projects in the BTS of JetBrains, a software company, to observe the prevalence of BT smells in an industrial setting. Also, we survey developers to see (1) if they recognize the smells,(2) their perception of the severity of the smells, and (3) the potential benefits of a BT process smell detection tool. We found that (1) smells occur, and their detection requires a solid understanding of the BT practices of the projects,(2) smell severity perception varies across smell types, and (3) developers considered that a smell detection tool would be useful for six of the smell categories.
     		</div>
     	</div>
     </li>
