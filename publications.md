@@ -10,9 +10,9 @@ image: /img/logo.png
     		<a href="https://arxiv.org/abs/2202.01523">Bus Factor In Practice</a>
     		<br><i>Elgun Jabrayilzade, Mikhail Evtikhiev, Eray Tüzün, Vladimir Kovalenko</i>
     		<br> 44th International Conference on Software Engineering (ICSE 2022)
-    		<br><button data-toggle="collapse" data-target="#demo32">See Abstract</button><br>
+    		<br><button data-toggle="collapse" data-target="#demo33">See Abstract</button><br>
 
-    		<div id="demo32" class="collapse">
+    		<div id="demo33" class="collapse">
     		Bus factor is a metric that identifies how resilient is the project to the sudden engineer turnover. It states the minimal number of engineers that have to be hit by a bus for a project to be stalled. Even though the metric is often discussed in the community, few studies consider its general relevance. Moreover, the existing tools for bus factor estimation focus solely on the data from version control systems, even though there exists other channels for knowledge generation and distribution. With a survey of 269 engineers, we find that the bus factor is perceived as an important problem in collective development, and determine the highest impact channels of knowledge generation and distribution in software development teams. We also propose a multimodal bus factor estimation algorithm that uses data on code reviews and meetings together with the VCS data. We test the algorithm on 13 projects developed at JetBrains and compared its results to the results of the state-of-the-art tool by Avelino et al. against the ground truth collected in a survey of the engineers working on these projects. Our algorithm is slightly better in terms of both predicting the bus factor as well as key developers compared to the results of Avelino et al. Finally, we use the interviews and the surveys to derive a set of best practices to address the bus factor issue and proposals for the possible bus factor assessment tool.
     		</div>
     	</div>
@@ -23,9 +23,9 @@ image: /img/logo.png
     		<a href="https://ieeexplore.ieee.org/document/9610717">Towards a Taxonomy of Inline Code Comment Smells</a>
     		<br><i>Elgun Jabrayilzade, Olcaytu Gürkan, Eray Tüzün</i>
     		<br>IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM 2021)
-    		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
+    		<br><button data-toggle="collapse" data-target="#demo32">See Abstract</button><br>
 
-    		<div id="demo31" class="collapse">
+    		<div id="demo32" class="collapse">
     		Code comments play a vital role in source code comprehension and software maintainability. It is common for developers to write comments for explaining a code snippet. However, low-quality comments can have a detrimental effect on software quality or be ineffective for code understanding. This study aims to create a taxonomy of inline code comment smells and determine how commonly each smell type occurs in software projects. We conducted a multivocal literature review for defining the initial taxonomy of inline comment smells. Afterward, we manually labeled 899 inline comments from three open-source Java projects. We created a taxonomy of 11 inline code comment smell types and found out that the smells exist in practice with varying degrees.
     		</div>
     	</div>
@@ -36,10 +36,23 @@ image: /img/logo.png
     		<a href="https://www.researchgate.net/publication/357871610_Bug_Tracking_Process_Smells_In_Practice">Bug Tracking Process Smells In Practice</a>
     		<br><i>Erdem Tuna, Vladimir Kovalenko, Eray Tüzün</i>
     		<br> 44th International Conference on Software Engineering (ICSE 2022)
+    		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
+
+    		<div id="demo31" class="collapse">
+    		Software teams use bug tracking (BT) tools to report and manage bugs. Each record in a bug tracking system (BTS) is a reporting entity consisting of several information fields. The contents of the reports are similar across different tracking tools, though not the same. The variation in the workflow of teams prevents defining an ideal process of running BTS. Nevertheless, there are best practices reported both in white and gray literature. Developer teams may not adopt the best practices in their BT process. This study investigates the non-compliance of developers with best practices, so-called smells, in the BT process. We mine bug reports of four projects in the BTS of JetBrains, a software company, to observe the prevalence of BT smells in an industrial setting. Also, we survey developers to see (1) if they recognize the smells,(2) their perception of the severity of the smells, and (3) the potential benefits of a BT process smell detection tool. We found that (1) smells occur, and their detection requires a solid understanding of the BT practices of the projects,(2) smell severity perception varies across smell types, and (3) developers considered that a smell detection tool would be useful for six of the smell categories.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
+    		<a href="https://www.researchgate.net/profile/Elgun-Jabrayilzade/publication/357684242_An_Interactive_Approach_to_Teaching_Git_Version_Control_System/links/61da7f3ed4500608169b56aa/An-Interactive-Approach-to-Teaching-Git-Version-Control-System.pdf">An Interactive Approach to Teaching Git Version Control System</a>
+    		<br><i>Elgun Jabrayilzade, Fatih Sevban Uyanık, Emre Sülün, Eray Tüzün</i>
+    		<br> CSEE&T / HICSS 2022 ▪ Conference on Software Engineering Education and Training: Special Track of Hawaii International Conference on System Sciences
     		<br><button data-toggle="collapse" data-target="#demo30">See Abstract</button><br>
 
     		<div id="demo30" class="collapse">
-    		Software teams use bug tracking (BT) tools to report and manage bugs. Each record in a bug tracking system (BTS) is a reporting entity consisting of several information fields. The contents of the reports are similar across different tracking tools, though not the same. The variation in the workflow of teams prevents defining an ideal process of running BTS. Nevertheless, there are best practices reported both in white and gray literature. Developer teams may not adopt the best practices in their BT process. This study investigates the non-compliance of developers with best practices, so-called smells, in the BT process. We mine bug reports of four projects in the BTS of JetBrains, a software company, to observe the prevalence of BT smells in an industrial setting. Also, we survey developers to see (1) if they recognize the smells,(2) their perception of the severity of the smells, and (3) the potential benefits of a BT process smell detection tool. We found that (1) smells occur, and their detection requires a solid understanding of the BT practices of the projects,(2) smell severity perception varies across smell types, and (3) developers considered that a smell detection tool would be useful for six of the smell categories.
+    		Although the Git version control system is widely used in software engineering, it has been observed that most Computer Science and Software Engineering students do not have the necessary knowledge and practices to use Git. To address this issue, we have prepared a Git and GitHub training program consisting of four sessions as a part of the Object-Oriented Software Engineering course where junior students utilized these tools for their term projects. The program was conducted in three academic terms for a total of 258 students. To evaluate the effectiveness of the training sessions, we have conducted two surveys, before (224 respondents) and after (200 respondents) the program. According to the survey results, the number of students considering themselves insufficient to use the tools for their projects decreased from 67% to 9% after the training program. Additionally, the majority of the students found the lectures and laboratory assignments beneficial
     		</div>
     	</div>
     </li>
