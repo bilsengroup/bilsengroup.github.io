@@ -9,7 +9,7 @@ image: /img/logo.png
     	<div style="text-align: justify">
     		<a href="https://arxiv.org/abs/2202.01523">Bus Factor In Practice</a>
     		<br><i>Elgun Jabrayilzade, Mikhail Evtikhiev, Eray Tüzün, Vladimir Kovalenko</i>
-    		<br Software Engineering (ICSE 2022)
+    		<br> Software Engineering (ICSE 2022)
     		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
 
     		<div id="demo31" class="collapse">
