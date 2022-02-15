@@ -7,6 +7,19 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="https://arxiv.org/abs/2202.01523">Bus Factor In Practice</a>
+    		<br><i>Elgun Jabrayilzade, Mikhail Evtikhiev, Eray Tüzün, Vladimir Kovalenko</i>
+    		<br Software Engineering (ICSE 2022)
+    		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
+
+    		<div id="demo31" class="collapse">
+    		Bus factor is a metric that identifies how resilient is the project to the sudden engineer turnover. It states the minimal number of engineers that have to be hit by a bus for a project to be stalled. Even though the metric is often discussed in the community, few studies consider its general relevance. Moreover, the existing tools for bus factor estimation focus solely on the data from version control systems, even though there exists other channels for knowledge generation and distribution. With a survey of 269 engineers, we find that the bus factor is perceived as an important problem in collective development, and determine the highest impact channels of knowledge generation and distribution in software development teams. We also propose a multimodal bus factor estimation algorithm that uses data on code reviews and meetings together with the VCS data. We test the algorithm on 13 projects developed at JetBrains and compared its results to the results of the state-of-the-art tool by Avelino et al. against the ground truth collected in a survey of the engineers working on these projects. Our algorithm is slightly better in terms of both predicting the bus factor as well as key developers compared to the results of Avelino et al. Finally, we use the interviews and the surveys to derive a set of best practices to address the bus factor issue and proposals for the possible bus factor assessment tool.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://ieeexplore.ieee.org/document/9610717">Towards a Taxonomy of Inline Code Comment Smells</a>
     		<br><i>Elgun Jabrayilzade, Olcaytu Gürkan, Eray Tüzün</i>
     		<br>IEEE 21st International Working Conference on Source Code Analysis and Manipulation (SCAM 2021)
