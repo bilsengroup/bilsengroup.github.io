@@ -121,10 +121,10 @@ research-volunteers:
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
     github: https://github.com/Beste-Guney
-  - name: Çağrı Eren 
+  - name: Cagrı Eren 
     img: /img/people/eren.jpg
     desc: Sc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
-    website:https://www.linkedin.com/in/cagrieren-74ab49168/
+    website: https://www.linkedin.com/in/cagrieren-74ab49168/
     url: https://www.linkedin.com/in/cagrieren-74ab49168/
     github: https://github.com/cagri26ren
     twitter: https://twitter.com/arEren18
