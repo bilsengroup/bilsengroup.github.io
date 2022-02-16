@@ -47,7 +47,7 @@ image: /img/logo.png
 	<li>
     	<div style="text-align: justify">
     		<a href="https://www.researchgate.net/publication/357745711_Teaching_Design_Patterns_Using_Interactive_Methods">Teaching Design Patterns Using Interactive Methods</a>
-    		<br><i>Ata Yurtsever, Eray TüzünEray Tüzün</i>
+    		<br><i>Ata Yurtsever, Eray Tüzün</i>
     		<br> CSEE&T / HICSS 2022 ▪ Conference on Software Engineering Education and Training: Special Track of Hawaii International Conference on System Sciences
     		<br><button data-toggle="collapse" data-target="#demo31">See Abstract</button><br>
 
