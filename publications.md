@@ -7,6 +7,19 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2446">Characterizing duplicate bugs: Perceptions of practitioners and an empirical analysis</a>
+    		<br><i>Berfin Kucuk,Idil Hanhan,Eray Tuzun</i>
+    		<br>Journal of Software: Evolution and Process
+    		<br><button data-toggle="collapse" data-target="#demo35">See Abstract</button><br>
+
+    		<div id="demo35" class="collapse">
+    		Bug handling is an essential part of the software development process. Ideally, in a bug-tracking system, bugs are reported, fixed, verified, and closed. In some cases, bugs have to be reopened mostly due to an incorrect fix. However, instead of reopening the existing bug report, users may submit a new report for a previously reported bug, which results in duplicate bug reports. Users might report duplicate bugs if they miss the previous bug report or if the previous bug is unresolved (i.e., in progress) and therefore cannot be reopened. These duplicate bug reports may cost extra maintenance efforts in triaging and bug fixing. There have been several studies on characterizing reopened bugs and duplicate bug reports; however, to the best of our knowledge, there has been no prior work on understanding the dynamics of their interaction, which is missed reopen bugs. Our study is based on analyzing the difference between duplicate and nonduplicate bugs and further categorizing the duplicate bugs. In this regard, we categorize duplicate bugs according to the original bug's resolution status at the duplicate's creation time as Master-Unresolved bugs and Master-Resolved (Missed Reopen) bugs to distinguish their properties. We compare these two types of bugs in terms of their relationship to their master bug, bug surface time, bug fix time, bug's severity, and the number of users involved. We perform case studies using the Eclipse and Mozilla projects' bug repositories that include more than 165,500 and 394,000 bug reports, respectively. Additionally, we investigate the perceived importance, impact, and causes of duplicate bugs, as well as the difference between nonduplicate and duplicate bugs and its categories for practitioners in the software industry by conducting a survey.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://arxiv.org/abs/2202.01523">Bus Factor In Practice</a>
     		<br><i>Elgun Jabrayilzade, Mikhail Evtikhiev, Eray Tüzün, Vladimir Kovalenko</i>
     		<br> 44th International Conference on Software Engineering (ICSE 2022)
