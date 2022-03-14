@@ -100,7 +100,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #314f96;
+  background: #00529F;
   border-bottom: 1px solid #294481;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -249,7 +249,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #314f96;
+  background: #00529F;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -696,7 +696,7 @@ td.gutter {
 
 .list-circles-item .item-link {
   margin:0 3px;
-  color: #314f96;
+  color: #00529F;
   text-decoration: none !important;
 }
 
