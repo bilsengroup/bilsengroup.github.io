@@ -43,7 +43,7 @@ avatar: "/img/bilsen-logo-circled.svg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#00529F"
 navbar-text-col: "#434343"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
