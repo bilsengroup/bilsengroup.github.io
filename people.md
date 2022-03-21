@@ -78,7 +78,7 @@ research-volunteers:
     twitter: https://tr.linkedin.com/in/berfinkucuk
   - name: Cansu Moran
     img: /img/people/cansumoran.jpg
-    desc: Ongoing BSc in Bilkent University. <br> Systematic labelling bias in defect management.
+    desc: BSc in Bilkent University. <br> Systematic labelling bias in defect management.
     website: https://www.linkedin.com/in/cansu-moran/
     url: https://www.linkedin.com/in/cansu-moran/
     github: https://github.com/cansumoran
@@ -91,7 +91,7 @@ research-volunteers:
     twitter: https://twitter.com/atayrs
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
+    desc: BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
     website: https://www.linkedin.com/in/aydayurtoglu/
     url: https://www.linkedin.com/in/aydayurtoglu/
     github: https://github.com/aydayurtoglu
@@ -104,7 +104,7 @@ research-volunteers:
     twitter: https://twitter.com/AyberkTecimer
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
+    desc: BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
@@ -123,14 +123,14 @@ research-volunteers:
     github: https://github.com/Beste-Guney
   - name: Çağrı Eren 
     img: /img/people/eren.jpg
-    desc: Sc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
+    desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
     website: https://www.linkedin.com/in/cagrieren-74ab49168/
     url: https://www.linkedin.com/in/cagrieren-74ab49168/
     github: https://github.com/cagri26ren
     twitter: https://twitter.com/arEren18
   - name: Lara Merdol
     img: /img/people/LARA.jpg
-    desc: Sc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
+    desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
     website: https://www.linkedin.com/in/lara-merdol-3a926516a/
     url: https://www.linkedin.com/in/lara-merdol-3a926516a/
     github: https://github.com/LaraMerdol
@@ -163,14 +163,14 @@ part-time-engineers:
     github: https://github.com/eylulcaglar
   - name: Emre Açıkgöz
     img: /img/people/emreacikgoz.jpg
-    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Process Smells
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells
     website: https://www.linkedin.com/in/emrez/
     url: https://www.linkedin.com/in/emrez/
     github: https://github.com/emrez
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
+    desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
     website: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
     url: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
     github: https://github.com/FatihSevbanUyanik
@@ -189,7 +189,7 @@ summer-interns:
     github: https://github.com/Ozanaydinn
   - name: Yusuf Avcı
     img: /img/people/yusufavci.jpg
-    desc:  Ongoing BSc from Computer Science, Bilkent University <br> Software Engineering Education and Serious Games
+    desc: BSc from Computer Science, Bilkent University <br> Software Engineering Education and Serious Games
     website: https://www.linkedin.com/in/yusuf-avci/
     url: https://www.linkedin.com/in/yusuf-avci/
     github: https://github.com/yusufavci99
@@ -256,14 +256,14 @@ former-members:
     github: https://github.com/barisardic
   - name: Yahya Elnouby
     img: /img/people/yahyaelnoubly.jpg
-    desc: Ongoing BSc in Bilkent University. <br> Gamification in Software Engineering
+    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
     website: https://www.linkedin.com/in/yahyaelnouby/
     url: https://www.linkedin.com/in/yahyaelnouby/
     github: https://github.com/YahyaElnouby
     twitter: https://twitter.com/Yahya_Elnouby26
   - name: Oguzhan Dere
     img: /img/people/oguzhandere.jpg
-    desc: Ongoing BSc from Computer Science, Bilkent University. <br> Game Development and Research
+    desc: BSc from Computer Science, Bilkent University. <br> Game Development and Research
     website: https://www.linkedin.com/in/osandere/
     url: https://www.linkedin.com/in/osandere/
     github: https://github.com/oguzhandere2
