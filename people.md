@@ -128,6 +128,13 @@ research-volunteers:
     url: https://www.linkedin.com/in/cagrieren-74ab49168/
     github: https://github.com/cagri26ren
     twitter: https://twitter.com/arEren18
+  - name: Lara Merdol
+    img: /img/people/LARA.jpg
+    desc: Sc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
+    website: https://www.linkedin.com/in/lara-merdol-3a926516a/
+    url: https://www.linkedin.com/in/lara-merdol-3a926516a/
+    github:https://github.com/LaraMerdol
+    twitter: https://twitter.com/LMerdol
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
