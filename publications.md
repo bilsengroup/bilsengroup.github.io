@@ -7,6 +7,37 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2446">Analyzing developer contributions using artifact traceability graphs</a>
+    		<br><i>H. Alperen Cetin, Eray Tuzun</i>
+    		<br>Empirical Software Engineering
+    		<br><button data-toggle="collapse" data-target="#demo36">See Abstract</button><br>
+
+    		<div id="demo36" class="collapse">
+    		Context In a software project, properly analyzing the contributions of developers could
+provide valuable insights for decision-makers. The contributions of a developer could be
+in many different forms such as committing and reviewing code, opening and resolving
+issues. Previous approaches mainly consider the commit-based contributions which provide
+an incomplete picture of developer contributions.
+Objective Different from the traditional commit-based approaches for analyzing developer
+contributions, we aim to provide a more holistic approach to reflect the rich set of software
+development activities using artifact traceability graphs.
+Method For analyzing the developer contributions, we propose a novel categorization of
+developers (Jacks, Mavens and Connectors) in a software project. We introduce a set of algorithms on artifact traceability graphs to identify key developers, recommend replacements
+for leaving developers and evaluate knowledge distribution among developers.
+Results We evaluate our proposed algorithms on six open-source projects and demonstrate
+that the identified key developers match the top commenters up to 98%, recommended
+replacements are correct up to 91% and identified knowledge distribution labels are
+compatible 94% on average with the baseline approaches.
+Conclusions The proposed algorithms using artifact traceability graphs for analyzing developer contributions could be used by software project decision-makers in several scenarios.
+(1) Identifying different types of key developers. (2) Finding a replacement developer in
+large teams. (3) Evaluating the overall knowledge distribution amongst developers to take
+early precautions.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2446">Characterizing duplicate bugs: Perceptions of practitioners and an empirical analysis</a>
     		<br><i>Berfin Kucuk,Idil Hanhan,Eray Tuzun</i>
     		<br>Journal of Software: Evolution and Process
