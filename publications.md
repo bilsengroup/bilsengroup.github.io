@@ -7,7 +7,7 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
-    		<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2446">Analyzing developer contributions using artifact traceability graphs</a>
+    		<a href="https://trebuchet.public.springernature.app/get_content/61dd8503-6642-4ed9-8ef6-3593d0310a91">Analyzing developer contributions using artifact traceability graphs</a>
     		<br><i>H. Alperen Cetin, Eray Tuzun</i>
     		<br>Empirical Software Engineering
     		<br><button data-toggle="collapse" data-target="#demo36">See Abstract</button><br>
