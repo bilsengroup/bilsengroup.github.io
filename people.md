@@ -169,7 +169,7 @@ part-time-engineers:
     github: https://github.com/emrez
   - name: Iqbal Karim
     img: /img/people/iqbal.jpg
-    desc: BSc from Computer Science, School of Applied Sciences, Department of Information Technology and Systems <br> Front-End Engineer for Smellyzer.
+    desc: BSc from Computer Science, School of Applied Sciences, Department of Information Technology and Systems <br> Front-End Engineer for Smellyzer
     website: https://www.linkedin.com/in/iqbal-k-193606130/
     url: https://www.linkedin.com/in/iqbal-k-193606130/
     github: https://github.com/iqbalKarim
