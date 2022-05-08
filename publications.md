@@ -7,6 +7,21 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="https://arxiv.org/abs/2204.07669">Investigating the Impact of Forgetting in Software Development</a>
+    		<br><i>Utku Ünal, Eray Tüzün, Tamer Gezici, Ausaf Ahmed Farooqui</i>
+    		<br>19th International Conference on Mining Software Repositories (MSR 2022)
+    		<br><button data-toggle="collapse" data-target="#demo37">See Abstract</button><br>
+
+    		<div id="demo37" class="collapse">
+    		Context: Forgetting is defined as a gradual process of losing information. Even though there are many studies demonstrating the effect of forgetting in software development, to the best of our knowledge, no study explores the impact of forgetting in software development using a controlled experiment approach.
+Objective: We would like to provide insights on the impact of forgetting in software development projects. We want to examine whether the recency & frequency of interaction impact forgetting in software development.
+Methods: We will conduct an experiment that examines the impact of forgetting in software development. Participants will first do an initial task. According to their initial task performance, they will be assigned to either the experiment or the control group. The experiment group will then do two additional tasks to enhance their exposure to the code. Both groups will then do a final task to see if additional exposure to the code benefits the experiment group's performance in the final task. Finally, we will conduct a survey and a recall task with the same participants to collect data about their perceptions of forgetting and quantify their memory performance, respectively.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://trebuchet.public.springernature.app/get_content/61dd8503-6642-4ed9-8ef6-3593d0310a91">Analyzing developer contributions using artifact traceability graphs</a>
     		<br><i>H. Alperen Cetin, Eray Tuzun</i>
     		<br>Empirical Software Engineering
