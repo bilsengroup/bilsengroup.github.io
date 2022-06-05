@@ -18,7 +18,7 @@ graduate-students:
     github: https://github.com/utkuunalCS
     twitter: https://twitter.com/utkuunal_
   - name: Shirin Pirouzkhah
-    img: /img/people/shirinpirouzkhah.jpg
+    img: /img/people/shirin.jpg
     desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
