@@ -10,32 +10,12 @@ PI:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
 graduate-students:
-  - name: Utku Ünal
-    img: /img/people/utkuunal.jpg
-    desc:  BSc from Computer Science, Bilkent University and MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
-    website: https://www.linkedin.com/in/utkuunalcs/
-    url: https://www.linkedin.com/in/utkuunalcs/
-    github: https://github.com/utkuunalCS
-    twitter: https://twitter.com/utkuunal_
-  - name: Shirin Pirouzkhah
-    img: /img/people/shirin.jpg
-    desc: BSc from Information Technologies, Tabriz University. <br> Process Smells and Software Analytics
-    website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
-    url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
-    github: https://github.com/shirinpirouzkhaah
   - name: Emre Sülün
     img: /img/people/emresülün.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
     website: https://linkedin.com/in/sulun
     url: https://linkedin.com/in/sulun
     github: https://github.com/sulunemre
-  - name: Elgun Jabrayilzade
-    img: /img/people/elgunjabyilzade.jpg
-    desc: BSc from Izmir Institude of Technolog  <br> NLP, bus factor in SE. 
-    website: https://www.linkedin.com/in/elgunjabrayilzade/
-    url: https://www.linkedin.com/in/elgunjabrayilzade/
-    github: https://github.com/jelgun
-    twitter: https://twitter.com/eraytuzun
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
     desc: BSc from Electrical and Electronics Engineering, Middle East Technical University. <br> Software analytics and software process smells.
@@ -69,26 +49,6 @@ graduate-students:
     url: https://www.linkedin.com/in/selen-uysal-824b07176/
     github: https://github.com/SelenUysal
 research-volunteers:
-  - name: Berfin Küçük
-    img: /img/people/berfinkucuk.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Characterization of duplicate bugs.
-    website: https://tr.linkedin.com/in/berfinkucuk
-    url: https://tr.linkedin.com/in/berfinkucuk
-    github: https://github.com/berfinkucuk
-    twitter: https://tr.linkedin.com/in/berfinkucuk
-  - name: Cansu Moran
-    img: /img/people/cansumoran.jpg
-    desc: BSc in Bilkent University. <br> Systematic labelling bias in defect management.
-    website: https://www.linkedin.com/in/cansu-moran/
-    url: https://www.linkedin.com/in/cansu-moran/
-    github: https://github.com/cansumoran
-  - name: Ata Yurtsever
-    img: /img/people/atayurtsever.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Design Patterns Education, Interactive Learning
-    website: https://www.linkedin.com/in/atayurtsever/
-    url: https://www.linkedin.com/in/atayurtsever/
-    github: https://github.com/AtaYurtsever
-    twitter: https://twitter.com/atayrs
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
@@ -167,12 +127,6 @@ part-time-engineers:
     website: https://www.linkedin.com/in/emrez/
     url: https://www.linkedin.com/in/emrez/
     github: https://github.com/emrez
-  - name: Iqbal Karim
-    img: /img/people/iqbal.jpg
-    desc: BSc from Computer Science, School of Applied Sciences, Department of Information Technology and Systems <br> Front-End Engineer for Smellyzer
-    website: https://www.linkedin.com/in/iqbal-k-193606130/
-    url: https://www.linkedin.com/in/iqbal-k-193606130/
-    github: https://github.com/iqbalKarim
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
@@ -229,14 +183,14 @@ former-members:
     twitter: https://twitter.com/ZeynepCankara
   - name: Emre Doğan, MSc
     img: /img/people/emredogan.jpg
-    desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering​ <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
+    desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering​ <br> MSc from Bilkent University <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
     website: https://www.linkedin.com/in/emredogan7/
     url: https://www.linkedin.com/in/emredogan7/
     github: https://github.com/emredogan7
     twitter: https://twitter.com/mrdogan7
   - name: Hamdi Alperen Çetin, MSc
     img: /img/people/alperencetin.jpg
-    desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology <br> Artifact Traceability Graphs and Identifying Key Developers
+    desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology <br> MSc from Bilkent University <br> Artifact Traceability Graphs and Identifying Key Developers
     website: https://www.linkedin.com/in/hacetin/
     url: https://www.linkedin.com/in/hacetin/
     github: https://github.com/hacetin
@@ -256,7 +210,7 @@ former-members:
     twitter: https://twitter.com/eraytuzun
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
-    desc: MSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
+    desc: MSc from Bilkent University <br> Software Engineering Education and Serious Games
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
@@ -282,11 +236,51 @@ former-members:
     github: https://github.com/mustafayasar28
   - name: Khushbakht Ali
     img: /img/people/aliqamar.jpeg
-    desc: BSc from National University of Science & Technology (NUST), <br> Bug Tracking Process Smells
+    desc: BSc from National University of Science & Technology (NUST) <br> MSc from Bilkent University <br> Bug Tracking Process Smells
     website: https://www.linkedin.com/in/khushbakht-ali-422959110/
     url: https://www.linkedin.com/in/khushbakht-ali-422959110/
     github: https://github.com/khushbakhtali
     twitter: https://twitter.com/khushbakhtali
+  - name: Shirin Pirouzkhah
+    img: /img/people/shirin.jpg
+    desc: BSc from Information Technologies, Tabriz University. <br> MSc from Bilkent University <br> Process Smells and Software Analytics
+    website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
+    url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
+    github: https://github.com/shirinpirouzkhaah
+  - name: Utku Ünal
+    img: /img/people/utkuunal.jpg
+    desc:  BSc from Computer Science, Bilkent University and MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
+    website: https://www.linkedin.com/in/utkuunalcs/
+    url: https://www.linkedin.com/in/utkuunalcs/
+    github: https://github.com/utkuunalCS
+    twitter: https://twitter.com/utkuunal_
+  - name: Elgun Jabrayilzade
+    img: /img/people/elgunjabyilzade.jpg
+    desc: BSc from Izmir Institude of Technolog  <br> MSc from Bilkent University <br> NLP, bus factor in SE. 
+    website: https://www.linkedin.com/in/elgunjabrayilzade/
+    url: https://www.linkedin.com/in/elgunjabrayilzade/
+    github: https://github.com/jelgun
+    twitter: https://twitter.com/jelgun
+  - name: Berfin Küçük
+    img: /img/people/berfinkucuk.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Characterization of duplicate bugs.
+    website: https://tr.linkedin.com/in/berfinkucuk
+    url: https://tr.linkedin.com/in/berfinkucuk
+    github: https://github.com/berfinkucuk
+    twitter: https://tr.linkedin.com/in/berfinkucuk
+  - name: Cansu Moran
+    img: /img/people/cansumoran.jpg
+    desc: BSc in Bilkent University. <br> Systematic labelling bias in defect management.
+    website: https://www.linkedin.com/in/cansu-moran/
+    url: https://www.linkedin.com/in/cansu-moran/
+    github: https://github.com/cansumoran
+  - name: Ata Yurtsever
+    img: /img/people/atayurtsever.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Design Patterns Education, Interactive Learning
+    website: https://www.linkedin.com/in/atayurtsever/
+    url: https://www.linkedin.com/in/atayurtsever/
+    github: https://github.com/AtaYurtsever
+    twitter: https://twitter.com/atayrs
 ---
 
 {% include list-circles.html items=page.PI%}
