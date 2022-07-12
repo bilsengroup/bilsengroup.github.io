@@ -74,7 +74,7 @@ Methods: We will conduct an experiment that examines the impact of forgetting in
     <br>
 	<li>
     	<div style="text-align: justify">
-    		<a href="https://trebuchet.public.springernature.app/get_content/61dd8503-6642-4ed9-8ef6-3593d0310a91">Analyzing developer contributions using artifact traceability graphs</a>
+    		<a href="[https://trebuchet.public.springernature.app/get_content/61dd8503-6642-4ed9-8ef6-3593d0310a91](https://link.springer.com/article/10.1007/s10664-022-10129-2 )">Analyzing developer contributions using artifact traceability graphs</a>
     		<br><i>H. Alperen Cetin, Eray Tuzun</i>
     		<br>Empirical Software Engineering
     		<br><button data-toggle="collapse" data-target="#demo36">See Abstract</button><br>
