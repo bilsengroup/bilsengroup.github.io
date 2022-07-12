@@ -7,6 +7,58 @@ image: /img/logo.png
 <ul>
 	<li>
     	<div style="text-align: justify">
+    		<a href="[https://arxiv.org/abs/2204.07669](https://www.sciencedirect.com/science/article/pii/S0950584922001008)">Cleaning ground truth data in software task assignment</a>
+    		<br><i>K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus</i>
+    		<br>Information and Software Technology Journal 2022
+    		<br><button data-toggle="collapse" data-target="#demo39">See Abstract</button><br>
+
+    		<div id="demo39" class="collapse">
+    		Context:
+In the context of collaborative software development, there are many application areas of task assignment such as assigning a developer to fix a bug, or assigning a code reviewer to a pull request. Most task assignment techniques in the literature build and evaluate their models based on datasets collected from real projects. The techniques invariably presume that these datasets reliably represent the “ground truth”. In a project dataset used to build an automated task assignment system, the recommended assignee for the task is usually assumed to be the best assignee for that task. However, in practice, the task assignee may not be the best possible task assignee, or even a sufficiently qualified one.
+
+Objective:
+We aim to clean up the ground truth by removing the samples that are potentially problematic or suspect with the assumption that removing such samples would reduce any systematic labeling bias in the dataset and lead to performance improvements.
+
+Method:
+We devised a debiasing method to detect potentially problematic samples in task assignment datasets. We then evaluated the method’s impact on the performance of seven task assignment techniques by comparing the Mean Reciprocal Rank (MRR) scores before and after debiasing. We used two different task assignment applications for this purpose: Code Reviewer Recommendation (CRR) and Bug Assignment (BA).
+
+Results:
+In the CRR application, we achieved an average MRR improvement of 18.17% for the three learning-based techniques tested on two datasets. No significant improvements were observed for the two optimization-based techniques tested on the same datasets. In the BA application, we achieved a similar average MRR improvement of 18.40% for the two learning-based techniques tested on four different datasets.
+
+Conclusion:
+Debiasing the ground truth data by removing suspect samples can help improve the performance of learning-based techniques in software task assignment applications.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
+    		<a href="[https://arxiv.org/abs/2204.07669](https://www.sciencedirect.com/science/article/pii/S0950584922001094)">Taxonomy of bug tracking process smells: Perceptions of practitioners and an empirical analysis</a>
+    		<br><i>Khushbakht Ali Qamar, Emre Sülün, Eray Tüzün</i>
+    		<br> Information and Software Technology Journal 2022
+    		<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+
+    		<div id="demo38" class="collapse">
+    		Context:
+While there is no consensus on a formally specified bug tracking process, some certain rules and best practices for an optimal bug tracking process are accepted by many companies and open-source software (OSS) projects. Despite slight variations between different platforms, the primary aim of all these rules and practices is to perform a more efficient bug tracking process. Practitioners’ non-compliance with the best practices not only impedes the benefits of the bug tracking process but also negatively affects the other phases of software development life cycle.
+
+Objective:
+The goal of this study is to gain a better knowledge of the bad practices that occur during the bug tracking process (bug tracking process smells) and to perform quantitative analysis to show that these process smells exist in bug tracking systems. Moreover, we want to know the perception of software practitioners related to these process smells and also observe the impact of process smells on the bug tracking process.
+
+Methods:
+Based on the results of a multivocal literature review, we analyzed 60 sources in academic and gray literature and propose a taxonomy of 12 bad practices in the bug tracking process. To quantitatively analyze these process smells, we inspected bug reports collected from eight projects which use Jira, Bugzilla, and GitHub Issues. To get an idea about the perception of practitioners about the taxonomy of bug tracking process smells, we conducted a targeted survey with 30 software practitioners. Moreover, we statistically analyzed the impact of bug tracking process smells on the resolution time and reopening count of bugs.
+
+Results:
+We observed from our empirical results that a considerable amount of bug tracking process smells exist in all projects and some of the process smell categories have statistically significant impacts on quality and speed. Survey results shows that the majority of software practitioners agree with the proposed taxonomy of BT process smells.
+
+Conclusion:
+The statistical analysis reveals that bug tracking process smells have an impact on OSS projects. The proposed taxonomy may serve as a foundation for best practices and tool support for detecting and avoiding bug tracking process smells.
+    		</div>
+    	</div>
+    </li>
+    <br>
+	<li>
+    	<div style="text-align: justify">
     		<a href="https://arxiv.org/abs/2204.07669">Investigating the Impact of Forgetting in Software Development</a>
     		<br><i>Utku Ünal, Eray Tüzün, Tamer Gezici, Ausaf Ahmed Farooqui</i>
     		<br>19th International Conference on Mining Software Repositories (MSR 2022)
