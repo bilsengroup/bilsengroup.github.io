@@ -33,7 +33,7 @@ Debiasing the ground truth data by removing suspect samples can help improve the
     <br>
 	<li>
     	<div style="text-align: justify">
-    		<a href="[https://arxiv.org/abs/2204.07669](https://www.sciencedirect.com/science/article/pii/S0950584922001094)">Taxonomy of bug tracking process smells: Perceptions of practitioners and an empirical analysis</a>
+    		<a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094">Taxonomy of bug tracking process smells: Perceptions of practitioners and an empirical analysis</a>
     		<br><i>Khushbakht Ali Qamar, Emre Sülün, Eray Tüzün</i>
     		<br> Information and Software Technology Journal 2022
     		<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
