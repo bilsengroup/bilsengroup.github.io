@@ -183,14 +183,14 @@ former-members:
     twitter: https://twitter.com/ZeynepCankara
   - name: Emre Doğan, MSc
     img: /img/people/emredogan.jpg
-    desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering​ <br> MSc from Bilkent University <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
+    desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering. <br> MSc from Bilkent University. <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
     website: https://www.linkedin.com/in/emredogan7/
     url: https://www.linkedin.com/in/emredogan7/
     github: https://github.com/emredogan7
     twitter: https://twitter.com/mrdogan7
   - name: Hamdi Alperen Çetin, MSc
     img: /img/people/alperencetin.jpg
-    desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology <br> MSc from Bilkent University <br> Artifact Traceability Graphs and Identifying Key Developers
+    desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology. <br> MSc from Bilkent University. <br> Artifact Traceability Graphs and Identifying Key Developers
     website: https://www.linkedin.com/in/hacetin/
     url: https://www.linkedin.com/in/hacetin/
     github: https://github.com/hacetin
@@ -210,7 +210,7 @@ former-members:
     twitter: https://twitter.com/eraytuzun
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
-    desc: MSc from Bilkent University <br> Software Engineering Education and Serious Games
+    desc: MSc from Bilkent University. <br> Software Engineering Education and Serious Games
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
@@ -236,27 +236,27 @@ former-members:
     github: https://github.com/mustafayasar28
   - name: Khushbakht Ali
     img: /img/people/aliqamar.jpeg
-    desc: BSc from National University of Science & Technology (NUST) <br> MSc from Bilkent University <br> Bug Tracking Process Smells
+    desc: BSc from National University of Science & Technology (NUST). <br> MSc from Bilkent University. <br> Bug Tracking Process Smells
     website: https://www.linkedin.com/in/khushbakht-ali-422959110/
     url: https://www.linkedin.com/in/khushbakht-ali-422959110/
     github: https://github.com/khushbakhtali
     twitter: https://twitter.com/khushbakhtali
   - name: Shirin Pirouzkhah
     img: /img/people/shirin.jpg
-    desc: BSc from Information Technologies, Tabriz University. <br> MSc from Bilkent University <br> Process Smells and Software Analytics
+    desc: BSc from Information Technologies, Tabriz University. <br> MSc from Bilkent University. <br> Process Smells and Software Analytics
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
-    desc:  BSc from Computer Science, Bilkent University and MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
+    desc:  BSc from Computer Science, Bilkent University.  <br> MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
     website: https://www.linkedin.com/in/utkuunalcs/
     url: https://www.linkedin.com/in/utkuunalcs/
     github: https://github.com/utkuunalCS
     twitter: https://twitter.com/utkuunal_
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: BSc from Izmir Institude of Technolog  <br> MSc from Bilkent University <br> NLP, bus factor in SE. 
+    desc: BSc from Izmir Institude of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE. 
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
