@@ -127,6 +127,12 @@ part-time-engineers:
     website: https://www.linkedin.com/in/emrez/
     url: https://www.linkedin.com/in/emrez/
     github: https://github.com/emrez
+  - name: Berkay Çalmaz
+    img: /img/people/berkayBilsen.jfif
+    desc: BSc from Computer Science, Bilkent University. <br> Software process smells
+    website: https://www.linkedin.com/in/berkay-calmaz/
+    url: https://www.linkedin.com/in/berkay-calmaz/
+    github: https://github.com/BerkayCalmaz
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
