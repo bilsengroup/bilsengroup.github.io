@@ -133,6 +133,12 @@ part-time-engineers:
     website: https://www.linkedin.com/in/berkay-calmaz/
     url: https://www.linkedin.com/in/berkay-calmaz/
     github: https://github.com/BerkayCalmaz
+  - name: Can Yılmaz
+    img: /img/people/Can Yılmaz.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software process smells
+    website: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
+    url: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
+    github: https://github.com/Can-Yilmaz
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
