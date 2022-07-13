@@ -152,6 +152,13 @@ part-time-engineers:
     website: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
     url: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
     github: https://github.com/Can-Yilmaz
+  - name: Uğur Can Altun
+    img: /img/people/canaltun.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
+    website: https://www.linkedin.com/in/uğur-can-altun-92344b220
+    url: https://www.linkedin.com/in/uğur-can-altun-92344b220
+    github: https://github.com/ugurcanaltun
+    twitter: https://twitter.com/ucaltun
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
