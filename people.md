@@ -95,6 +95,13 @@ research-volunteers:
     url: https://www.linkedin.com/in/lara-merdol-3a926516a/
     github: https://github.com/LaraMerdol
     twitter: https://twitter.com/LMerdol
+  - name: Metehan Saçakçı
+    img: /img/people/Metehan-Sacakci-Vesikalık.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
+    website: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
+    url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
+    github: https://github.com/msacakci
+    twitter: https://twitter.com/Msacakci
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
