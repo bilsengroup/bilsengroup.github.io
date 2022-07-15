@@ -108,6 +108,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/sahinkerem
     url: https://www.linkedin.com/in/sahinkerem
     github: https://github.com/KeremSahin22
+  - name:  Miray Ayerdem
+    img: /img/people/miray.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
+    website: https://www.linkedin.com/in/mirayayerdem/
+    url: https://www.linkedin.com/in/mirayayerdem/
+    github: https://github.com/mirayayerdem
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
@@ -159,6 +165,12 @@ part-time-engineers:
     url: https://www.linkedin.com/in/uğur-can-altun-92344b220
     github: https://github.com/ugurcanaltun
     twitter: https://twitter.com/ucaltun
+  - name: İsmail Sergen Göçmen 
+    img: /img/people/ismail.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
+    website: https://www.linkedin.com/in/ismailsergengocmen
+    url: https://www.linkedin.com/in/ismailsergengocmen
+    github: https://github.com/ismailsergengocmen
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
