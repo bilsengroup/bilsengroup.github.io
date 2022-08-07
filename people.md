@@ -48,6 +48,11 @@ graduate-students:
     website: https://www.linkedin.com/in/selen-uysal-824b07176/
     url: https://www.linkedin.com/in/selen-uysal-824b07176/
     github: https://github.com/SelenUysal
+  - name: Umut Cihan
+    img: /img/people/umut.jpg
+    desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
+    website: https://www.linkedin.com/in/umutcihan
+    url: https://www.linkedin.com/in/umutcihan
 research-volunteers:
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
