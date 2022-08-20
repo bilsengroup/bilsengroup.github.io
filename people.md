@@ -52,9 +52,6 @@ graduate-students:
     desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
-  - name: Fereshteh Vedadi
-    img: /img/people/F_photo.jpg
-    desc: Bachelor's degree and Master's degree: University of Tabriz <br> Software Analytics.
 research-volunteers:
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
