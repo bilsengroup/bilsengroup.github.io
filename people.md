@@ -22,7 +22,6 @@ graduate-students:
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
-    twitter: https://www.linkedin.com/in/erdem-tuna/
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
     desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering. 
@@ -53,6 +52,12 @@ graduate-students:
     desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
+  - name: Fereshteh Vedadi
+    img: /img/people/F_photo.jpg
+    desc: Bachelor's degree and Master's degree: University of Tabriz <br> Software Analytics.
+    website: linkedin.com/in/fereshteh-vedadi-6353131a6
+    url: linkedin.com/in/fereshteh-vedadi-6353131a6
+    twitter: https://twitter.com/Fereshte_Vedadi
 research-volunteers:
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
