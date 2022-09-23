@@ -2,7 +2,7 @@
 title: People
 subtitle: Members of BILSEN
 PI:
-  - name: Eray Tüzün 
+  - name: Eray Tüzün
     img: /img/people/eraytuzun.jpg
     desc: Assistant Professor at the Computer Engineering Department of Bilkent University
     website: https://www.eraytuzun.com/
@@ -24,7 +24,7 @@ graduate-students:
     github: https://github.com/erdemtuna
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering. 
+    desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering.
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
@@ -34,7 +34,7 @@ graduate-students:
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
-  - name: Vahid Haratian 
+  - name: Vahid Haratian
     img: /img/people/Vahid_Haratian.jpg
     desc: BSc from Computer Engineering, Sharif University of Technology <br> Software analytics
     website: https://www.linkedin.com/in/vahid-haratian-754aa2183/
@@ -91,7 +91,7 @@ research-volunteers:
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
     github: https://github.com/Beste-Guney
-  - name: Çağrı Eren 
+  - name: Çağrı Eren
     img: /img/people/eren.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
     website: https://www.linkedin.com/in/cagrieren-74ab49168/
@@ -105,7 +105,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/lara-merdol-3a926516a/
     github: https://github.com/LaraMerdol
     twitter: https://twitter.com/LMerdol
-  - name: Metehan Saçakçı 
+  - name: Metehan Saçakçı
     img: /img/people/Metehan-Sacakci-Vesikalık.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
     website: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
@@ -118,7 +118,7 @@ research-volunteers:
     website: https://www.linkedin.com/in/sahinkerem
     url: https://www.linkedin.com/in/sahinkerem
     github: https://github.com/KeremSahin22
-  - name:  Miray Ayerdem
+  - name: Miray Ayerdem
     img: /img/people/miray.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
     website: https://www.linkedin.com/in/mirayayerdem/
@@ -175,7 +175,7 @@ part-time-engineers:
     url: https://www.linkedin.com/in/uğur-can-altun-92344b220
     github: https://github.com/ugurcanaltun
     twitter: https://twitter.com/ucaltun
-  - name: İsmail Sergen Göçmen 
+  - name: İsmail Sergen Göçmen
     img: /img/people/ismail.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
     website: https://www.linkedin.com/in/ismailsergengocmen
@@ -303,14 +303,14 @@ former-members:
     github: https://github.com/shirinpirouzkhaah
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
-    desc:  BSc from Computer Science, Bilkent University.  <br> MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
+    desc: BSc from Computer Science, Bilkent University.  <br> MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
     website: https://www.linkedin.com/in/utkuunalcs/
     url: https://www.linkedin.com/in/utkuunalcs/
     github: https://github.com/utkuunalCS
     twitter: https://twitter.com/utkuunal_
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: BSc from Izmir Institude of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE. 
+    desc: BSc from Izmir Institude of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE.
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
@@ -341,17 +341,22 @@ former-members:
 Members are the people involved in Bilsen as graduate students,as undergrad students in a research course or volunteers.
 See [this page](../contact) if you would like more information on working with us.
 
-## Graduate Students 
+## Graduate Students
+
 {% include list-circles.html items=page.graduate-students %}
 
-## Research Volunteers 
+## Research Volunteers
+
 {% include list-circles.html items=page.research-volunteers %}
 
-## Part Time Engineers 
+## Part Time Engineers
+
 {% include list-circles.html items=page.part-time-engineers %}
 
-## Summer Interns 
+## Summer Interns
+
 {% include list-circles.html items=page.summer-interns %}
 
 ## Former Members
+
 {% include list-circles.html items=page.former-members %}

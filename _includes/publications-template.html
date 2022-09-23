@@ -1,0 +1,17 @@
+<ul>
+  {% for publication in include.items %}
+  <li>
+    <div style="text-align: justify">
+      <a href="{{ publication.url }}">{{ publication.title }}</a><br />
+      <i>{{ publication.authors }}</i> <br />{{ publication.venue }}<br />
+      <button data-toggle="collapse" data-target="#pub{{ forloop.index }}">
+        See Abstract</button
+      ><br />
+      <div id="pub{{ forloop.index }}" class="collapse">
+        {{ publication.abstract }}
+      </div>
+    </div>
+  </li>
+  <br />
+  {% endfor %}
+</ul>
