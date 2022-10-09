@@ -124,6 +124,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/mirayayerdem/
     url: https://www.linkedin.com/in/mirayayerdem/
     github: https://github.com/mirayayerdem
+  - name: Ayberk Yaşa
+    img: /img/people/ayberkyasa.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
+    website: https://www.linkedin.com/in/ayberkyasa/
+    url: https://www.linkedin.com/in/ayberkyasa/
+    github: https://github.com/ayberkyasa
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
@@ -132,12 +138,6 @@ part-time-engineers:
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
     twitter: https://www.twitter.com/isikozsoy
-  - name: Ayberk Yaşa
-    img: /img/people/ayberkyasa.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
-    website: https://www.linkedin.com/in/ayberkyasa/
-    url: https://www.linkedin.com/in/ayberkyasa/
-    github: https://github.com/ayberkyasa
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
