@@ -130,6 +130,10 @@ research-volunteers:
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
+  - name: Ege Ergül
+    img: /img/people/ege_ergul.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
+    github: https://github.com/egeergul
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
