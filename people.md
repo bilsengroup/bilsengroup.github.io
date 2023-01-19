@@ -58,13 +58,14 @@ graduate-students:
     website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     twitter: https://twitter.com/Fereshte_Vedadi
+  - name: Yahya Elnouby
+    img: /img/people/yahyaelnoubly.jpg
+    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
+    website: https://www.linkedin.com/in/yahyaelnouby/
+    url: https://www.linkedin.com/in/yahyaelnouby/
+    github: https://github.com/YahyaElnouby
+    twitter: https://twitter.com/Yahya_Elnouby26
 research-volunteers:
-  - name: Ayda Yurtoğlu
-    img: /img/people/aydayurtoglu.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
-    website: https://www.linkedin.com/in/aydayurtoglu/
-    url: https://www.linkedin.com/in/aydayurtoglu/
-    github: https://github.com/aydayurtoglu
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
@@ -272,13 +273,6 @@ former-members:
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
-  - name: Yahya Elnouby
-    img: /img/people/yahyaelnoubly.jpg
-    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
-    website: https://www.linkedin.com/in/yahyaelnouby/
-    url: https://www.linkedin.com/in/yahyaelnouby/
-    github: https://github.com/YahyaElnouby
-    twitter: https://twitter.com/Yahya_Elnouby26
   - name: Oguzhan Dere
     img: /img/people/oguzhandere.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Game Development and Research
@@ -339,6 +333,12 @@ former-members:
     url: https://www.linkedin.com/in/atayurtsever/
     github: https://github.com/AtaYurtsever
     twitter: https://twitter.com/atayrs
+  - name: Ayda Yurtoğlu
+    img: /img/people/aydayurtoglu.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
+    website: https://www.linkedin.com/in/aydayurtoglu/
+    url: https://www.linkedin.com/in/aydayurtoglu/
+    github: https://github.com/aydayurtoglu
 ---
 
 {% include list-circles.html items=page.PI%}
