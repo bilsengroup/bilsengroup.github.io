@@ -135,6 +135,27 @@ research-volunteers:
     img: /img/people/ege_ergul.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
     github: https://github.com/egeergul
+  - name: Furkan Gön
+    img: /img/people/Furkan_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/mahmutfurkangon 
+    url: https://www.linkedin.com/in/mahmutfurkangon 
+    github:  https://github.com/mafugo
+    twitter: https://twitter.com/mfurkangon 
+  - name: Sıla Saraoğlu
+    img: /img/people/Sila_.jpg
+    desc: Bilkent University Computer Engineering <br> Project Management Smells
+    website: https://www.linkedin.com/in/sila-saraoglu/
+    url: https://www.linkedin.com/in/sila-saraoglu/
+    github:  https://github.com/silaSaraoglu
+  - name: Berk Çakar
+    img: /img/people/Berk_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/berkcakar/ 
+    url: https://www.linkedin.com/in/berkcakar/
+    github:  https://github.com/friberk
+    twitter: https://twitter.com/friiberk
+    
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
