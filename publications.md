@@ -7,21 +7,21 @@ title: Publications
 # New entry must have authors, title, venue, url and abstract key/values
 
 papers:
-  - authors: K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus
-    title: Cleaning ground truth data in software task assignment
-    venue: Information and Software Technology Journal 2022
-    url: https://www.sciencedirect.com/science/article/pii/S0950584922001008
+  - authors: Burak Yetistiren, Isik Ozsoy, Eray Tuzun
+    title: Assessing the quality of GitHub copilot’s code generation
+    venue: Proceedings of the 18th International Conference on Predictive Models and Data Analytics in Software Engineering
+    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC
     abstract: |
       Context:
-      In the context of collaborative software development, there are many application areas of task assignment such as assigning a developer to fix a bug, or assigning a code reviewer to a pull request. Most task assignment techniques in the literature build and evaluate their models based on datasets collected from real projects. The techniques invariably presume that these datasets reliably represent the “ground truth”. In a project dataset used to build an automated task assignment system, the recommended assignee for the task is usually assumed to be the best assignee for that task. However, in practice, the task assignee may not be the best possible task assignee, or even a sufficiently qualified one.
+      The introduction of GitHub’s new code generation tool, GitHub Copilot, seems to be the first well-established instance of an AI pair-programmer. GitHub Copilot has access to a large number of open-source projects, enabling it to utilize more extensive code in various programming languages than other code generation tools. Although the initial and informal assessments are promising, a systematic evaluation is needed to explore the limits and benefits of GitHub Copilot.
       Objective:
-      We aim to clean up the ground truth by removing the samples that are potentially problematic or suspect with the assumption that removing such samples would reduce any systematic labeling bias in the dataset and lead to performance improvements.
+      The main objective of this study is to assess the quality of generated code provided by GitHub Copilot. We also aim to evaluate the impact of the quality and variety of input parameters fed to GitHub Copilot.
       Method:
-      We devised a debiasing method to detect potentially problematic samples in task assignment datasets. We then evaluated the method’s impact on the performance of seven task assignment techniques by comparing the Mean Reciprocal Rank (MRR) scores before and after debiasing. We used two different task assignment applications for this purpose: Code Reviewer Recommendation (CRR) and Bug Assignment (BA).
+      To achieve this aim, we created an experimental setup for evaluating the generated code in terms of validity, correctness, and efficiency.
       Results:
-      In the CRR application, we achieved an average MRR improvement of 18.17% for the three learning-based techniques tested on two datasets. No significant improvements were observed for the two optimization-based techniques tested on the same datasets. In the BA application, we achieved a similar average MRR improvement of 18.40% for the two learning-based techniques tested on four different datasets.
+      The results suggest that GitHub Copilot was able to generate valid code with a 91.5% success rate. In terms of code correctness, out of 164 problems, 47 (28.7%) were correctly, while 84 (51.2%) were partially correctly, and 33 (20.1%) were incorrectly generated.
       Conclusion:
-      Debiasing the ground truth data by removing suspect samples can help improve the performance of learning-based techniques in software task assignment applications.
+      Our empirical analysis shows that GitHub Copilot is a promising tool based on the results we obtained, however further and more comprehensive assessment is needed in the future.
 
   - authors: K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus
     title: Cleaning ground truth data in software task assignment
