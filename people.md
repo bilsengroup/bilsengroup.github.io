@@ -156,7 +156,7 @@ research-volunteers:
     github:  https://github.com/friberk
     twitter: https://twitter.com/friiberk
   - name: Arda İçöz
-    img: /img/people/Arda_.jpg
+    img: /img/people/arda_.jpg
     desc: BSc from Bilkent University ,Computer Science <br> Software Analytics
     website: linkedin.com/in/arda-icoz/
     url: linkedin.com/in/arda-icoz/
