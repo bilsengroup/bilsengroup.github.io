@@ -144,7 +144,7 @@ research-volunteers:
     twitter: https://twitter.com/mfurkangon 
   - name: Sıla Saraoğlu
     img: /img/people/Sila_.jpg
-    desc: Bilkent University Computer Engineering <br> Project Management Smells
+    desc: BSc from Computer Engineering, Bilkent University <br> Project Management Smells
     website: https://www.linkedin.com/in/sila-saraoglu/
     url: https://www.linkedin.com/in/sila-saraoglu/
     github:  https://github.com/silaSaraoglu
@@ -157,7 +157,7 @@ research-volunteers:
     twitter: https://twitter.com/friiberk
   - name: Arda İçöz
     img: /img/people/arda_.jpg
-    desc: BSc from Bilkent University ,Computer Science <br> Software Analytics
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: linkedin.com/in/arda-icoz/
     url: linkedin.com/in/arda-icoz/
     github:  github.com/ardaicoz
