@@ -155,6 +155,13 @@ research-volunteers:
     url: https://www.linkedin.com/in/berkcakar/
     github:  https://github.com/friberk
     twitter: https://twitter.com/friiberk
+  - name: Arda İçöz
+    img: /img/people/Arda_.jpg
+    desc: BSc from Bilkent University ,Computer Science <br> Software Analytics
+    website: linkedin.com/in/arda-icoz/
+    url: linkedin.com/in/arda-icoz/
+    github:  github.com/ardaicoz
+    twitter: twitter.com/ardaaicoz
     
 part-time-engineers:
   - name: Işık Özsoy
