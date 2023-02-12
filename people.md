@@ -10,18 +10,6 @@ PI:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
 graduate-students:
-  - name: Emre Sülün
-    img: /img/people/emresülün.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
-    website: https://linkedin.com/in/sulun
-    url: https://linkedin.com/in/sulun
-    github: https://github.com/sulunemre
-  - name: Erdem Tuna
-    img: /img/people/erdemtuna.jpg
-    desc: BSc from Electrical and Electronics Engineering, Middle East Technical University. <br> Software analytics and software process smells.
-    website: https://www.erdemtuna.me/
-    url: https://www.linkedin.com/in/erdem-tuna/
-    github: https://github.com/erdemtuna
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
     desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering.
@@ -336,7 +324,7 @@ former-members:
     twitter: https://twitter.com/utkuunal_
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
-    desc: BSc from Izmir Institude of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE.
+    desc: BSc from Izmir Institute of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE.
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
@@ -367,6 +355,18 @@ former-members:
     website: https://www.linkedin.com/in/aydayurtoglu/
     url: https://www.linkedin.com/in/aydayurtoglu/
     github: https://github.com/aydayurtoglu
+  - name: Emre Sülün
+    img: /img/people/emresülün.jpg
+    desc: MSc from Bilkent University <br> Issue Templates Usage
+    website: https://linkedin.com/in/sulun
+    url: https://linkedin.com/in/sulun
+    github: https://github.com/sulunemre
+  - name: Erdem Tuna
+    img: /img/people/erdemtuna.jpg
+    desc:MSc from Bilkent University <br> Impact of Code Review Process Smells
+    website: https://www.erdemtuna.me/
+    url: https://www.linkedin.com/in/erdem-tuna/
+    github: https://github.com/erdemtuna
 ---
 
 {% include list-circles.html items=page.PI%}
