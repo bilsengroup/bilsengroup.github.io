@@ -363,7 +363,7 @@ former-members:
     github: https://github.com/sulunemre
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
-    desc:MSc from Bilkent University <br> Impact of Code Review Process Smells
+    desc: MSc from Bilkent University <br> Impact of Code Review Process Smells
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
