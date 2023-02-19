@@ -150,7 +150,12 @@ research-volunteers:
     url: linkedin.com/in/arda-icoz/
     github:  github.com/ardaicoz
     twitter: twitter.com/ardaaicoz
-    
+  - name: Selin Bahar Gündoğar
+    img: /img/people/Selin_.png
+    desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
+    website: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
+    url: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
+    github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
