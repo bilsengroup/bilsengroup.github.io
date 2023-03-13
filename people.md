@@ -74,12 +74,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
     twitter: https://www.twitter.com/isikozsoy
-  - name: Beste Guney
-    img: /img/people/Beste.jpeg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
-    website: https://www.linkedin.com/in/beste-guney-23b5541b1/
-    url: https://www.linkedin.com/in/beste-guney-23b5541b1/
-    github: https://github.com/Beste-Guney
   - name: Çağrı Eren
     img: /img/people/eren.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
@@ -372,6 +366,12 @@ former-members:
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
+  - name: Beste Guney
+    img: /img/people/Beste.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
+    website: https://www.linkedin.com/in/beste-guney-23b5541b1/
+    url: https://www.linkedin.com/in/beste-guney-23b5541b1/
+    github: https://github.com/Beste-Guney
 ---
 
 {% include list-circles.html items=page.PI%}
