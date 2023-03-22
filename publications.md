@@ -18,9 +18,9 @@ papers:
 <a href="#">Analyzing Bug Life Cycles to Derive Practical Insights</a>
 <br><i>Çağrı Eren, Kerem Şahin, Eray Tuzun</i>
 <br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
-<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo42">See Abstract</button><br>
 
-            <div id="demo38" class="collapse">
+            <div id="demo42" class="collapse">
             Context:
 Bug tracking systems define bug life cycles that outline their bug tracking process.
                         
@@ -46,9 +46,9 @@ Conclusion:
 <a href="#">Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
 <br><i>Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün</i>
 <br> The International Conference on Software and System Processes (ICSSP 2023)
-<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo41">See Abstract</button><br>
 
-            <div id="demo38" class="collapse">
+            <div id="demo41" class="collapse">
             Context:
 
 Code reviews, while effective, can be crippled by process smells if not performed correctly. A typical process smell that harms the efficacy of code reviews is the ‘Looks Good To Me’ (LGTM) smell, wherein a reviewer approves a code review task without reviewing the code attentively. Low-quality code reviews can be harmful, as they can cause bugs to slip into a product codebase leading to potentially severe consequences.
@@ -77,9 +77,9 @@ To the best of our knowledge, our proof of concept implementation is the first-e
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC">Assessing the quality of GitHub copilot’s code generation</a>
 <br><i>Burak Yetistiren, Isik Ozsoy, Eray Tuzun</i>
 <br> 18th International Conference on Predictive Models and Data Analytics in Software Engineering
-<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo40">See Abstract</button><br>
 
-            <div id="demo38" class="collapse">
+            <div id="demo40" class="collapse">
             Context:
 
 The introduction of GitHub’s new code generation tool, GitHub Copilot, seems to be the first well-established instance of an AI pair-programmer. GitHub Copilot has access to a large number of open-source projects, enabling it to utilize more extensive code in various programming languages than other code generation tools. Although the initial and informal assessments are promising, a systematic evaluation is needed to explore the limits and benefits of GitHub Copilot.
@@ -108,9 +108,9 @@ Our empirical analysis shows that GitHub Copilot is a promising tool based on th
 <a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094">Cleaning ground truth data in software task assignment</a>
 <br><i>K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus</i>
 <br> Information and Software Technology Journal 2022
-<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo39">See Abstract</button><br>
 
-            <div id="demo38" class="collapse">
+            <div id="demo39" class="collapse">
             Context:
 
 In the context of collaborative software development, there are many application areas of task assignment such as assigning a developer to fix a bug, or assigning a code reviewer to a pull request. Most task assignment techniques in the literature build and evaluate their models based on datasets collected from real projects. The techniques invariably presume that these datasets reliably represent the “ground truth”. In a project dataset used to build an automated task assignment system, the recommended assignee for the task is usually assumed to be the best assignee for that task. However, in practice, the task assignee may not be the best possible task assignee, or even a sufficiently qualified one.
