@@ -15,6 +15,34 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="#">Analyzing Bug Life Cycles to Derive Practical Insights</a>
+<br><i>Çağrı Eren, Kerem Şahin, Eray Tuzun</i>
+<br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023) (ICSSP 2023)
+<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+
+            <div id="demo38" class="collapse">
+            Context:
+Bug tracking systems define bug life cycles that outline their bug tracking process.
+                        
+Objective:
+In this study, we assess bug life cycles to identify bottlenecks in the bug tracking processes, and examine the effectiveness of bug tracking system usage practices linked to bug states and state transitions.
+                        
+Methods:
+To achieve this, we examined the bug life cycles of three open-source software projects which use Bugzilla as their bug tracking system. In total, we have analyzed 106.196 bugs gathered from these projects. We started by looking at the temporal and quantitative aspects of these projects’ bug life cycles. After that, we collected data about how bug life cycles differ over time. Finally, we inspected the frequency of reopened and state-looping bugs in these projects.
+              
+Results:
+After our analysis, we have deduced that the presented temporal and quantitative analysis of bug life cycles is useful for finding bottlenecks and undesired behaviors in the bug tracking processes. We also inferred that examining the changes in bug life cycles over time can provide insights into how bug tracking practices changed throughout the project’s lifetime, and it can be used as a parameter to assess whether the bug tracking system usage has improved. Lastly, we deducted that analyzing undesired state trails’ frequency provides insights into the performance of bug tracking processes.
+              
+Conclusion:
+ Based on the insights gained from analyzing bug life cycles with the presented methods, we believe that decision makers can improve their workflow by introducing or removing new states to the bug life cycle and adding new rules and restrictions to their bug tracking process.
+</div>
+</div>
+</li>  
+<br>           
+                       
+            
+<li>
+<div style="text-align: justify">
 <a href="#">Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
 <br><i>Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün</i>
 <br> The International Conference on Software and System Processes (ICSSP 2023)
