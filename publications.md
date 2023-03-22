@@ -10,7 +10,7 @@ papers:
   - authors: Çağrı Eren, Kerem Şahin, Eray Tuzun
     title: Analyzing Bug Life Cycles to Derive Practical Insights
     venue: 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
-    url:.
+    url: test
     abstract: |
       Context:
       Bug tracking systems define bug life cycles that outline their bug tracking process.
@@ -26,7 +26,7 @@ papers:
   - authors: Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tuzun
     title: Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention
     venue: The International Conference on Software and System Processes (ICSSP 2023)
-    url:.
+    url: test
     abstract: |
       Context:
       Code reviews, while effective, can be crippled by process smells if not performed correctly. A typical process smell that harms the efficacy of code reviews is the ‘Looks Good To Me’ (LGTM) smell, wherein a reviewer approves a code review task without reviewing the code attentively. Low-quality code reviews can be harmful, as they can cause bugs to slip into a product codebase leading to potentially severe consequences.
