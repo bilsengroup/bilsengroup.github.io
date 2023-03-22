@@ -15,7 +15,7 @@ papers:
 <ul>
   <li>
 <div style="text-align: justify">
-<a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094"(https://www.sciencedirect.com/science/article/pii/S0950584922001008)>Cleaning ground truth data in software task assignment</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094">Cleaning ground truth data in software task assignment</a>
 <br><i>K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus</i>
 <br> Information and Software Technology Journal 2022
 <br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
