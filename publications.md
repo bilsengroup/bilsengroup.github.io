@@ -15,7 +15,7 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
-<a href=#>Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
+<a href="#">Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
 <br><i>Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün</i>
 <br> The International Conference on Software and System Processes (ICSSP 2023)
 <br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
