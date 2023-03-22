@@ -13,6 +13,37 @@ papers:
 {% include publications-template.html items=page.papers %}
 
 <ul>
+<li>
+<div style="text-align: justify">
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC">Assessing the quality of GitHub copilot’s code generation</a>
+<br><i>Burak Yetistiren, Isik Ozsoy, Eray Tuzun</i>
+<br> 18th International Conference on Predictive Models and Data Analytics in Software Engineering
+<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+
+            <div id="demo38" class="collapse">
+            Context:
+
+The introduction of GitHub’s new code generation tool, GitHub Copilot, seems to be the first well-established instance of an AI pair-programmer. GitHub Copilot has access to a large number of open-source projects, enabling it to utilize more extensive code in various programming languages than other code generation tools. Although the initial and informal assessments are promising, a systematic evaluation is needed to explore the limits and benefits of GitHub Copilot.
+
+Objective:
+The main objective of this study is to assess the quality of generated code provided by GitHub Copilot. We also aim to evaluate the impact of the quality and variety of input parameters fed to GitHub Copilot.
+
+Methods:
+To achieve this aim, we created an experimental setup for evaluating the generated code in terms of validity, correctness, and efficiency.
+              
+Results:
+The results suggest that GitHub Copilot was able to generate valid code with a 91.5% success rate. In terms of code correctness, out of 164 problems, 47 (28.7%) were correctly, while 84 (51.2%) were partially correctly, and 33 (20.1%) were incorrectly generated.
+              
+Conclusion:
+Our empirical analysis shows that GitHub Copilot is a promising tool based on the results we obtained, however further and more comprehensive assessment is needed in the future.
+
+</div>
+</div>
+</li>  
+<br>  
+  
+  
+  
   <li>
 <div style="text-align: justify">
 <a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094">Cleaning ground truth data in software task assignment</a>
