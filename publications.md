@@ -7,72 +7,42 @@ title: Publications
 # New entry must have authors, title, venue, url and abstract key/values
 
 papers:
-  - authors: Çağrı Eren, Kerem Şahin, Eray Tuzun
-    title: Analyzing Bug Life Cycles to Derive Practical Insights
-    venue: 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
-    url: test
-    abstract: |
-      Context:
-      Bug tracking systems define bug life cycles that outline their bug tracking process.
-      Objective:
-       In this study, we assess bug life cycles to identify bottlenecks in the bug tracking processes, and examine the effectiveness of bug tracking system usage practices linked to bug states and state transitions.
-      Method:
-      To achieve this, we examined the bug life cycles of three open-source software projects which use Bugzilla as their bug tracking system. In total, we have analyzed 106.196 bugs gathered from these projects. We started by looking at the temporal and quantitative aspects of these projects’ bug life cycles. After that, we collected data about how bug life cycles differ over time. Finally, we inspected the frequency of reopened and state-looping bugs in these projects.
-      Results:
-      After our analysis, we have deduced that the presented temporal and quantitative analysis of bug life cycles is useful for finding bottlenecks and undesired behaviors in the bug tracking processes. We also inferred that examining the changes in bug life cycles over time can provide insights into how bug tracking practices changed throughout the project’s lifetime, and it can be used as a parameter to assess whether the bug tracking system usage has improved. Lastly, we deducted that analyzing undesired state trails’ frequency provides insights into the performance of bug tracking processes.
-      Conclusion:
-      Based on the insights gained from analyzing bug life cycles with the presented methods, we believe that decision makers can improve their workflow by introducing or removing new states to the bug life cycle and adding new rules and restrictions to their bug tracking process.
-  - authors: Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün
-    title: Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention
-    venue: The International Conference on Software and System Processes (ICSSP 2023)
-    url: test
-    abstract: |
-      Context:
-      Code reviews, while effective, can be crippled by process smells if not performed correctly. A typical process smell that harms the efficacy of code reviews is the ‘Looks Good To Me’ (LGTM) smell, wherein a reviewer approves a code review task without reviewing the code attentively. Low-quality code reviews can be harmful, as they can cause bugs to slip into a product codebase leading to potentially severe consequences.
-      Objective:
-      In this paper, we propose an innovative solution to potentially minimize the occurrence of the LGTM smell commonly found in code reviews.
-      Method:
-      We built a tool that is a proof-of-concept implementation of our solution, which incorporates the concept of mutation testing into code reviews. It provides a platform where pull request authors can apply mutations to the pull request code in GitHub.
-      Results:
-      Reviewer attention and review efficacy are measured based on their mutation score. We validated our proposed solution with eight developers and received promising results.
-      Conclusion:
-     To the best of our knowledge, our proof of concept implementation is the first-ever code review tool that uses the concept of mutation testing.
-  - authors: Burak Yetistiren, Isik Ozsoy, Eray Tuzun
-    title: Assessing the quality of GitHub copilot’s code generation
-    venue: Proceedings of the 18th International Conference on Predictive Models and Data Analytics in Software Engineering
-    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC
-    abstract: |
-      Context:
-      The introduction of GitHub’s new code generation tool, GitHub Copilot, seems to be the first well-established instance of an AI pair-programmer. GitHub Copilot has access to a large number of open-source projects, enabling it to utilize more extensive code in various programming languages than other code generation tools. Although the initial and informal assessments are promising, a systematic evaluation is needed to explore the limits and benefits of GitHub Copilot.
-      Objective:
-      The main objective of this study is to assess the quality of generated code provided by GitHub Copilot. We also aim to evaluate the impact of the quality and variety of input parameters fed to GitHub Copilot.
-      Method:
-      To achieve this aim, we created an experimental setup for evaluating the generated code in terms of validity, correctness, and efficiency.
-      Results:
-      The results suggest that GitHub Copilot was able to generate valid code with a 91.5% success rate. In terms of code correctness, out of 164 problems, 47 (28.7%) were correctly, while 84 (51.2%) were partially correctly, and 33 (20.1%) were incorrectly generated.
-      Conclusion:
-      Our empirical analysis shows that GitHub Copilot is a promising tool based on the results we obtained, however further and more comprehensive assessment is needed in the future.
 
-  - authors: K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus
-    title: Cleaning ground truth data in software task assignment
-    venue: Information and Software Technology Journal 2022
-    url: https://www.sciencedirect.com/science/article/pii/S0950584922001008
-    abstract: |
-      Context:
-      In the context of collaborative software development, there are many application areas of task assignment such as assigning a developer to fix a bug, or assigning a code reviewer to a pull request. Most task assignment techniques in the literature build and evaluate their models based on datasets collected from real projects. The techniques invariably presume that these datasets reliably represent the “ground truth”. In a project dataset used to build an automated task assignment system, the recommended assignee for the task is usually assumed to be the best assignee for that task. However, in practice, the task assignee may not be the best possible task assignee, or even a sufficiently qualified one.
-      Objective:
-      We aim to clean up the ground truth by removing the samples that are potentially problematic or suspect with the assumption that removing such samples would reduce any systematic labeling bias in the dataset and lead to performance improvements.
-      Method:
-      We devised a debiasing method to detect potentially problematic samples in task assignment datasets. We then evaluated the method’s impact on the performance of seven task assignment techniques by comparing the Mean Reciprocal Rank (MRR) scores before and after debiasing. We used two different task assignment applications for this purpose: Code Reviewer Recommendation (CRR) and Bug Assignment (BA).
-      Results:
-      In the CRR application, we achieved an average MRR improvement of 18.17% for the three learning-based techniques tested on two datasets. No significant improvements were observed for the two optimization-based techniques tested on the same datasets. In the BA application, we achieved a similar average MRR improvement of 18.40% for the two learning-based techniques tested on four different datasets.
-      Conclusion:
-      Debiasing the ground truth data by removing suspect samples can help improve the performance of learning-based techniques in software task assignment applications.
 ---
 
 {% include publications-template.html items=page.papers %}
 
 <ul>
+  <li>
+<div style="text-align: justify">
+<a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094"(https://www.sciencedirect.com/science/article/pii/S0950584922001008)>Cleaning ground truth data in software task assignment</a>
+<br><i>K. Ayberk Tecimer, Eray Tüzün, Cansu Moran, Hakan Erdogmus</i>
+<br> Information and Software Technology Journal 2022
+<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+
+            <div id="demo38" class="collapse">
+            Context:
+
+In the context of collaborative software development, there are many application areas of task assignment such as assigning a developer to fix a bug, or assigning a code reviewer to a pull request. Most task assignment techniques in the literature build and evaluate their models based on datasets collected from real projects. The techniques invariably presume that these datasets reliably represent the “ground truth”. In a project dataset used to build an automated task assignment system, the recommended assignee for the task is usually assumed to be the best assignee for that task. However, in practice, the task assignee may not be the best possible task assignee, or even a sufficiently qualified one.
+
+Objective:
+We aim to clean up the ground truth by removing the samples that are potentially problematic or suspect with the assumption that removing such samples would reduce any systematic labeling bias in the dataset and lead to performance improvements.
+
+Methods:
+We devised a debiasing method to detect potentially problematic samples in task assignment datasets. We then evaluated the method’s impact on the performance of seven task assignment techniques by comparing the Mean Reciprocal Rank (MRR) scores before and after debiasing. We used two different task assignment applications for this purpose: Code Reviewer Recommendation (CRR) and Bug Assignment (BA).
+
+Results:
+In the CRR application, we achieved an average MRR improvement of 18.17% for the three learning-based techniques tested on two datasets. No significant improvements were observed for the two optimization-based techniques tested on the same datasets. In the BA application, we achieved a similar average MRR improvement of 18.40% for the two learning-based techniques tested on four different datasets.
+
+Conclusion:
+Debiasing the ground truth data by removing suspect samples can help improve the performance of learning-based techniques in software task assignment applications.
+
+</div>
+</div>
+</li>
+<br>
+  
+  
 <li>
 <div style="text-align: justify">
 <a href="https://www.sciencedirect.com/science/article/pii/S0950584922001094">Taxonomy of bug tracking process smells: Perceptions of practitioners and an empirical analysis</a>
