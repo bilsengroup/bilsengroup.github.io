@@ -15,6 +15,37 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href=#>Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
+<br><i>Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün</i>
+<br> The International Conference on Software and System Processes (ICSSP 2023)
+<br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
+
+            <div id="demo38" class="collapse">
+            Context:
+
+Code reviews, while effective, can be crippled by process smells if not performed correctly. A typical process smell that harms the efficacy of code reviews is the ‘Looks Good To Me’ (LGTM) smell, wherein a reviewer approves a code review task without reviewing the code attentively. Low-quality code reviews can be harmful, as they can cause bugs to slip into a product codebase leading to potentially severe consequences.
+
+Objective:
+In this paper, we propose an innovative solution to potentially minimize the occurrence of the LGTM smell commonly found in code reviews.
+                        
+Methods:
+We built a tool that is a proof-of-concept implementation of our solution, which incorporates the concept of mutation testing into code reviews. It provides a platform where pull request authors can apply mutations to the pull request code in GitHub.
+              
+Results:
+Reviewer attention and review efficacy are measured based on their mutation score. We validated our proposed solution with eight developers and received promising results.
+              
+Conclusion:
+To the best of our knowledge, our proof of concept implementation is the first-ever code review tool that uses the concept of mutation testing.
+
+</div>
+</div>
+</li>  
+<br>            
+                     
+            
+            
+<li>
+<div style="text-align: justify">
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC">Assessing the quality of GitHub copilot’s code generation</a>
 <br><i>Burak Yetistiren, Isik Ozsoy, Eray Tuzun</i>
 <br> 18th International Conference on Predictive Models and Data Analytics in Software Engineering
