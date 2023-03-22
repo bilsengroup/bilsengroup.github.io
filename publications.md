@@ -17,7 +17,7 @@ papers:
 <div style="text-align: justify">
 <a href="#">Analyzing Bug Life Cycles to Derive Practical Insights</a>
 <br><i>Çağrı Eren, Kerem Şahin, Eray Tuzun</i>
-<br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023) (ICSSP 2023)
+<br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
 <br><button data-toggle="collapse" data-target="#demo38">See Abstract</button><br>
 
             <div id="demo38" class="collapse">
