@@ -7,6 +7,38 @@ title: Publications
 # New entry must have authors, title, venue, url and abstract key/values
 
 papers:
+  - authors: Çağrı Eren, Kerem Şahin, Eray Tuzun
+    title: Analyzing Bug Life Cycles to Derive Practical Insights
+    venue: 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
+    url:
+    abstract: |
+      Context:
+      Bug tracking systems define bug life cycles that outline their bug tracking process.
+      Objective:
+       In this study, we assess bug life cycles to identify bottlenecks in the bug tracking processes, and examine the effectiveness of bug tracking system usage practices linked to bug states and state transitions.
+      Method:
+      To achieve this, we examined the bug life cycles of three open-source software projects which use Bugzilla as their bug tracking system. In total, we have analyzed 106.196 bugs gathered from these projects. We started by looking at the temporal and quantitative aspects of these projects’ bug life cycles. After that, we collected data about how bug life cycles differ over time. Finally, we inspected the frequency of reopened and state-looping bugs in these projects.
+      Results:
+      After our analysis, we have deduced that the presented temporal and quantitative analysis of bug life cycles is useful for finding bottlenecks and undesired behaviors in the bug tracking processes. We also inferred that examining the changes in bug life cycles over time can provide insights into how bug tracking practices changed throughout the project’s lifetime, and it can be used as a parameter to assess whether the bug tracking system usage has improved. Lastly, we deducted that analyzing undesired state trails’ frequency provides insights into the performance of bug tracking processes.
+      Conclusion:
+      Based on the insights gained from analyzing bug life cycles with the presented methods, we believe that decision makers can improve their workflow by introducing or removing new states to the bug life cycle and adding new rules and restrictions to their bug tracking process.
+
+  - authors: Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tuzun
+    title: Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention
+    venue: The International Conference on Software and System Processes (ICSSP 2023)
+    url:
+    abstract: |
+      Context:
+      Code reviews, while effective, can be crippled by process smells if not performed correctly. A typical process smell that harms the efficacy of code reviews is the ‘Looks Good To Me’ (LGTM) smell, wherein a reviewer approves a code review task without reviewing the code attentively. Low-quality code reviews can be harmful, as they can cause bugs to slip into a product codebase leading to potentially severe consequences.
+      Objective:
+      In this paper, we propose an innovative solution to potentially minimize the occurrence of the LGTM smell commonly found in code reviews.
+      Method:
+      We built a tool that is a proof-of-concept implementation of our solution, which incorporates the concept of mutation testing into code reviews. It provides a platform where pull request authors can apply mutations to the pull request code in GitHub.
+      Results:
+      Reviewer attention and review efficacy are measured based on their mutation score. We validated our proposed solution with eight developers and received promising results.
+      Conclusion:
+     To the best of our knowledge, our proof of concept implementation is the first-ever code review tool that uses the concept of mutation testing.
+     
   - authors: Burak Yetistiren, Isik Ozsoy, Eray Tuzun
     title: Assessing the quality of GitHub copilot’s code generation
     venue: Proceedings of the 18th International Conference on Predictive Models and Data Analytics in Software Engineering
