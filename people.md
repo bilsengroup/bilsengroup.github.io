@@ -150,6 +150,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     url: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
+  - name: Ali Emir Güzey
+    img: /img/people/Ali_Emir_.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
+    website: https://linkedin.com/in/ali-guzey
+    url: https://linkedin.com/in/ali-guzey
+    github: https://github.com/guezey
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
@@ -201,6 +207,13 @@ part-time-engineers:
     website: https://www.linkedin.com/in/ismailsergengocmen
     url: https://www.linkedin.com/in/ismailsergengocmen
     github: https://github.com/ismailsergengocmen
+  - name: Utku Boran Torun
+    img: /img/people/Boran_.jpeg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
+    website: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
+    url: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
+    github: https://github.com/torunb
+    twitter: https://twitter.com/borantorunn
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
