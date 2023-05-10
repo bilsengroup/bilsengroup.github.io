@@ -41,7 +41,7 @@ graduate-students:
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
   - name: Fereshteh Vedadi
-    img: /img/people/F_photo.jpg
+    img: /img/people/Fereshteh_.jpeg
     desc: Bachelor's degree and Master's degree from University of Tabriz. <br> Software Analytics.
     website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
