@@ -54,13 +54,6 @@ graduate-students:
     github: https://github.com/YahyaElnouby
     twitter: https://twitter.com/Yahya_Elnouby26
 research-volunteers:
-  - name: Ayberk Tecimer
-    img: /img/people/ayberktecimer.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
-    website: https://www.linkedin.com/in/ayberktecimer/
-    url: https://www.linkedin.com/in/ayberktecimer/
-    github: https://github.com/ayberktecimer
-    twitter: https://twitter.com/AyberkTecimer
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
@@ -385,6 +378,13 @@ former-members:
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
     github: https://github.com/Beste-Guney
+  - name: Ayberk Tecimer
+    img: /img/people/ayberktecimer.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
+    website: https://www.linkedin.com/in/ayberktecimer/
+    url: https://www.linkedin.com/in/ayberktecimer/
+    github: https://github.com/ayberktecimer
+    twitter: https://twitter.com/AyberkTecimer
 ---
 
 {% include list-circles.html items=page.PI%}
