@@ -5,7 +5,6 @@ subtitle: Bilkent University Software Engineering and Data Analytics Research Gr
 use-site-title: true
 ---
 
-![BILSEN Members](/img/group-photo.jpg)
 
 **BILSEN (Bilkent University Software Engineering and Data Analytics Research Group)** of [Computer Engineering Department](https://w3.cs.bilkent.edu.tr/en/) at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) has been performing research studies on software engineering domain over the last decade.
 
