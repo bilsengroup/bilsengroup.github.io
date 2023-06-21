@@ -3,10 +3,10 @@ layout: post
 title: Events & News
 ---
 
-- <div style="text-align: justify">Our submission titled "Analyzing Bug Life Cycles to Derive Practical Insights" (Çağrı Eren, Kerem Şahin, and Eray Tuzun) got the best paper award in the 27th edition of the Evaluation and Assessment in Software Engineering (EASE) Conference. </div>
-  <center><img src="/img/analyze.jpg" alt="Best Paper Award" width="340"></center><br>
-- <div style="text-align: justify">Our study, “Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention" got the best paper award at the 17th International Conference on Software and System Processes. </div>
+- <div style="text-align: justify">Our study, “Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention" got the best paper award at the 17th International Conference on Software and System Processes. (ICSSP2023)  </div>
   <center><img src="/img/att.jpg" alt="Best Paper Award" width="340"></center><br>
+- <div style="text-align: justify">Our submission titled "Analyzing Bug Life Cycles to Derive Practical Insights" (Çağrı Eren, Kerem Şahin, and Eray Tuzun) got the best paper award in the 27th edition of the Evaluation and Assessment in Software Engineering (EASE) Conference. (EASE23) </div>
+  <center><img src="/img/analyze.jpg" alt="Best Paper Award" width="340"></center><br>
 - <div style="text-align: justify">Our submission titled "CRSG: A Serious Game for Teaching Code Review" (Kaan Ünlü, Barış Ardıç and Eray Tüzün) is accepted to the 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering Tool Demonstrations Track (ESEC/FSE 2020).</div><br>
 - <div style="text-align: justify">Our submission titled "Identifying Key Developers using Artifact Traceability Graphs" (H.Alperen Çetin and Eray Tüzün) is accepted to the 15th International Conference on Predictive Modeling in Software Engineering (PROMISE 2020).</div><br>
 - <div style="text-align: justify">Our submission titled "Creation of a Serious Game For Teaching Code Review: An Experience Report" (Barış Ardıç, İrem Yurdakul and Eray Tüzün) is accepted to 32nd IEEE International Conference on Software Engineering Education & Training (CSEE&T 2020).</div><br>
