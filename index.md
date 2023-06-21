@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: first_page
 title: BILSEN
 subtitle: Bilkent University Software Engineering and Data Analytics Research Group
 use-site-title: true
