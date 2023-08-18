@@ -155,6 +155,13 @@ research-volunteers:
     website: linkedin.com/in/mehmetbahattindulkadiroglu
     url: linkedin.com/in/mehmetbahattindulkadiroglu
     github: github.com/mbdulkadiroglu
+  - name: İpek Öztaş
+    img: /img/people/Ipek_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Code comment smells
+    website: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
+    url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
+    github:  https://github.com/ipekoztas
+    twitter: https://twitter.com/pekzta4
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
