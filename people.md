@@ -149,7 +149,7 @@ research-volunteers:
     website: https://linkedin.com/in/ali-guzey
     url: https://linkedin.com/in/ali-guzey
     github: https://github.com/guezey
- - name: Mehmet Bahattin Dulkadiroğlu
+  - name: Mehmet Bahattin Dulkadiroğlu
     img: /img/people/Mehmet_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
     website: linkedin.com/in/mehmetbahattindulkadiroglu
