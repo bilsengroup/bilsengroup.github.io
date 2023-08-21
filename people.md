@@ -53,6 +53,12 @@ graduate-students:
     url: https://www.linkedin.com/in/yahyaelnouby/
     github: https://github.com/YahyaElnouby
     twitter: https://twitter.com/Yahya_Elnouby26
+  - name: Kübra Çağlar
+    img: /img/people/kubra_.jpg
+    desc: BSc from Electrical and Electronics Engineering, Bilkent University. <br> Software Analytics
+    website: https://www.linkedin.com/in/hkubracaglar/
+    url: https://www.linkedin.com/in/hkubracaglar/
+    github: https://github.com/KubraCaglar
 research-volunteers:
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
