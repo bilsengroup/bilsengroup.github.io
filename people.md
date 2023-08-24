@@ -168,6 +168,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     github:  https://github.com/ipekoztas
     twitter: https://twitter.com/pekzta4
+  - name: Ahmet Selim ÇAKIR
+    img: /img/people/ahmet_.jpg
+    desc: Student at Garip Zeycan Science High School <br> Software Analytics
+    website: https://www.linkedin.com/in/ahmetselimcakir/
+    url: https://www.linkedin.com/in/ahmetselimcakir/
+    github: https://github.com/OrionKnight55
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
