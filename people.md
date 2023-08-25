@@ -59,6 +59,12 @@ graduate-students:
     website: https://www.linkedin.com/in/hkubracaglar/
     url: https://www.linkedin.com/in/hkubracaglar/
     github: https://github.com/KubraCaglar
+  - name: Giray Akyol
+    img: /img/people/Giray_.jpg
+    desc: BSc in Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/giray-akyol-925698223/
+    url: https://www.linkedin.com/in/giray-akyol-925698223/
+    github: https://github.com/GirayAkyol
 research-volunteers:
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
