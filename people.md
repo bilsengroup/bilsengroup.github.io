@@ -238,6 +238,12 @@ part-time-engineers:
     url: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
     github: https://github.com/torunb
     twitter: https://twitter.com/borantorunn
+  - name: Erfan FarhangKia
+    img: /img/people/Erfan_.jpeg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
+    website: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
+    url: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
+    github: https://github.com/Erfan-FK
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
