@@ -239,7 +239,7 @@ part-time-engineers:
     github: https://github.com/torunb
     twitter: https://twitter.com/borantorunn
   - name: Erfan FarhangKia
-    img: /img/people/Erfan_.jpeg
+    img: /img/people/Erfan_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
     website: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
     url: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
