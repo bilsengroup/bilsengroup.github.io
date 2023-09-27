@@ -174,12 +174,18 @@ research-volunteers:
     url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     github:  https://github.com/ipekoztas
     twitter: https://twitter.com/pekzta4
-  - name: Ahmet Selim ÇAKIR
+  - name: Ahmet Selim Çakir
     img: /img/people/ahmet_.jpg
     desc: Student at Garip Zeycan Science High School <br> Software Analytics
     website: https://www.linkedin.com/in/ahmetselimcakir/
     url: https://www.linkedin.com/in/ahmetselimcakir/
     github: https://github.com/OrionKnight55
+  - name: Kutay Tire
+    img: /img/people/kutay_.jpeg
+    desc:  BSc from Computer Science, Bilkent University <br> Automatic PR Generation
+    website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
+    url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
+    github: https://github.com/kutaytire
 part-time-engineers:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
