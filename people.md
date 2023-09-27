@@ -181,7 +181,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/ahmetselimcakir/
     github: https://github.com/OrionKnight55
   - name: Kutay Tire
-    img: /img/people/kutay_.jpeg
+    img: /img/people/kutay2_.jpeg
     desc:  BSc from Computer Science, Bilkent University <br> Automatic PR Generation
     website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
