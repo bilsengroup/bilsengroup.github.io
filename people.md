@@ -79,13 +79,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
     twitter: https://www.twitter.com/isikozsoy
-  - name: Çağrı Eren
-    img: /img/people/eren.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
-    website: https://www.linkedin.com/in/cagrieren-74ab49168/
-    url: https://www.linkedin.com/in/cagrieren-74ab49168/
-    github: https://github.com/cagri26ren
-    twitter: https://twitter.com/arEren18
   - name: Lara Merdol
     img: /img/people/LARA.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
@@ -118,10 +111,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
-  - name: Ege Ergül
-    img: /img/people/ege_ergul.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
-    github: https://github.com/egeergul
   - name: Furkan Gön
     img: /img/people/Furkan_.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
@@ -187,13 +176,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     github: https://github.com/kutaytire
 part-time-engineers:
-  - name: Işık Özsoy
-    img: /img/people/isikozsoy.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
-    website: https://www.linkedin.com/in/isikozsoy
-    url: https://www.linkedin.com/in/isikozsoy
-    github: https://www.github.com/isikozsoy
-    twitter: https://www.twitter.com/isikozsoy
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
@@ -244,12 +226,6 @@ part-time-engineers:
     url: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
     github: https://github.com/torunb
     twitter: https://twitter.com/borantorunn
-  - name: Erfan FarhangKia
-    img: /img/people/Erfan_.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
-    website: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
-    url: https://www.linkedin.com/in/erfan-farhangkia-2316b7248/
-    github: https://github.com/Erfan-FK
 summer-interns:
   - name: Fatih Sevban Uyanık
     img: /img/people/fatihsevbanuyanik.jpg
@@ -428,6 +404,24 @@ former-members:
     url: https://www.linkedin.com/in/ayberktecimer/
     github: https://github.com/ayberktecimer
     twitter: https://twitter.com/AyberkTecimer
+  - name: Işık Özsoy
+    img: /img/people/isikozsoy.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
+    website: https://www.linkedin.com/in/isikozsoy
+    url: https://www.linkedin.com/in/isikozsoy
+    github: https://www.github.com/isikozsoy
+    twitter: https://www.twitter.com/isikozsoy
+  - name: Ege Ergül
+    img: /img/people/ege_ergul.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
+    github: https://github.com/egeergul
+  - name: Çağrı Eren
+    img: /img/people/eren.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
+    website: https://www.linkedin.com/in/cagrieren-74ab49168/
+    url: https://www.linkedin.com/in/cagrieren-74ab49168/
+    github: https://github.com/cagri26ren
+    twitter: https://twitter.com/arEren18
 ---
 
 {% include list-circles.html items=page.PI%}
