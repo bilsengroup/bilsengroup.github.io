@@ -72,13 +72,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
-  - name: Işık Özsoy
-    img: /img/people/isikozsoy.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
-    website: https://www.linkedin.com/in/isikozsoy
-    url: https://www.linkedin.com/in/isikozsoy
-    github: https://www.github.com/isikozsoy
-    twitter: https://www.twitter.com/isikozsoy
   - name: Lara Merdol
     img: /img/people/LARA.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
