@@ -172,7 +172,7 @@ research-volunteers:
     img: /img/people/IsilOzgu_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/isilozgu/
-    url: https://www.linkedin.com/in/isilozgu/
+    url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     github: https: https://github.com/isil66
   - name: Atakan Şerifoğlu
     img: /img/people/atakan_.png
