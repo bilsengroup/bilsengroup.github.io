@@ -168,7 +168,7 @@ research-volunteers:
     website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     github: https://github.com/kutaytire
- - name: Işıl Özgü
+  - name: Işıl Özgü
     img: /img/people/IsilOzgu_.jpeg
     desc:  BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/isilozgu/
