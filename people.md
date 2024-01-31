@@ -180,6 +180,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/atakanserifoglu/
     url: https://www.linkedin.com/in/atakanserifoglu/
     github: https://github.com/atakanserifoglu
+  - name: Ali Tunahan Işik
+    img: /img/people/AliT_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/ali-tunahan/
+    url: https://www.linkedin.com/in/ali-tunahan/
+    github: https://github.com/ali-tunahan
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
