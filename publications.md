@@ -15,6 +15,34 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="https://dl.acm.org/doi/abs/10.1145/3611643.3613877">BFSig: Leveraging File Significance in Bus Factor Estimation</a>
+<br><i>Vahid Haratian, Mikhail Evtikhiev, Pouria Derakhshanfar, Eray Tuzun, Vladimir Kovalenko</i>
+<br>ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+<br><button data-toggle="collapse" data-target="#demo42">See Abstract</button><br>
+
+            <div id="demo42" class="collapse">
+            Context:
+Software projects experience the departure of developers due to various reasons. As developers are one of the main sources of knowledge in software projects, their absence will inevitably result in a certain degree of knowledge depletion. Bus Factor (BF) is a metric to evaluate how this knowledge loss can affect the project’s continuity. Conventionally, BF is calculated as the smallest set of developers, removing over half the project knowledge upon departure.
+                        
+Objective:
+Current state-of-the-art approaches measure developers’ knowledge by the number of authored files, utilizing version control system (VCS) information. However, numerous studies have shown that files in software projects have different significance. In this study, we explore how weighting files according to their significance affects the performance of two prevailing BF estimators.
+                        
+Methods:
+We derive significance scores by computing five well-known graph metrics from the project’s dependency graph: PageRank, In- /Out-/All-Degree, and Betweenness Centralities. Furthermore, we introduce BFSig, a prototype of our approach. Finally, we present a new dataset comprising reported BF scores collected by surveying software practitioners from five prominent Github repositories. 
+              
+Results:
+Our results indicate that BFSig outperforms the baselines by up to an 18% reduction in terms of Normalized Mean Absolute Error (NMAE). Moreover, BFSig yields 18% fewer False Negatives in identifying potential risks associated with low BF. Besides, our respondent confirmed BFSig versatility by showing its ability to assess the BF of the project’s subfolders.
+              
+Conclusion:
+ In conclusion, we believe to estimate BF from authorship, software components of higher importance should be assigned heavier weight. Currently, BFSig exclusively explores the topological characteristics of these components. Nevertheless, considering attributes such as code complexity and bug proneness could potentially enhance the performance of BFSig.
+</div>
+</div>
+</li>  
+<br> 
+
+            
+<li>
+<div style="text-align: justify">
 <a href="#">Analyzing Bug Life Cycles to Derive Practical Insights</a>
 <br><i>Çağrı Eren, Kerem Şahin, Eray Tuzun</i>
 <br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
