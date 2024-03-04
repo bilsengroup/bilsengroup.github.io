@@ -19,7 +19,7 @@ papers:
 Projects on GitHub</a>
 <br><i>Emre Sülün, Metehan Saçakçı, Eray Tuzun</i>
 <br>ACM Transactions on Software Engineering and Methodology
-<br><button data-toggle="collapse" data-target="#demo42">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo44">See Abstract</button><br>
 
             <div id="demo42" class="collapse">
             Context:
@@ -47,7 +47,7 @@ Thus, our research underscores issue templates’ positive impact on large-scale
 <a href="https://dl.acm.org/doi/abs/10.1145/3611643.3613877">BFSig: Leveraging File Significance in Bus Factor Estimation</a>
 <br><i>Vahid Haratian, Mikhail Evtikhiev, Pouria Derakhshanfar, Eray Tuzun, Vladimir Kovalenko</i>
 <br>ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-<br><button data-toggle="collapse" data-target="#demo42">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo43">See Abstract</button><br>
 
             <div id="demo42" class="collapse">
             Context:
