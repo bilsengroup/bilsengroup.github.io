@@ -21,7 +21,7 @@ Projects on GitHub</a>
 <br>ACM Transactions on Software Engineering and Methodology
 <br><button data-toggle="collapse" data-target="#demo44">See Abstract</button><br>
 
-            <div id="demo42" class="collapse">
+            <div id="demo44" class="collapse">
             Context:
 GitHub Issues is a widely used issue tracking tool in open-source software projects. Originally designed with broad flexibility, its lack of standardization led to incomplete issue reports, impeding software development and maintenance efficiency. To counteract this, GitHub introduced issue templates in 2016, which rapidly became popular.
                         
@@ -49,7 +49,7 @@ Thus, our research underscores issue templates’ positive impact on large-scale
 <br>ESEC/FSE 2023: Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 <br><button data-toggle="collapse" data-target="#demo43">See Abstract</button><br>
 
-            <div id="demo42" class="collapse">
+            <div id="demo43" class="collapse">
             Context:
 Software projects experience the departure of developers due to various reasons. As developers are one of the main sources of knowledge in software projects, their absence will inevitably result in a certain degree of knowledge depletion. Bus Factor (BF) is a metric to evaluate how this knowledge loss can affect the project’s continuity. Conventionally, BF is calculated as the smallest set of developers, removing over half the project knowledge upon departure.
                         
