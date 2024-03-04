@@ -100,7 +100,7 @@ In conclusion, we believe to estimate BF from authorship, software components of
             
 <li>
 <div style="text-align: justify">
-<a href="#">Analyzing Bug Life Cycles to Derive Practical Insights</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3593434.3593504">Analyzing Bug Life Cycles to Derive Practical Insights</a>
 <br><i>Çağrı Eren, Kerem Şahin, Eray Tuzun</i>
 <br>27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)
 <br><button data-toggle="collapse" data-target="#demo42">See Abstract</button><br>
@@ -128,7 +128,7 @@ Conclusion:
             
 <li>
 <div style="text-align: justify">
-<a href="#">Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
+<a href="https://www.computer.org/csdl/proceedings-article/icssp/2023/119600a092/1OyNcT0ikQ8">Towards Better Code Reviews: Using Mutation Testing to Improve Reviewer Attention</a>
 <br><i>Ziya Mukhtarov, Mannan Abdul, Mokhlaroyim Raupova, Javid Baghirov, Osama Tanveer, Haluk Altunel, Eray Tüzün</i>
 <br> The International Conference on Software and System Processes (ICSSP 2023)
 <br><button data-toggle="collapse" data-target="#demo41">See Abstract</button><br>
