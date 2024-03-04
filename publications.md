@@ -15,6 +15,34 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="https://dl.acm.org/doi/abs/10.1145/3617555.3617870">Do Developers Fix Continuous Integration Smells?</a>
+<br><i>Ayberk Yaşa, Ege Ergül, Hakan Erdogmus, Eray Tuzun</i>
+<br>PROMISE 2023: Proceedings of the 19th International Conference on Predictive Models and Data Analytics in Software Engineering
+<br><button data-toggle="collapse" data-target="#demo45">See Abstract</button><br>
+
+            <div id="demo45" class="collapse">
+            Context:
+Continuous Integration (CI) is a common software engineering practice in which the code changes are frequently merged into a software project repository after automated builds and tests have been successfully run. CI enables developers to quickly detect bugs, enhance the quality of the code, and shorten review times. However, developers may encounter some obstacles in following the CI principles. They may be unaware of them, they may follow the principles partially or they may even act against them. These behaviors result in CI smells. CI smells may in turn lessen the benefits of CI. Addressing CI smells rapidly allows software projects to fully reap the benefits of CI and increase its effectiveness.
+                        
+Objective:
+The main objective of this study is to investigate how frequently developers address CI smells.
+                        
+Methods:
+To achieve this objective, we first selected seven smells, then implemented scripts for detecting these smells automatically, and then ran the scripts in eight open-source software projects using GitHub Actions. To assess the resolution extent of CI smells by practitioners, we calculated the occurrences and time-to-resolution (TTR) of each smell.  
+              
+Results:
+Our results suggest that Skipped Job smell has been fixed slightly more than other CI smells. The most frequently observed smell was Long Build, which was detected in an average of 19.03% of all CI builds. Fake Success smell does not get resolved in projects where it exists. 
+              
+Conclusion:
+Our study reveals that practitioners do not fix CI smells in practice. Further studies are needed to explore the underlying reasons behind this, in order to recommend more effective strategies for addressing these smells.
+</div>
+</div>
+</li>  
+<br> 
+
+         
+<li>
+<div style="text-align: justify">
 <a href="https://dl.acm.org/doi/abs/10.1145/3643673">An Empirical Analysis of Issue Templates Usage in Large-Scale
 Projects on GitHub</a>
 <br><i>Emre Sülün, Metehan Saçakçı, Eray Tuzun</i>
