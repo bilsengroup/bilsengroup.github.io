@@ -47,7 +47,7 @@ graduate-students:
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     twitter: https://twitter.com/Fereshte_Vedadi
   - name: Yahya Elnouby
-    img: /img/people/yahyaelnoubly.jpg
+    img: /img/people/Yahya_E.jpeg
     desc: BSc in Bilkent University. <br> Gamification in Software Engineering
     website: https://www.linkedin.com/in/yahyaelnouby/
     url: https://www.linkedin.com/in/yahyaelnouby/
