@@ -86,12 +86,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
-  - name: Kerem Şahin
-    img: /img/people/kerem.jpeg
-    desc: BSc from Computer Engineering, Bilkent University <br> Bug Life Cycle Analysis
-    website: https://www.linkedin.com/in/sahinkerem
-    url: https://www.linkedin.com/in/sahinkerem
-    github: https://github.com/KeremSahin22
   - name: Miray Ayerdem
     img: /img/people/miray.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
@@ -433,6 +427,12 @@ former-members:
     url: https://www.linkedin.com/in/cagrieren-74ab49168/
     github: https://github.com/cagri26ren
     twitter: https://twitter.com/arEren18
+  - name: Kerem Şahin
+    img: /img/people/kerem.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Bug Life Cycle Analysis
+    website: https://www.linkedin.com/in/sahinkerem
+    url: https://www.linkedin.com/in/sahinkerem
+    github: https://github.com/KeremSahin22
 ---
 
 {% include list-circles.html items=page.PI%}
