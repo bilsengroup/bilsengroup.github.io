@@ -86,12 +86,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
-  - name: Miray Ayerdem
-    img: /img/people/miray.jpeg
-    desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
-    website: https://www.linkedin.com/in/mirayayerdem/
-    url: https://www.linkedin.com/in/mirayayerdem/
-    github: https://github.com/mirayayerdem
   - name: Ayberk Yaşa
     img: /img/people/ayberkyasa.jpg
     desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
@@ -137,12 +131,6 @@ research-volunteers:
     website: https://linkedin.com/in/ali-guzey
     url: https://linkedin.com/in/ali-guzey
     github: https://github.com/guezey
-  - name: Mehmet Bahattin Dulkadiroğlu
-    img: /img/people/Mehmet_.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
-    website: linkedin.com/in/mehmetbahattindulkadiroglu
-    url: linkedin.com/in/mehmetbahattindulkadiroglu
-    github: github.com/mbdulkadiroglu
   - name: İpek Öztaş
     img: /img/people/Ipek_.jpg
     desc: BSc from Computer Science, Bilkent University <br> Code comment smells
@@ -150,12 +138,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     github:  https://github.com/ipekoztas
     twitter: https://twitter.com/pekzta4
-  - name: Ahmet Selim Çakir
-    img: /img/people/ahmet_.jpg
-    desc: Student at Garip Zeycan Science High School <br> Software Analytics
-    website: https://www.linkedin.com/in/ahmetselimcakir/
-    url: https://www.linkedin.com/in/ahmetselimcakir/
-    github: https://github.com/OrionKnight55
   - name: Kutay Tire
     img: /img/people/kutay2_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Automatic PR Generation
@@ -433,6 +415,24 @@ former-members:
     website: https://www.linkedin.com/in/sahinkerem
     url: https://www.linkedin.com/in/sahinkerem
     github: https://github.com/KeremSahin22
+  - name: Miray Ayerdem
+    img: /img/people/miray.jpeg
+    desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
+    website: https://www.linkedin.com/in/mirayayerdem/
+    url: https://www.linkedin.com/in/mirayayerdem/
+    github: https://github.com/mirayayerdem
+  - name: Mehmet Bahattin Dulkadiroğlu
+    img: /img/people/Mehmet_.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
+    website: linkedin.com/in/mehmetbahattindulkadiroglu
+    url: linkedin.com/in/mehmetbahattindulkadiroglu
+    github: github.com/mbdulkadiroglu
+  - name: Ahmet Selim Çakir
+    img: /img/people/ahmet_.jpg
+    desc: Student at Garip Zeycan Science High School <br> Software Analytics
+    website: https://www.linkedin.com/in/ahmetselimcakir/
+    url: https://www.linkedin.com/in/ahmetselimcakir/
+    github: https://github.com/OrionKnight55
 ---
 
 {% include list-circles.html items=page.PI%}
