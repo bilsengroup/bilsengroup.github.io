@@ -10,12 +10,6 @@ PI:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
 graduate-students:
-  - name: Muhammad Umair Ahmed
-    img: /img/people/MuhammadUmairAhmed.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering.
-    website: https://www.linkedin.com/in/muhammad-umair-ahmed/
-    url: https://www.linkedin.com/in/muhammad-umair-ahmed/
-    github: https://github.com/ahmed-umair
   - name: İdil Hanhan
     img: /img/people/idil.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Software analytics
@@ -433,6 +427,12 @@ former-members:
     website: https://www.linkedin.com/in/ahmetselimcakir/
     url: https://www.linkedin.com/in/ahmetselimcakir/
     github: https://github.com/OrionKnight55
+  - name: Muhammad Umair Ahmed
+    img: /img/people/MuhammadUmairAhmed.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering.
+    website: https://www.linkedin.com/in/muhammad-umair-ahmed/
+    url: https://www.linkedin.com/in/muhammad-umair-ahmed/
+    github: https://github.com/ahmed-umair
 ---
 
 {% include list-circles.html items=page.PI%}
