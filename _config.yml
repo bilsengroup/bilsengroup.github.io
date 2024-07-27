@@ -25,10 +25,10 @@ description: Bilkent University Software Engineering and Data Analytics Research
 # List of links in the navigation bar
 navbar-links:
   Home: "https://bilsen.cs.bilkent.edu.tr/"
-  Research: "research"
+ # Research: "research"
   Members: "people"
   Publications: "publications"
-  Events & News: "events"
+#  Events & News: "events"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
