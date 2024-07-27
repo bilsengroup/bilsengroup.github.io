@@ -10,5 +10,4 @@ use-site-title: true
 
 The main goal of the group is to foster research and education on software engineering and support ongoing activities in these directions.
 
-The research activities of the group are in different domains of software engineering including Software Analytics, Machine Learning and Big Data Visualization for Software Engineering,
-Gamification, Software Product Line Engineering, and Empirical Software Engineering.
+The research activities of the group are in different domains of software engineering including Software Analytics, Machine Learning and Big Data Visualization for Software Engineering, and Empirical Software Engineering.
