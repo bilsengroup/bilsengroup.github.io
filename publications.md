@@ -20,7 +20,7 @@ papers:
 <br>40th International Conference on Software Maintenance and Evolution
 <br><button data-toggle="collapse" data-target="#demo46">See Abstract</button><br>
 
-            <div id="demo45" class="collapse">
+            <div id="demo46" class="collapse">
             Context:
 Code review is a crucial component of the software development life cycle and is adopted as a best practice in the industry. However, like any process, counterproductive practices and pitfalls exist within code review, such as the occurrence of the "Looks Good to Me" (LGTM) smell. LGTM smell occurs when superficial review is conducted. LGTM review smells potentially result in the accidental inclusion of low-quality changesets in the codebase, leading to severe bugs, possibly many reopens of the associated issues, and subsequent time wasted by additional changes to the changeset. 
                         
