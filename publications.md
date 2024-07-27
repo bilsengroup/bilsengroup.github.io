@@ -15,6 +15,35 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a>Towards Unmasking LGTM Smells in Code Reviews: A Comparative Study of Comment-Free and Commented Reviews</a>
+<br><i>Mahmut Furkan Gön, Burak Yetistiren, Eray Tuzun</i>
+<br>40th International Conference on Software Maintenance and Evolution
+<br><button data-toggle="collapse" data-target="#demo46">See Abstract</button><br>
+
+            <div id="demo45" class="collapse">
+            Context:
+Code review is a crucial component of the software development life cycle and is adopted as a best practice in the industry. However, like any process, counterproductive practices and pitfalls exist within code review, such as the occurrence of the "Looks Good to Me" (LGTM) smell. LGTM smell occurs when superficial review is conducted. LGTM review smells potentially result in the accidental inclusion of low-quality changesets in the codebase, leading to severe bugs, possibly many reopens of the associated issues, and subsequent time wasted by additional changes to the changeset. 
+                        
+Objective:
+In this study, we aim to explore LGTM smells and examine their potential impacts on the related repository.
+                        
+Methods:
+Given the inherent challenge of automatically detecting LGTM smells in code reviews, this study introduces an alternative approach by categorizing code reviews into two distinct types: comment-free and commented reviews. The primary hypothesis is that comment-free reviews are more prone to LGTM smells due to their lack of detailed examination and discourse. To test this hypothesis, we conduct an empirical analysis on a subset of PRs comprising code reviews from five large-scale software projects. We further investigate the impact of comment-free and commented reviews on key development metrics, specifically focusing on the number of reopens and late commits in pull requests (PRs).
+              
+Results:
+According to the results, 64.7% of the PRs in these projects exhibited comment-free reviews. Our manual analysis reveals that comment-free reviews exhibit the LGTM smell 3.5 times more frequently than the commented reviews. We also observed a statistically significant difference, indicating that comment-free review PRs tend to include more late commits (i.e., commits made after the reviewer’s approval) than the commented PRs. However, no statistically significant difference was observed in the reopening ratio of associated issues between comment-free reviews and commented reviews. 
+              
+Conclusion:
+Our approach provides a novel method for detecting and exploring the impacts of LGTM smell, emphasizing the significance of comprehensive code reviews and setting the stage for future research aimed at automatically identifying LGTM smell occurrences.
+
+</div>
+</div>
+</li>  
+<br> 
+
+            
+<li>
+<div style="text-align: justify">
 <a href="https://dl.acm.org/doi/abs/10.1145/3617555.3617870">Do Developers Fix Continuous Integration Smells?</a>
 <br><i>Ayberk Yaşa, Ege Ergül, Hakan Erdogmus, Eray Tuzun</i>
 <br>PROMISE 2023: Proceedings of the 19th International Conference on Predictive Models and Data Analytics in Software Engineering
