@@ -995,7 +995,7 @@ Conclusions: The multiple case study validation showed that the adoption of the 
             <br>
             <li>
         <div style="text-align: justify">
-            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584914002079">Analyzing impact of experience curve on ROI in the software product line adoption process </a>
+            <a href="https://doi.org/10.1016/j.infsof.2014.09.008">Analyzing impact of experience curve on ROI in the software product line adoption process </a>
             <br><i>Eray Tuzun, Bedir Tekinerdogan</i>
             <br>Information and Software Technology
             <br><button data-toggle="collapse" data-target="#demo51">See Abstract</button><br>
