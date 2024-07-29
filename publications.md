@@ -981,9 +981,9 @@ Foundations of Software Engineering (ESEC/FSE 2019)
             <a href="https://doi.org/10.1016/j.infsof.2014.12.007">Empirical evaluation of a decision support model for adopting software product line engineering </a>
             <br><i>Eray Tuzun, Bedir Tekinerdogan, Mert Emin Kalender, Semih Bilgen</i>
             <br>Information and Software Technology
-            <br><button data-toggle="collapse" data-target="#demo22">See Abstract</button><br>
+            <br><button data-toggle="collapse" data-target="#demo50">See Abstract</button><br>
 
-            <div id="demo22" class="collapse">
+            <div id="demo50" class="collapse">
 Context: The software product line engineering (SPLE) community has provided several different approaches for assessing the feasibility of SPLE adoption and selecting transition strategies. These approaches usually include many rules and guidelines which are very often implicit or scattered over different publications. Hence, for the practitioners it is not always easy to select and use these rules to support the decision making process. Even in case the rules are known, the lack of automated support for storing and executing the rules seriously impedes the decision making process. 
 Objective: We aim to evaluate the impact of a decision support system (DSS) on decision-making in SPLE adoption. In alignment with this goal, we provide a decision support model (DSM) and the corresponding DSS.
 Method: First, we apply a systematic literature review (SLR) on the existing primary studies that discuss and present approaches for analyzing the feasibility of SPLE adoption and transition strategies. Second, based on the data extraction and synthesis activities of the SLR, the required questions and rules are derived and implemented in the DSS. Third, for validation of the approach we conduct multiple case studies.
