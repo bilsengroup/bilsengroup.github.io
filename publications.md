@@ -990,6 +990,7 @@ Method: First, we apply a systematic literature review (SLR) on the existing pri
 Results: In the course of the SLR, 31 primary studies were identified from which we could construct 25 aspects, 39 questions and 312 rules. We have developed the DSS tool Transit-PL that embodies these elements.
 Conclusions: The multiple case study validation showed that the adoption of the developed DSS tool is justified to support the decision making process in SPLE adoption.
         </div>
-            </div>
+        </div>
             </li>
+            <br>
             </ul>
