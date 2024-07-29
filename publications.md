@@ -15,6 +15,35 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="https://link.springer.com/article/10.1007/s10664-023-10425-5">Taxonomy of inline code comment smells</a>
+<br><i>Elgun Jabrayilzade, Ayda Yurtoglu, Eray Tuzun</i>
+<br>Empirical Software Engineering An International Journal
+<br><button data-toggle="collapse" data-target="#demo48">See Abstract</button><br>
+
+            <div id="demo48" class="collapse">
+            Context:
+Code comments play a vital role in source code comprehension and software maintainability. It is common for developers to write comments to explain a code snippet, and commenting code is generally considered a good practice in software engineering. However, low-quality comments can have a detrimental effect on software quality or be ineffective for code understanding.
+                        
+Objective:
+This study aims to create a taxonomy of inline code comment smells and determine how frequently each smell type occurs in software projects.
+                        
+Methods:
+We conducted a multivocal literature review to define the initial taxonomy of inline comment smells. Afterward, we manually labeled 2447 inline comments from eight open-source projects where half of them were Java, and another half were Python projects. We created a taxonomy of 11 inline code comment smell types and found out that the smells exist in both Java and Python projects with varying degrees. 
+
+Results:
+Moreover, we conducted an online survey with 41 software practitioners to learn their opinions on these smells and their impact on code comprehension and software maintainability. The survey respondents generally agreed with the taxonomy; however, they reported that some smell types might have a positive effect on code comprehension in certain scenarios. We also opened pull requests and issues fixing the comment smells in the sampled projects, where we got a 27% acceptance rate.
+              
+Conclusion:
+We share our manually labeled dataset online and provide implications for software engineering practitioners, researchers, and educators.
+
+</div>
+</div>
+</li>  
+<br> 
+
+
+<li>
+<div style="text-align: justify">
 <a href="https://doi.org/10.1016/j.jss.2024.112101">Do code reviews lead to fewer code smells?</a>
 <br><i>Erdem Tuna, Carolyn Seaman, Eray Tuzun</i>
 <br>Journal of Systems and Software
