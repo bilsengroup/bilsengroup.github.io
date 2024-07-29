@@ -993,4 +993,30 @@ Conclusions: The multiple case study validation showed that the adoption of the 
         </div>
             </li>
             <br>
+            <li>
+        <div style="text-align: justify">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584914002079">Analyzing impact of experience curve on ROI in the software product line adoption process </a>
+            <br><i>Eray Tuzun, Bedir Tekinerdogan</i>
+            <br>Information and Software Technology
+            <br><button data-toggle="collapse" data-target="#demo51">See Abstract</button><br>
+
+            <div id="demo51" class="collapse">
+Context:
+Experience curve is a well-known concept in management and education science, which explains the phenomenon of increased worker efficiency with repetitive production of a good or service.
+
+Objective:
+We aim to analyze the impact of the experience curve effect on the Return on Investment (ROI) in the software product line engineering (SPLE) process.
+
+Method:
+We first present the results of a systematic literature review (SLR) to explicitly depict the studies that have considered the impact of experience curve effect on software development in general. Subsequently, based on the results of the SLR, the experience curve effect models in the literature, and the SPLE cost models, we define an approach for extending the cost models with the experience curve effect. Finally, we discuss the application of the refined cost models in a real industrial context.
+
+Results:
+The SLR resulted in 15 primary studies which confirm the impact of experience curve effect on software development in general but the experience curve effect in the adoption of SPLE got less attention. The analytical discussion of the cost models and the application of the refined SPLE cost models in the industrial context showed a clear impact of the experience curve effect on the time-to-market, cost of development and ROI in the SPLE adoption process.
+
+Conclusions:
+The proposed analysis with the newly defined cost models for SPLE adoption provides a more precise analysis tool for the management, and as such helps to support a better decision making.
+        </div>
+        </div>
+            </li>
+            <br>
             </ul>
