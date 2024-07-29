@@ -973,6 +973,23 @@ Foundations of Software Engineering (ESEC/FSE 2019)
             <div id="demo21" class="collapse">
             It has  been  50  years  since  the  term  “software  engineering”  was coined  in  1968  at  a  NATO  conference.  The  field  should  be relatively   mature   by   now,   with   most   established   universities coveringcore  software  engineering  topics  in  their  Computer Science   programs   and   others   offering   specialized   degrees. However,  still  many  practitioners  lament  a  lack  of  skills  in  new software   engineering   hires.   With   the   growing   demand   for software  engineers  from  the  industry,  this  apparent  gap  becomes more and more pronounced. One corporate strategy to address this gap   is   for   the   industry   to   develop   supplementary   training programs   before   the   hiring   process,   which   could   also   help companiesscreen  viable  candidates.In  this  paper,  we  report  on our  experiences  and  lessons  learned  in conducting  a  summer school  program  aimed  at  screening  new  graduates,  introducing them to core  skills relevant  to  the  organization  and industry,  and assessing  their  attitudes  toward  mastering  those  skills  before  the hiring   process   begins.   Our   experiencesuggests   that   such initiatives can be mutually beneficial for new hires and companiesalike.  We  support  this  insight  with  pre-and  post-training  data collected  from  the  participants  during  the  first  edition  of thesummer  school  and  a  follow-up  questionnaire  conducted  after  a year  with  the participants,  50%  of  whom werehired  by  the company shortly after the summer school.
         </div>
+        </div>
+            </li>
+            <br>
+            <li>
+        <div style="text-align: justify">
+            <a href="https://doi.org/10.1016/j.infsof.2014.12.007">Empirical evaluation of a decision support model for adopting software product line engineering </a>
+            <br><i>Eray Tuzun, Bedir Tekinerdogan, Mert Emin Kalender, Semih Bilgen</i>
+            <br>Information and Software Technology
+            <br><button data-toggle="collapse" data-target="#demo22">See Abstract</button><br>
+
+            <div id="demo22" class="collapse">
+Context: The software product line engineering (SPLE) community has provided several different approaches for assessing the feasibility of SPLE adoption and selecting transition strategies. These approaches usually include many rules and guidelines which are very often implicit or scattered over different publications. Hence, for the practitioners it is not always easy to select and use these rules to support the decision making process. Even in case the rules are known, the lack of automated support for storing and executing the rules seriously impedes the decision making process. 
+Objective: We aim to evaluate the impact of a decision support system (DSS) on decision-making in SPLE adoption. In alignment with this goal, we provide a decision support model (DSM) and the corresponding DSS.
+Method: First, we apply a systematic literature review (SLR) on the existing primary studies that discuss and present approaches for analyzing the feasibility of SPLE adoption and transition strategies. Second, based on the data extraction and synthesis activities of the SLR, the required questions and rules are derived and implemented in the DSS. Third, for validation of the approach we conduct multiple case studies.
+Results: In the course of the SLR, 31 primary studies were identified from which we could construct 25 aspects, 39 questions and 312 rules. We have developed the DSS tool Transit-PL that embodies these elements.
+Conclusions: The multiple case study validation showed that the adoption of the developed DSS tool is justified to support the decision making process in SPLE adoption.
+        </div>
             </div>
             </li>
             </ul>
