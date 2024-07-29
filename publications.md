@@ -15,6 +15,34 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="https://doi.org/10.1109/ASE56229.2023.00015">Bus Factor Explorer</a>
+<br><i>Egor Klimov, Muhammad Umair Ahmed, Nikolai Sviridov, Pouria Derakhshanfar, Eray Tuzun, Vladimir Kovalenko</i>
+<br>38th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+<br><button data-toggle="collapse" data-target="#demo49">See Abstract</button><br>
+
+            <div id="demo49" class="collapse">
+            Context:
+Bus factor (BF) is a metric that tracks knowledge distribution in a project. It is the minimal number of engineers that have to leave for a project to stall.
+
+Objective:
+Despite the fact that there are several algorithms for calculating the bus factor, only a few tools allow easy calculation of bus factor and convenient analysis of results for projects hosted on Git-based providers.
+                    
+Methods:
+We introduce Bus Factor Explorer, a web application that provides an interface and an API to compute, export, and explore the Bus Factor metric via treemap visualization, simulation mode, and chart editor. It supports repositories hosted on GitHub and enables functionality to search repositories in the interface and process many repositories at the same time.
+
+Results:
+Our tool allows users to identify the files and subsystems at risk of stalling in the event of developer turnover by analyzing the VCS history.
+              
+Conclusion:
+The application and its source code are publicly available on GitHub at https://github.com/JetBrains-Research/bus-factor-explorer. The demonstration video can be found on YouTube: https://youtu.be/uIoV79N14z8
+</div>
+</div>
+</li>  
+<br> 
+
+            
+<li>
+<div style="text-align: justify">
 <a href="https://link.springer.com/article/10.1007/s10664-023-10425-5">Taxonomy of inline code comment smells</a>
 <br><i>Elgun Jabrayilzade, Ayda Yurtoglu, Eray Tuzun</i>
 <br>Empirical Software Engineering An International Journal
