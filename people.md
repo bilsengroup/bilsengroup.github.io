@@ -71,7 +71,11 @@ graduate-students:
     website:  https://www.linkedin.com/in/mfurkangon/
     url:  https://www.linkedin.com/in/mfurkangon/ 
     github:  https://github.com/mfurkangon
-    twitter: https://x.com/mfurkangon 
+  - name: Mehmet Taha Demircan
+    desc: BSc from Computer Science, TOBB ETU <br> Software Analytics
+    website:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/
+    url:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/ 
+    github:  https://github.com/mtdemircan   
 research-volunteers:
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
