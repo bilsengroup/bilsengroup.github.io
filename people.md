@@ -65,6 +65,13 @@ graduate-students:
     website: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
     url: https://www.linkedin.com/in/utku-boran-torun-b06b0b22b/
     github: https://github.com/torunb
+  - name: Furkan Gön
+    img: /img/people/FurkanGon_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    website:  https://www.linkedin.com/in/mfurkangon/
+    url:  https://www.linkedin.com/in/mfurkangon/ 
+    github:  https://github.com/mfurkangon
+    twitter: https://x.com/mfurkangon 
 research-volunteers:
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
@@ -92,13 +99,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
-  - name: Furkan Gön
-    img: /img/people/Furkan_.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/mahmutfurkangon 
-    url: https://www.linkedin.com/in/mahmutfurkangon 
-    github:  https://github.com/mafugo
-    twitter: https://twitter.com/mfurkangon 
   - name: Sıla Saraoğlu
     img: /img/people/Sila_.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Project Management Smells
