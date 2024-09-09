@@ -72,6 +72,7 @@ graduate-students:
     url:  https://www.linkedin.com/in/mfurkangon/ 
     github:  https://github.com/mfurkangon
   - name: Mehmet Taha Demircan
+    img: /img/people/Mehmet_Taha_.jpg
     desc: BSc from Computer Science, TOBB ETU <br> Software Analytics
     website:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/
     url:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/ 
