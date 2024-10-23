@@ -10,12 +10,6 @@ PI:
     github: https://github.com/eraytuzun
     twitter: https://twitter.com/eraytuzun
 graduate-students:
-  - name: İdil Hanhan
-    img: /img/people/idil.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software analytics
-    website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
-    url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
-    github: https://github.com/idilhanhan
   - name: Vahid Haratian
     img: /img/people/Vahid_Haratian.jpg
     desc: BSc from Computer Engineering, Sharif University of Technology <br> Software analytics
@@ -117,32 +111,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/berkcakar/
     github:  https://github.com/friberk
     twitter: https://twitter.com/friiberk
-  - name: Arda İçöz
-    img: /img/people/arda_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: linkedin.com/in/arda-icoz/
-    url: linkedin.com/in/arda-icoz/
-    github:  github.com/ardaicoz
-    twitter: twitter.com/ardaaicoz
   - name: Selin Bahar Gündoğar
     img: /img/people/Selin_.png
     desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
     website: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     url: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
-  - name: Ali Emir Güzey
-    img: /img/people/Ali_Emir_.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
-    website: https://linkedin.com/in/ali-guzey
-    url: https://linkedin.com/in/ali-guzey
-    github: https://github.com/guezey
-  - name: İpek Öztaş
-    img: /img/people/Ipek_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Code comment smells
-    website: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
-    url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
-    github:  https://github.com/ipekoztas
-    twitter: https://twitter.com/pekzta4
   - name: Kutay Tire
     img: /img/people/kutay2_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Automatic PR Generation
@@ -437,6 +411,32 @@ former-members:
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
+  - name: İdil Hanhan
+    img: /img/people/idil.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software analytics
+    website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
+    url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
+    github: https://github.com/idilhanhan
+  - name: Arda İçöz
+    img: /img/people/arda_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: linkedin.com/in/arda-icoz/
+    url: linkedin.com/in/arda-icoz/
+    github:  github.com/ardaicoz
+    twitter: twitter.com/ardaaicoz
+  - name: Ali Emir Güzey
+    img: /img/people/Ali_Emir_.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
+    website: https://linkedin.com/in/ali-guzey
+    url: https://linkedin.com/in/ali-guzey
+    github: https://github.com/guezey
+  - name: İpek Öztaş
+    img: /img/people/Ipek_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Code comment smells
+    website: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
+    url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
+    github:  https://github.com/ipekoztas
+    twitter: https://twitter.com/pekzta4
 ---
 
 {% include list-circles.html items=page.PI%}
