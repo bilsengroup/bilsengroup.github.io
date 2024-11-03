@@ -141,6 +141,31 @@ research-volunteers:
     website: https://www.linkedin.com/in/ali-tunahan/
     url: https://www.linkedin.com/in/ali-tunahan/
     github: https://github.com/ali-tunahan
+  - name: Eray Yapagci
+    img: /img/people/eray_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Reproduction
+    website: https://www.linkedin.com/in/eray-yapa%C4%9Fc%C4%B1-376a37233/
+    url: https://www.linkedin.com/in/eray-yapa%C4%9Fc%C4%B1-376a37233/
+    github: https://github.com/erayyap
+  - name: Mehmet Can Bıyık
+    img: /img/people/Mehmet_Can_Bıyık_photo.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Legacy Code Refactor Analysis via LLMs
+    website: https://www.linkedin.com/in/mehmet-can-bıyık
+    url: https://www.linkedin.com/in/mehmet-can-bıyık
+    github: https://github.com/mehmet-canb
+  - name: İlke Latifoğlu
+    img: /img/people/ilke_..jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/ilke-latifo%C4%9Flu-5b2409277/
+    url: https://www.linkedin.com/in/ilke-latifo%C4%9Flu-5b2409277/
+    github: https://github.com/ilkelatifoglu
+    twitter: https://x.com/ilke_latifoglu
+  - name: Orhun Aysan
+    img: /img/people/orhun_..jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Requirement Smells
+    website: https://www.linkedin.com/in/aysanorhun
+    url: https://www.linkedin.com/in/aysanorhun
+    github: https://github.com/aysanorhun
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
