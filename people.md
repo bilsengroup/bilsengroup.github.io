@@ -154,7 +154,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/aysanorhun
     github: https://github.com/aysanorhun
   - name: Eray Yapagci
-    img: /img/people/eray_.jpg
+    img: /img/people/eray_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Automated Bug Reproduction
     website: linkedin.com/in/eray-yapağcı-376a37233
     url: linkedin.com/in/eray-yapağcı-376a37233
