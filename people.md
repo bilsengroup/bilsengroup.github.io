@@ -156,14 +156,14 @@ research-volunteers:
   - name: Eray Yapagci
     img: /img/people/eray_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Automated Bug Reproduction
-    website: linkedin.com/in/eray-yapağcı-376a37233
-    url: linkedin.com/in/eray-yapağcı-376a37233
+    website: https://www.linkedin.com/in/eray-yapağcı-376a37233
+    url: https://www.linkedin.com/in/eray-yapağcı-376a37233
     github: https://github.com/erayyap
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
-    website: linkedin.com/in/ilke-latifoğlu-5b2409277
-    url: linkedin.com/in/ilke-latifoğlu-5b2409277
+    website: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
+    url: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
     github: https://github.com/ilkelatifoglu
     twitter: https://x.com/ilke_latifoglu
 part-time-engineers:
