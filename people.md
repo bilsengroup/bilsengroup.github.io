@@ -166,6 +166,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
     github: https://github.com/ilkelatifoglu
     twitter: https://x.com/ilke_latifoglu
+  - name: Atakan Akar
+    img: /img/people/atakan_..jpg
+    desc: BSc from Computer Science, Bilkent University <br> Test Generation via LLMs
+    website: linkedin.com/in/atakanakar4/
+    url: linkedin.com/in/atakanakar4/
+    github: github.com/AtakanAkar04
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
