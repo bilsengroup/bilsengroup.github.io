@@ -169,9 +169,9 @@ research-volunteers:
   - name: Atakan Akar
     img: /img/people/atakan_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Test Generation via LLMs
-    website: linkedin.com/in/atakanakar4/
-    url: linkedin.com/in/atakanakar4/
-    github: github.com/AtakanAkar04
+    website: https://www.linkedin.com/in/atakanakar4/
+    url: https://www.linkedin.com/in/atakanakar4/
+    github: https://www.github.com/AtakanAkar04
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
