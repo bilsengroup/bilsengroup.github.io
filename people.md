@@ -178,6 +178,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/semihh-caglar
     url: https://www.linkedin.com/in/semihh-caglar
     github: https://www.github.com/SemihCaglar
+  - name: Emre Dinç 
+    img: /img/people/Emre_Dinc.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/emre-dinc-cs/
+    url: https://www.linkedin.com/in/emre-dinc-cs/
+    github: https://github.com/EmreDinc10
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
