@@ -175,7 +175,7 @@ research-volunteers:
   - name: Semih Çağlar  
     img: /img/people/semih_caglar.jpg
     desc: BSc from Computer Science, Bilkent University <br> Code Comment Smells
-    website://www.linkedin.com/in/semihh-caglar
+    website: https://www.linkedin.com/in/semihh-caglar
     url: https://www.linkedin.com/in/semihh-caglar
     github: https://www.github.com/SemihCaglar
 part-time-engineers:
