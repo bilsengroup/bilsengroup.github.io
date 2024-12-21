@@ -172,7 +172,7 @@ research-volunteers:
     website: https://www.linkedin.com/in/atakanakar4/
     url: https://www.linkedin.com/in/atakanakar4/
     github: https://www.github.com/AtakanAkar04
-   - name: Semih Çağlar
+  - name: Semih Çağlar  
     img: /img/people/semih_caglar.jpg
     desc: BSc from Computer Science, Bilkent University <br> Code Comment Smells
     website://www.linkedin.com/in/semihh-caglar
