@@ -172,6 +172,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/atakanakar4/
     url: https://www.linkedin.com/in/atakanakar4/
     github: https://www.github.com/AtakanAkar04
+  - name: Semih Çağlar
+    img: /img/people/atakan_..jpg
+    desc: BSc from Computer Science, Bilkent University <br> Code Comment Smells
+    website://www.linkedin.com/in/semihh-caglar
+    url: https://www.linkedin.com/in/semihh-caglar
+    github: https://github.com/SemihCaglar
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
