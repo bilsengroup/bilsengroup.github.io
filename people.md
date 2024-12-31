@@ -184,6 +184,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/emre-dinc-cs/
     url: https://www.linkedin.com/in/emre-dinc-cs/
     github: https://github.com/EmreDinc10
+  - name: yasir Altunhan 
+    img: /img/people/yasir.altunhan.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
+    url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
+    github: https://github.com/MustafaAltunhan
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
