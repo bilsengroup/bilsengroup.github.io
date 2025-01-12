@@ -1021,10 +1021,10 @@ The proposed analysis with the newly defined cost models for SPLE adoption provi
             <br>
             <li>
         <div style="text-align: justify">
-            <a href="10.1109/ISCIS.2009.5291914">Using continuous integration and automated test techniques for a robust C4ISR system </a>
+            <a href="https://ieeexplore.ieee.org/document/5291914">Using continuous integration and automated test techniques for a robust C4ISR system </a>
             <br><i>H. Mehmet Yuksel, Eray Tuzun, Erdogan Gelirli, Emrah Biyikli, Buyurman Baykal</i>
             <br>2009 24th International Symposium on Computer and Information Sciences
-            <br><button data-toggle="collapse" data-target="#demo51">See Abstract</button><br>
+            <br><button data-toggle="collapse" data-target="#demo52">See Abstract</button><br>
 
             <div id="demo52" class="collapse">
 Context:
