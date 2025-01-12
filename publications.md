@@ -1019,4 +1019,27 @@ The proposed analysis with the newly defined cost models for SPLE adoption provi
         </div>
             </li>
             <br>
+            <li>
+        <div style="text-align: justify">
+            <a href="10.1109/ISCIS.2009.5291914">Using continuous integration and automated test techniques for a robust C4ISR system </a>
+            <br><i>H. Mehmet Yuksel, Eray Tuzun, Erdogan Gelirli, Emrah Biyikli, Buyurman Baykal</i>
+            <br>2009 24th International Symposium on Computer and Information Sciences
+            <br><button data-toggle="collapse" data-target="#demo51">See Abstract</button><br>
+
+            <div id="demo52" class="collapse">
+Context:
+We have used CI (Continuous Integration) and various software testing techniques to achieve a robust C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance) multi-platform system. Because of rapid changes in the C4ISR domain and in the software technology, frequent critical design adjustments and in turn vast code modifications or additions become inevitable. Defect fixes might also incur code changes. These unavoidable code modifications may put a big risk in the reliability of a mission critical system. Also, in order to stay competitive in the C4ISR market, a company must make recurring releases without sacrificing quality.
+
+Objective:
+We have designed and implemented an XML driven automated test framework that enabled us developing numerous high quality tests rapidly.
+
+Method:
+While using CI with automated software test techniques, we have aimed at speeding up the delivery of high quality and robust software by decreasing integration procedure, which is one of the main bottleneck points in the industry. 
+
+Conclusions:
+This work describes how we have used CI and software test techniques in a large-scaled, multi-platform, multi-language, distributed C4ISR project and what the benefits of such a system are.
+        </div>
+        </div>
+            </li>
+            <br>
             </ul>
