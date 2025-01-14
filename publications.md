@@ -15,6 +15,35 @@ papers:
 <ul>
 <li>
 <div style="text-align: justify">
+<a href="https://doi.org/10.1002/smr.2750">Evaluating The Impact of a Serious Game Approach For Teaching The Code Review Practice</a>
+<br><i>Baris Ardic, Eray Tuzun</i>
+<br>Journal of Software: Evolution and Process
+<br><button data-toggle="collapse" data-target="#demo53">See Abstract</button><br>
+
+            <div id="demo53" class="collapse">
+            Context:
+Code review is a widely utilized practice that focuses on improving code via manual inspections. However, this practice is not addressed adequately in a typical software engineering curriculum.
+
+Objective:
+We aim to help address the code review practice knowledge gap between the software engineering curricula and the industry with a serious game approach. We determine our learning objectives around the introduction of the code review process.
+                    
+Methods:
+To realize these objectives, we design, build, and test the serious game. We then conduct three case studies with a total of 280 students. We evaluated the results by comparing the student's knowledge and confidence about code review before and after case studies, as well as evaluating how they performed in code review quizzes and game levels themselves. 
+
+Results:
+Our analysis indicates that students had a positive experience during gameplay, and an in-depth examination suggests that playing the game also enhanced their knowledge. We conclude that the game had a positive impact on introducing the code review process. 
+              
+Conclusion:
+This study represents a step taken toward moving code review education from industry starting positions to higher education. The game and its auxiliary materials are available online.
+</div>
+</div>
+</li>  
+<br> 
+
+
+            
+<li>
+<div style="text-align: justify">
 <a href="https://doi.org/10.1109/ASE56229.2023.00015">Bus Factor Explorer</a>
 <br><i>Egor Klimov, Muhammad Umair Ahmed, Nikolai Sviridov, Pouria Derakhshanfar, Eray Tuzun, Vladimir Kovalenko</i>
 <br>38th IEEE/ACM International Conference on Automated Software Engineering (ASE)
