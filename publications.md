@@ -274,7 +274,7 @@ To the best of our knowledge, our proof of concept implementation is the first-e
             
 <li>
 <div style="text-align: justify">
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D4jovncAAAAJ&sortby=pubdate&citation_for_view=D4jovncAAAAJ:tkaPQYYpVKoC">Assessing the quality of GitHub copilot’s code generation</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3558489.3559072">Assessing the quality of GitHub copilot’s code generation</a>
 <br><i>Burak Yetistiren, Isik Ozsoy, Eray Tuzun</i>
 <br> 18th International Conference on Predictive Models and Data Analytics in Software Engineering
 <br><button data-toggle="collapse" data-target="#demo40">See Abstract</button><br>
