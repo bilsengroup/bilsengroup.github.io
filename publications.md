@@ -101,7 +101,7 @@ Our results imply that the community should update our goals for code review pra
            
 <li>
 <div style="text-align: justify">
-<a>Towards Unmasking LGTM Smells in Code Reviews: A Comparative Study of Comment-Free and Commented Reviews</a>
+<a href="https://www.computer.org/csdl/proceedings-article/icsme/2024/956800a163/22NQCy7c8eI">Towards Unmasking LGTM Smells in Code Reviews: A Comparative Study of Comment-Free and Commented Reviews</a>
 <br><i>Mahmut Furkan Gön, Burak Yetistiren, Eray Tuzun</i>
 <br>40th International Conference on Software Maintenance and Evolution
 <br><button data-toggle="collapse" data-target="#demo46">See Abstract</button><br>
