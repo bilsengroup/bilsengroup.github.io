@@ -73,7 +73,7 @@ Thus, our research underscores issue templates’ positive impact on large-scale
   
 <li>
 <div style="text-align: justify">
-<a href="https://doi.org/10.1002/smr.2750">Evaluating The Impact of a Serious Game Approach For Teaching The Code Review Practice</a>
+<a href="https://doi.org/10.1002/smr.2750">A Serious Game Approach to Introduce the CodeReview Practice</a>
 <br><i>Baris Ardic, Eray Tuzun</i>
 <br>Journal of Software: Evolution and Process
 <br><button data-toggle="collapse" data-target="#demo53">See Abstract</button><br>
