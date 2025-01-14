@@ -12,7 +12,36 @@ papers:
 
 {% include publications-template.html items=page.papers %}
 
-<ul>
+<ul>  
+<li>
+<div style="text-align: justify">
+<a>Enhanced Code Reviews Using Pull Request Based Change Impact Analysis</a>
+<br><i>İsmail Sergen Göçmen, Ahmed Salih Cezayir, Eray Tüzün</i>
+<br>Empirical Software Engineering
+<br><button data-toggle="collapse" data-target="#demo55">See Abstract</button><br>
+
+            <div id="demo55" class="collapse">
+            Context:
+Code reviewing is an essential yet challenging activity due to the potential repercussions associated with changes to the codebase. While version control highlights differences between versions, it may not adequately alert developers to potential side effects of changes. Change impact analysis alongside code differences can guide reviewers in making informed decisions.
+
+Objective:
+We aim to enhance the code review process by providing helpful insights to reviewers by analyzing change impact.
+                    
+Methods:
+We propose a novel change impact analysis approach with the granularity of pull requests by combining call graph-based dependency analysis and history mining techniques. By utilizing these, we calculate several file metrics and an overall risk score for each pull request. To validate the approach, we conducted two focus group sessions, including a feature feedback survey, a tool demo, a post-demo survey, and focus group discussions. Additionally, we performed experiments on three open-source projects to evaluate the computational feasibility.
+
+Results:
+From the focus groups, our approach received an average of 3.66 out of 5.0 for enhancing the code review experience across five aspects. The current risk score formula averaged 3.2 out of 5.0 for accurately representing change impact, with 71% agreement on the selected metrics. Experiments confirmed computational viability, with analysis times ranging from 7.4 to 22.43 seconds.
+              
+Conclusion:
+Our study underscores the potential benefits of integrating change impact analysis into the code review process. By leveraging this approach, developers can conduct more thorough reviews, enhancing their ability to detect and mitigate potential issues arising from code changes.
+</div>
+</div>
+</li>  
+<br> 
+
+
+       
 <li>
 <div style="text-align: justify">
 <a href="https://dl.acm.org/doi/full/10.1145/3643673">An Empirical Analysis of Issue Templates Usage in Large-Scale Projects on GitHub</a>
