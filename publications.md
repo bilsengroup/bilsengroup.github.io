@@ -965,7 +965,7 @@ Foundations of Software Engineering (ESEC/FSE 2019)
     <br>
     <li>
         <div style="text-align: justify">
-            <a href="https://ieeexplore.ieee.org/document/8861461">An Auction-Based Serious Game for Bug Tracking</a>
+            <a href="https://doi.org/10.1049/iet-sen.2018.5144">An Auction-Based Serious Game for Bug Tracking</a>
             <br><i>Cagdas Usfekes, Eray Tuzun, Murat Yılmaz, Yagup Macit, Paul Clarke</i>
             <br>IET Software, 2019
             <br><button data-toggle="collapse" data-target="#demo15">See Abstract</button><br>
