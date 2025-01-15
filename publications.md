@@ -41,36 +41,7 @@ Our study underscores the potential benefits of integrating change impact analys
 <br> 
 
 
-       
-<li>
-<div style="text-align: justify">
-<a href="https://dl.acm.org/doi/full/10.1145/3643673">An Empirical Analysis of Issue Templates Usage in Large-Scale Projects on GitHub</a>
-<br><i>Emre Sülün, Metehan Saçakçı, Eray Tüzün</i>
-<br>ACM Transactions on Software Engineering and Methodology
-<br><button data-toggle="collapse" data-target="#demo54">See Abstract</button><br>
 
-            <div id="demo54" class="collapse">
-            Context:
-GitHub Issues is a widely used issue tracking tool in open-source software projects. Originally designed with broad flexibility, its lack of standardization led to incomplete issue reports, impeding software development and maintenance efficiency. To counteract this, GitHub introduced issue templates in 2016, which rapidly became popular.
-
-Objective:
-Our study assesses the current use and evolution of these templates in large-scale open-source projects and their impact on issue tracking metrics, including resolution time, number of reopens, and number of issue comments.
-                    
-Methods:
-Employing a comprehensive analysis of 350 templates from 100 projects, we also evaluated over 1.9 million issues for template conformity and impact. Additionally, we solicited insights from open-source software maintainers through a survey. 
-
-Results:
-Our findings highlight issue templates’ extensive usage in 99 of the 100 surveyed projects, with a growing preference for YAML-based templates, a more structured template variant. Projects with a template exhibited markedly reduced resolution time (381.02 days to 103.18 days) and reduced issue comment count (4.95 to 4.32) compared to those without. The use of YAML-based templates further significantly decreased resolution time, the number of reopenings, and the discussion extent.
-              
-Conclusion:
-Thus, our research underscores issue templates’ positive impact on large-scale open-source projects, offering recommendations for improved effectiveness.
-</div>
-</div>
-</li>  
-<br> 
-
-
-  
 <li>
 <div style="text-align: justify">
 <a href="https://doi.org/10.1002/smr.2750">A Serious Game Approach to Introduce the CodeReview Practice</a>
