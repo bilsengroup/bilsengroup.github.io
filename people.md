@@ -78,12 +78,6 @@ graduate-students:
     url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     github: https://github.com/MustafaAltunhan   
 research-volunteers:
-  - name: Burak Yetiştiren
-    img: /img/people/burakyetistiren.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
-    website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
-    url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
-    github: https://github.com/burakyetistiren
   - name: Lara Merdol
     img: /img/people/LARA.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
@@ -98,12 +92,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
-  - name: Ayberk Yaşa
-    img: /img/people/ayberkyasa.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
-    website: https://www.linkedin.com/in/ayberkyasa/
-    url: https://www.linkedin.com/in/ayberkyasa/
-    github: https://github.com/ayberkyasa
   - name: Sıla Saraoğlu
     img: /img/people/Sila_.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Project Management Smells
@@ -486,6 +474,18 @@ former-members:
     url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     github:  https://github.com/ipekoztas
     twitter: https://twitter.com/pekzta4
+  - name: Burak Yetiştiren
+    img: /img/people/burakyetistiren.jpg
+    desc: BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
+    website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
+    url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
+    github: https://github.com/burakyetistiren
+  - name: Ayberk Yaşa
+    img: /img/people/ayberkyasa.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
+    website: https://www.linkedin.com/in/ayberkyasa/
+    url: https://www.linkedin.com/in/ayberkyasa/
+    github: https://github.com/ayberkyasa
 ---
 
 {% include list-circles.html items=page.PI%}
