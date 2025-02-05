@@ -15,6 +15,34 @@ papers:
 <ul>  
 <li>
 <div style="text-align: justify">
+<a>Evaluating ReLink for Traceability Link Recovery in Practice</a>
+<br><i> Ayberk Yaşa, Cemhan Kaan Özaltan, Görkem Ayten, Fatih Kaplama, Ömercan Devran, Baykal Mehmet Uçar, Eray Tüzün</i>
+<br>32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
+<br><button data-toggle="collapse" data-target="#demo56">See Abstract</button><br>
+
+            <div id="demo56" class="collapse">
+            Context:
+Traceability is important in the software development life cycle for managing the connections among various software artifacts, particularly pull requests (PRs) and issues. Developers often neglect to link these manually, reducing traceability. Existing algorithms to recover these links have limited application in closed-source projects.
+
+Objective:
+In this study, we share the experience of using ReLink, a predictive PR-issue linking tool with visualization capabilities, in a closed-source project environment. 
+                    
+Methods:
+ReLink stands out due to its availability as a fully functional web application and its semi-automated nature, which enhances usability. ReLink determines missing links between PRs and issues based on a confidence score normalized between 0 and 100, calculated using text similarity and heuristic rules.
+
+Results:
+The tool’s effectiveness was evaluated in both an open-source project and an industry-based case study. In the open-source project, ReLink achieved a top-5 accuracy of 0.80 and a precision of 0.77. In the industrial case study, ReLink’s effectiveness was validated by practitioners selecting the correct link from five issue suggestions, resulting in a top-5 accuracy of 0.86 and a mean reciprocal rank (MRR) of 0.84. 
+              
+Conclusion:
+Through this experience, we offer insights into both the benefits and challenges of implementing traceability link recovery in the industry and provide recommendations for practitioners seeking to bridge traceability gaps efficiently. 
+</div>
+</div>
+</li>  
+<br> 
+
+     
+<li>
+<div style="text-align: justify">
 <a>Enhanced Code Reviews Using Pull Request Based Change Impact Analysis</a>
 <br><i>İsmail Sergen Göçmen, Ahmed Salih Cezayir, Eray Tüzün</i>
 <br>Empirical Software Engineering
