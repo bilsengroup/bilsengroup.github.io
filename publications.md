@@ -12,12 +12,40 @@ papers:
 
 {% include publications-template.html items=page.papers %}
 
-<ul>  
+<ul> 
 <li>
 <div style="text-align: justify">
-<a>Evaluating ReLink for Traceability Link Recovery in Practice</a>
+<a>Uncovering the Challenges: A Study of Corner Cases in Bug-Inducing Commits</a>
+<br><i> Atakan Şerifoğlu, Eray Tüzün</i>
+<br>IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+<br><button data-toggle="collapse" data-target="#demo57">See Abstract</button><br>
+
+            <div id="demo57" class="collapse">
+            Context:
+In software development, accurately identifying bug-inducing commits (BICs) is crucial for maintaining code integrity and ensuring the reliability of software systems. The complexities involved in pinpointing the exact commits responsible for bugs necessitate a thorough investigation of the underlying issues and limitations of existing tools and algorithms.
+
+Objective:
+This study investigates and identifies corner cases in BIC identification, clarifying definitions and examining issues with existing algorithms and tools. By analyzing these cases, we aim to reveal challenges faced by current methods and propose insights for future improvements. 
+                    
+Methods:
+We evaluated the SZZ algorithm and two large language models, GPT-4o and Llama 3.1, using a curated repository of corner case bugs with detailed reports. This setup allowed us to assess the strengths and weaknesses of both traditional algorithms and LLMs. 
+
+Results:
+The SZZ algorithm achieved a recall of 0.8 and a precision of 0.36, resulting in an F1 score of 0.5 for corner cases and a recall of 1 and a precision of 0.5 for non-corner cases with an F1 score of 0.67. In comparison, the LLMs showed varied performance: for corner cases, Llama had an MRR of 0.7, while GPT scored 0.5. For non-corner cases, both models performed better, with an MRR of 0.875. 
+              
+Conclusion:
+Corner cases in BIC identification expose limitations in current methods, emphasizing the need for improved approaches to accurately handle these challenges.
+</div>
+</div>
+</li>  
+<br> 
+
+         
+<li>
+<div style="text-align: justify">
+<a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Evaluating+ReLink+for+Traceability+Link+Recovery+in+Practice&btnG=" >Evaluating ReLink for Traceability Link Recovery in Practice</a>
 <br><i> Ayberk Yaşa, Cemhan Kaan Özaltan, Görkem Ayten, Fatih Kaplama, Ömercan Devran, Baykal Mehmet Uçar, Eray Tüzün</i>
-<br>32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)
+<br>IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
 <br><button data-toggle="collapse" data-target="#demo56">See Abstract</button><br>
 
             <div id="demo56" class="collapse">
