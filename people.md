@@ -179,7 +179,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/emre-dinc-cs/
     github: https://github.com/EmreDinc10
   - name: Emre Furkan Akyol 
-    img: /img/people/furkan.akyol_..heic
+    img: /img/people/furkan.akyol_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Automated Bug Report Optimization via LLMs
     website: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
     url: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
