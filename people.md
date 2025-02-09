@@ -178,6 +178,18 @@ research-volunteers:
     website: https://www.linkedin.com/in/emre-dinc-cs/
     url: https://www.linkedin.com/in/emre-dinc-cs/
     github: https://github.com/EmreDinc10
+  - name: Emre Furkan Akyol 
+    img: /img/people/
+    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Report Optimization via LLMs
+    website: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
+    url: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
+    github: https://github.com/35furkan
+  - name: Mustafa Özkan İr 
+    img: /img/people/ozkan_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Fix Verification
+    website: https://www.linkedin.com/in/mustafaozkanir/
+    url: https://www.linkedin.com/in/mustafaozkanir/
+    github: https://github.com/mustafaozkanir
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
