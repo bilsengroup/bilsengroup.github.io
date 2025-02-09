@@ -185,7 +185,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
     github: https://github.com/35furkan
   - name: Mustafa Özkan İr 
-    img: /img/people/ozkan_.jpeg
+    img: /img/people/ozkan_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Automated Bug Fix Verification
     website: https://www.linkedin.com/in/mustafaozkanir/
     url: https://www.linkedin.com/in/mustafaozkanir/
