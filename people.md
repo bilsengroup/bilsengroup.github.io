@@ -17,17 +17,6 @@ graduate-students:
     url: https://www.linkedin.com/in/vahid-haratian-754aa2183/
     github: https://github.com/vharatian
     twitter: https://twitter.com/vharatian
-  - name: Selen Uysal
-    img: /img/people/Uysal_Selen.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Programming Systems and Software Engineering
-    website: https://www.linkedin.com/in/selen-uysal-824b07176/
-    url: https://www.linkedin.com/in/selen-uysal-824b07176/
-    github: https://github.com/SelenUysal
-  - name: Umut Cihan
-    img: /img/people/umut.jpg
-    desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
-    website: https://www.linkedin.com/in/umutcihan
-    url: https://www.linkedin.com/in/umutcihan
   - name: Fereshteh Vedadi
     img: /img/people/Fereshteh_.jpeg
     desc: Bachelor's degree and Master's degree from University of Tabriz. <br> Software Analytics.
@@ -498,6 +487,17 @@ former-members:
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
+  - name: Selen Uysal
+    img: /img/people/Uysal_Selen.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Programming Systems and Software Engineering
+    website: https://www.linkedin.com/in/selen-uysal-824b07176/
+    url: https://www.linkedin.com/in/selen-uysal-824b07176/
+    github: https://github.com/SelenUysal
+  - name: Umut Cihan
+    img: /img/people/umut.jpg
+    desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
+    website: https://www.linkedin.com/in/umutcihan
+    url: https://www.linkedin.com/in/umutcihan
 ---
 
 {% include list-circles.html items=page.PI%}
