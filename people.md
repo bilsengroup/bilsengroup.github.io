@@ -445,13 +445,13 @@ former-members:
     github: https://github.com/OrionKnight55
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
-    desc: BSc from Computer Science, Bilkent University. <br> General practices in software engineering.
+    desc: MSc from Computer Science, Bilkent University. <br> General practices in software engineering.
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
   - name: İdil Hanhan
     img: /img/people/idil.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software analytics
+    desc: MSc from Computer Engineering, Bilkent University <br> Software analytics
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
@@ -489,13 +489,13 @@ former-members:
     github: https://github.com/ayberkyasa
   - name: Selen Uysal
     img: /img/people/Uysal_Selen.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Programming Systems and Software Engineering
+    desc: MSc from Computer Engineering, Bilkent University <br> Programming Systems and Software Engineering
     website: https://www.linkedin.com/in/selen-uysal-824b07176/
     url: https://www.linkedin.com/in/selen-uysal-824b07176/
     github: https://github.com/SelenUysal
   - name: Umut Cihan
     img: /img/people/umut.jpg
-    desc: Bsc from Industrial Engineering, Middle East Technical University. <br> Software Analytics
+    desc: Msc from Computer Engineering, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
 ---
