@@ -495,7 +495,7 @@ former-members:
     github: https://github.com/SelenUysal
   - name: Umut Cihan
     img: /img/people/umut.jpg
-    desc: Msc from Computer Engineering, Bilkent University <br> Software Analytics
+    desc: MSc from Computer Engineering, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
 ---
