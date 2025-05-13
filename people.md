@@ -261,7 +261,6 @@ former-members:
   - name: İrem Yurdakul
     img: /img/people/iremyurdakul.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
-    pos: x
     website: https://www.linkedin.com/in/iremyurdakul96/
     url: https://www.linkedin.com/in/iremyurdakul96/
     github: https://github.com/iremyurdakul
@@ -461,14 +460,12 @@ former-members:
   - name: Mehmet Bahattin Dulkadiroğlu
     img: /img/people/Mehmet_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
-    pos: x
     website: linkedin.com/in/mehmetbahattindulkadiroglu
     url: linkedin.com/in/mehmetbahattindulkadiroglu
     github: github.com/mbdulkadiroglu
   - name: Ahmet Selim Çakir
     img: /img/people/ahmet_.jpg
     desc: Student at Garip Zeycan Science High School <br> Software Analytics
-    pos: x
     website: https://www.linkedin.com/in/ahmetselimcakir/
     url: https://www.linkedin.com/in/ahmetselimcakir/
     github: https://github.com/OrionKnight55
