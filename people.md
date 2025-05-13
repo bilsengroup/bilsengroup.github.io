@@ -375,7 +375,7 @@ former-members:
   - name: Cansu Moran
     img: /img/people/cansumoran.jpg
     desc: BSc in Bilkent University. <br> Systematic labelling bias in defect management.
-    pos: x
+    pos: MSc student at Technical University of Munich
     website: https://www.linkedin.com/in/cansu-moran/
     url: https://www.linkedin.com/in/cansu-moran/
     github: https://github.com/cansumoran
