@@ -281,7 +281,7 @@ former-members:
     url: https://www.linkedin.com/in/zeynep-cankara/
     github: https://github.com/zeynepCankara
     twitter: https://twitter.com/ZeynepCankara
-  - name: Emre Doğan, MSc
+  - name: Emre Doğan
     img: /img/people/emredogan.jpg
     desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering. <br> MSc from Bilkent University. <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
     pos: Software engineer at Plentific
@@ -289,7 +289,7 @@ former-members:
     url: https://www.linkedin.com/in/emredogan7/
     github: https://github.com/emredogan7
     twitter: https://twitter.com/mrdogan7
-  - name: Hamdi Alperen Çetin, MSc
+  - name: Hamdi Alperen Çetin
     img: /img/people/alperencetin.jpg
     desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology. <br> MSc from Bilkent University. <br> Artifact Traceability Graphs and Identifying Key Developers
     pos: Software engineer at Carbon Health
@@ -307,7 +307,7 @@ former-members:
   - name: Olcaytu Gürkan
     img: /img/people/olcaytugurkan.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Code Comment Smells
-    pos: x
+    pos: Software engineer at Trendyol Group
     website: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
     url: https://www.linkedin.com/in/olcaytu-g%C3%BCrkan-5918a4196/
     github: https://github.com/olcaytu-gurkan
