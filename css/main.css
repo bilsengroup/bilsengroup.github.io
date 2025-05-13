@@ -694,7 +694,7 @@ td.gutter {
   position: relative;
 }
 .list-circles-item .item-pos::before {
-  content: "position: ";
+  content: "First position after graduation: ";
   font-weight: bold;
   margin-right: 4px;
 }
