@@ -344,7 +344,7 @@ former-members:
   - name: Shirin Pirouzkhah
     img: /img/people/shirin.jpg
     desc: BSc from Information Technologies, Tabriz University. <br> MSc from Bilkent University. <br> Process Smells and Software Analytics
-    pos: x
+    pos: PhD student at University of Zurich
     website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
