@@ -284,7 +284,7 @@ former-members:
   - name: Emre Doğan, MSc
     img: /img/people/emredogan.jpg
     desc: BSc from Middle East Technical University, Department of Electrical and Electronics Engineering. <br> MSc from Bilkent University. <br> Ground Truth in Software Engineering Artifacts Bad Practices in the Code Review Process
-    pos: x
+    pos: Software engineer at Plentific
     website: https://www.linkedin.com/in/emredogan7/
     url: https://www.linkedin.com/in/emredogan7/
     github: https://github.com/emredogan7
