@@ -254,7 +254,6 @@ former-members:
   - name: Bedir Tekinerdoğan
     img: /img/people/none.jpg
     desc: Former PI
-    pos: x
     website: https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm
     url: https://www.wur.nl/en/Persons/Bedir-prof.dr.ir.-B-Bedir-Tekinerdogan.htm
     github: https://github.com/bedir-t
@@ -315,7 +314,7 @@ former-members:
   - name: Barış Ardıç
     img: /img/people/barisardic.jpg
     desc: MSc from Bilkent University. <br> Software Engineering Education and Serious Games
-    pos: x
+    pos: PhD student at Delft University of Technology
     website: https://www.linkedin.com/in/barisardic/
     url: https://github.com/barisardic
     github: https://github.com/barisardic
