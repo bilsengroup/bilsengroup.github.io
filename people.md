@@ -404,21 +404,21 @@ former-members:
   - name: Erdem Tuna
     img: /img/people/erdemtuna.jpg
     desc: MSc from Bilkent University <br> Impact of Code Review Process Smells
-    pos: x
+    pos: Software engineer at Picus Security
     website: https://www.erdemtuna.me/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
   - name: Beste Guney
     img: /img/people/Beste.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
-    pos: x
+    pos: MSc at ETH Zurich
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
     github: https://github.com/Beste-Guney
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
-    pos: x
+    pos: Data scientist at Stryber
     website: https://www.linkedin.com/in/ayberktecimer/
     url: https://www.linkedin.com/in/ayberktecimer/
     github: https://github.com/ayberktecimer
@@ -426,7 +426,7 @@ former-members:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
-    pos: x
+    pos: Software engineer at LAYERMARK
     website: https://www.linkedin.com/in/isikozsoy
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
@@ -434,12 +434,12 @@ former-members:
   - name: Ege Ergül
     img: /img/people/ege_ergul.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
-    pos: x
+    pos: Software engineer at Codeway Studios
     github: https://github.com/egeergul
   - name: Çağrı Eren
     img: /img/people/eren.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
-    pos: x
+    pos: MSc student at Delft Univeristy of Technology
     website: https://www.linkedin.com/in/cagrieren-74ab49168/
     url: https://www.linkedin.com/in/cagrieren-74ab49168/
     github: https://github.com/cagri26ren
@@ -447,14 +447,14 @@ former-members:
   - name: Kerem Şahin
     img: /img/people/kerem.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Life Cycle Analysis
-    pos: x
+    pos: MSc student at Northeaster University
     website: https://www.linkedin.com/in/sahinkerem
     url: https://www.linkedin.com/in/sahinkerem
     github: https://github.com/KeremSahin22
   - name: Miray Ayerdem
     img: /img/people/miray.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Static Code Analysis Tools Review
-    pos: x
+    pos: PhD student at Boston University
     website: https://www.linkedin.com/in/mirayayerdem/
     url: https://www.linkedin.com/in/mirayayerdem/
     github: https://github.com/mirayayerdem
