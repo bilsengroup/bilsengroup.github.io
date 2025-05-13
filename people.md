@@ -382,7 +382,7 @@ former-members:
   - name: Ata Yurtsever
     img: /img/people/atayurtsever.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Design Patterns Education, Interactive Learning
-    pos: x
+    pos: Software engineer at Carbon Health
     website: https://www.linkedin.com/in/atayurtsever/
     url: https://www.linkedin.com/in/atayurtsever/
     github: https://github.com/AtaYurtsever
@@ -390,14 +390,14 @@ former-members:
   - name: Ayda Yurtoğlu
     img: /img/people/aydayurtoglu.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Gamification in Software Engineering
-    pos: x
+    pos: MSc student at Télécom Paris
     website: https://www.linkedin.com/in/aydayurtoglu/
     url: https://www.linkedin.com/in/aydayurtoglu/
     github: https://github.com/aydayurtoglu
   - name: Emre Sülün
     img: /img/people/emresülün.jpg
     desc: MSc from Bilkent University <br> Issue Templates Usage
-    pos: x
+    pos: Software engineer at IMC Trading
     website: https://linkedin.com/in/sulun
     url: https://linkedin.com/in/sulun
     github: https://github.com/sulunemre
