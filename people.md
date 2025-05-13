@@ -496,6 +496,7 @@ former-members:
   - name: Umut Cihan
     img: /img/people/umut.jpg
     desc: MSc from Computer Engineering, Bilkent University <br> Software Analytics
+    pos: x
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
 ---
