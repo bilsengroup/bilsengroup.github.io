@@ -14,6 +14,9 @@
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
+      {% if item.pos %}
+        <div class="item-desc">{{ item.pos }}</div>
+      {% endif %}
       <div class="item-links">
         {% if item.website %}
           <a class="item-link" href="{{ item.website }}" title="Website">
