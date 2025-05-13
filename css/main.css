@@ -690,7 +690,7 @@ td.gutter {
   font-size: 16px;
 }
 .list-circles-item .item-pos {
-  font-size: 14px;
+  font-size: 16px;
   position: relative;
 }
 .list-circles-item .item-pos::before {
