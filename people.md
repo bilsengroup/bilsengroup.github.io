@@ -475,21 +475,21 @@ former-members:
   - name: Muhammad Umair Ahmed
     img: /img/people/MuhammadUmairAhmed.jpg
     desc: MSc from Computer Science, Bilkent University. <br> General practices in software engineering.
-    pos: x
+    pos: DevOps Lead at EnglishCentral, Inc. 
     website: https://www.linkedin.com/in/muhammad-umair-ahmed/
     url: https://www.linkedin.com/in/muhammad-umair-ahmed/
     github: https://github.com/ahmed-umair
   - name: İdil Hanhan
     img: /img/people/idil.jpg
     desc: MSc from Computer Engineering, Bilkent University <br> Software analytics
-    pos: x
+    pos: Software engineer at Udemy
     website: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     url: https://www.linkedin.com/in/idil-hanhan-14ba6713b/
     github: https://github.com/idilhanhan
   - name: Arda İçöz
     img: /img/people/arda_.jpg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    pos: x
+    pos: MSc student at Bilkent University
     website: linkedin.com/in/arda-icoz/
     url: linkedin.com/in/arda-icoz/
     github:  github.com/ardaicoz
@@ -497,14 +497,14 @@ former-members:
   - name: Ali Emir Güzey
     img: /img/people/Ali_Emir_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
-    pos: x
+    pos: MSc student at RWTH Aachen University 
     website: https://linkedin.com/in/ali-guzey
     url: https://linkedin.com/in/ali-guzey
     github: https://github.com/guezey
   - name: İpek Öztaş
     img: /img/people/Ipek_.jpg
     desc: BSc from Computer Science, Bilkent University <br> Code comment smells
-    pos: x
+    pos: MSc student at Bilkent University
     website: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     url: https://www.linkedin.com/in/ipek-oztas-bb38371b7/
     github:  https://github.com/ipekoztas
@@ -512,28 +512,28 @@ former-members:
   - name: Burak Yetiştiren
     img: /img/people/burakyetistiren.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Evaluation of GitHub Copilot
-    pos: x
+    pos: PhD student at UCLA
     website: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     url: https://www.linkedin.com/in/burak-yeti%C5%9Ftiren-114812194/
     github: https://github.com/burakyetistiren
   - name: Ayberk Yaşa
     img: /img/people/ayberkyasa.jpg
     desc: BSc from Computer Science, Bilkent University <br> Software Process Smells and Software Analytics
-    pos: x
+    pos: Software engineer at Cape of Good Code
     website: https://www.linkedin.com/in/ayberkyasa/
     url: https://www.linkedin.com/in/ayberkyasa/
     github: https://github.com/ayberkyasa
   - name: Selen Uysal
     img: /img/people/Uysal_Selen.jpg
     desc: MSc from Computer Engineering, Bilkent University <br> Programming Systems and Software Engineering
-    pos: x
+    pos: Software engineer at Aselsan
     website: https://www.linkedin.com/in/selen-uysal-824b07176/
     url: https://www.linkedin.com/in/selen-uysal-824b07176/
     github: https://github.com/SelenUysal
   - name: Umut Cihan
     img: /img/people/umut.jpg
     desc: MSc from Computer Engineering, Bilkent University <br> Software Analytics
-    pos: x
+    pos: Software engineer at Aselsan
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
 ---
