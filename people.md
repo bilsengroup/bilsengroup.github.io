@@ -292,14 +292,14 @@ former-members:
   - name: Hamdi Alperen Çetin, MSc
     img: /img/people/alperencetin.jpg
     desc: Electrical and Electronics Engineering, Computer Engineering (Double major), TOBB University of Economics and Technology. <br> MSc from Bilkent University. <br> Artifact Traceability Graphs and Identifying Key Developers
-    pos: x
+    pos: Software engineer at Carbon Health
     website: https://www.linkedin.com/in/hacetin/
     url: https://www.linkedin.com/in/hacetin/
     github: https://github.com/hacetin
   - name: Bartu Atabek
     img: /img/people/bartuatabek.jpg
     desc: BSc from Computer Science, Bilkent University <br> Code Review Visualization & Human Computer Interaction
-    pos: x
+    pos: Software engineer at MilSOFT Yazılım Teknolojileri A.Ş.
     website: https://www.linkedin.com/in/bartu-atabek
     url: https://www.linkedin.com/in/bartu-atabek
     github: https://github.com/bartuatabek
