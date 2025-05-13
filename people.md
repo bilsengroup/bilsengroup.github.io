@@ -336,7 +336,7 @@ former-members:
   - name: Khushbakht Ali
     img: /img/people/aliqamar.jpeg
     desc: BSc from National University of Science & Technology (NUST). <br> MSc from Bilkent University. <br> Bug Tracking Process Smells
-    pos: x
+    pos: Business analyst at GRID Systems
     website: https://www.linkedin.com/in/khushbakht-ali-422959110/
     url: https://www.linkedin.com/in/khushbakht-ali-422959110/
     github: https://github.com/khushbakhtali
