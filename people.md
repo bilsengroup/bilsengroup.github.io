@@ -276,7 +276,7 @@ former-members:
   - name: Zeynep Cankara
     img: /img/people/zeynepcankara.jpg
     desc: BSc from Computer Science, Bilkent University <br> Eliminating Systematic Bias in Bug Assignment Studies.
-    pos: x
+    pos: MSc student at Technical University of Munich
     website: https://www.linkedin.com/in/zeynep-cankara/
     url: https://www.linkedin.com/in/zeynep-cankara/
     github: https://github.com/zeynepCankara
