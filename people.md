@@ -351,7 +351,7 @@ former-members:
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
     desc: BSc from Computer Science, Bilkent University.  <br> MSc from Middle East Technical University (METU) <br> Software Engineering, Software Measurement
-    pos: x
+    pos: Software engineer at ICterra Information and Communication Technologies
     website: https://www.linkedin.com/in/utkuunalcs/
     url: https://www.linkedin.com/in/utkuunalcs/
     github: https://github.com/utkuunalCS
@@ -359,7 +359,7 @@ former-members:
   - name: Elgun Jabrayilzade
     img: /img/people/elgunjabyilzade.jpg
     desc: BSc from Izmir Institute of Technolog.  <br> MSc from Bilkent University. <br> NLP, bus factor in SE.
-    pos: x
+    pos: Software engineer at freiheit.com technologies 
     website: https://www.linkedin.com/in/elgunjabrayilzade/
     url: https://www.linkedin.com/in/elgunjabrayilzade/
     github: https://github.com/jelgun
@@ -367,7 +367,7 @@ former-members:
   - name: Berfin Küçük
     img: /img/people/berfinkucuk.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Characterization of duplicate bugs.
-    pos: x
+    pos: Software engineer at Udemy
     website: https://tr.linkedin.com/in/berfinkucuk
     url: https://tr.linkedin.com/in/berfinkucuk
     github: https://github.com/berfinkucuk
