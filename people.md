@@ -321,7 +321,7 @@ former-members:
   - name: Oguzhan Dere
     img: /img/people/oguzhandere.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Game Development and Research
-    pos: x
+    pos: Software engineer at Accenture
     website: https://www.linkedin.com/in/osandere/
     url: https://www.linkedin.com/in/osandere/
     github: https://github.com/oguzhandere2
@@ -329,7 +329,7 @@ former-members:
   - name: Mustafa Yaşar
     img: /img/people/mustafayasar.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
-    pos: x
+    pos: Software engineer at Tiga Healthcare Technologies
     website: www.linkedin.com/in/mustafayasar2828
     url: www.linkedin.com/in/mustafayasar2828
     github: https://github.com/mustafayasar28
