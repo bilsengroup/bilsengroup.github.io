@@ -267,6 +267,7 @@ former-members:
   - name: Kaan Ünlü
     img: /img/people/kaanunlu.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Gamification and Human Computer Interaction
+    pos: MSc student at Aalto University
     website: https://kaanunlu.cargo.site/
     url: https://kaanunlu.cargo.site/
     github: https://github.com/Paledomain
