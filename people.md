@@ -106,12 +106,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
     github: https://github.com/kutaytire
-  - name: Işıl Özgü
-    img: /img/people/IsilOzgu_.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/isilozgu/
-    url: https://www.linkedin.com/in/isilozgu/
-    github: https://github.com/isil66
   - name: Atakan Şerifoğlu
     img: /img/people/atakan_.png
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
@@ -533,6 +527,13 @@ former-members:
     pos: Software engineer at Aselsan
     website: https://www.linkedin.com/in/umutcihan
     url: https://www.linkedin.com/in/umutcihan
+  - name: Işıl Özgü
+    img: /img/people/IsilOzgu_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    pos: PhD student at UCLA
+    website: https://www.linkedin.com/in/isilozgu/
+    url: https://www.linkedin.com/in/isilozgu/
+    github: https://github.com/isil66
 ---
 
 {% include list-circles.html items=page.PI%}
