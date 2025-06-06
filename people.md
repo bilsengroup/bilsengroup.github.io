@@ -67,13 +67,6 @@ graduate-students:
     url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     github: https://github.com/MustafaAltunhan   
 research-volunteers:
-  - name: Lara Merdol
-    img: /img/people/LARA.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
-    website: https://www.linkedin.com/in/lara-merdol-3a926516a/
-    url: https://www.linkedin.com/in/lara-merdol-3a926516a/
-    github: https://github.com/LaraMerdol
-    twitter: https://twitter.com/LMerdol
   - name: Metehan Saçakçı
     img: /img/people/Metehan-Sacakci-Vesikalık.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
@@ -81,19 +74,6 @@ research-volunteers:
     url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
-  - name: Sıla Saraoğlu
-    img: /img/people/Sila_.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Project Management Smells
-    website: https://www.linkedin.com/in/sila-saraoglu/
-    url: https://www.linkedin.com/in/sila-saraoglu/
-    github:  https://github.com/silaSaraoglu
-  - name: Berk Çakar
-    img: /img/people/Berk_.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/berkcakar/ 
-    url: https://www.linkedin.com/in/berkcakar/
-    github:  https://github.com/friberk
-    twitter: https://twitter.com/friiberk
   - name: Selin Bahar Gündoğar
     img: /img/people/Selin_.png
     desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
@@ -404,14 +384,14 @@ former-members:
   - name: Beste Guney
     img: /img/people/Beste.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Quality Process Visualization
-    pos: MSc at ETH Zurich
+    pos: MSc student at ETH Zurich
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
     github: https://github.com/Beste-Guney
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
-    pos: Data scientist at Stryber
+    pos: MSc student at Technical University of Munich
     website: https://www.linkedin.com/in/ayberktecimer/
     url: https://www.linkedin.com/in/ayberktecimer/
     github: https://github.com/ayberktecimer
@@ -440,7 +420,7 @@ former-members:
   - name: Kerem Şahin
     img: /img/people/kerem.jpeg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Life Cycle Analysis
-    pos: MSc student at Northeaster University
+    pos: MSc student at Northeastern University
     website: https://www.linkedin.com/in/sahinkerem
     url: https://www.linkedin.com/in/sahinkerem
     github: https://github.com/KeremSahin22
@@ -534,6 +514,29 @@ former-members:
     website: https://www.linkedin.com/in/isilozgu/
     url: https://www.linkedin.com/in/isilozgu/
     github: https://github.com/isil66
+  - name: Lara Merdol
+    img: /img/people/LARA.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Forgetting Curves in Software Development
+    pos: MSc student at Eindhoven University of Technology
+    website: https://www.linkedin.com/in/lara-merdol-3a926516a/
+    url: https://www.linkedin.com/in/lara-merdol-3a926516a/
+    github: https://github.com/LaraMerdol
+    twitter: https://twitter.com/LMerdol
+  - name: Sıla Saraoğlu
+    img: /img/people/Sila_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Project Management Smells
+    pos: MSc student at Politecnico di Milano
+    website: https://www.linkedin.com/in/sila-saraoglu/
+    url: https://www.linkedin.com/in/sila-saraoglu/
+    github:  https://github.com/silaSaraoglu
+   - name: Berk Çakar
+    img: /img/people/Berk_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    pos: PhD Student at Purdue University
+    website: https://www.linkedin.com/in/berkcakar/ 
+    url: https://www.linkedin.com/in/berkcakar/
+    github:  https://github.com/friberk
+    twitter: https://twitter.com/friiberk
 ---
 
 {% include list-circles.html items=page.PI%}
