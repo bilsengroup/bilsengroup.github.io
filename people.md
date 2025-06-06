@@ -529,7 +529,7 @@ former-members:
     website: https://www.linkedin.com/in/sila-saraoglu/
     url: https://www.linkedin.com/in/sila-saraoglu/
     github:  https://github.com/silaSaraoglu
-   - name: Berk Çakar
+  - name: Berk Çakar
     img: /img/people/Berk_.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
     pos: PhD Student at Purdue University
