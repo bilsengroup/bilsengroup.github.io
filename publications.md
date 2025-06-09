@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://link.springer.com/article/10.1007/s10664-025-10664-8">Process smells in practice: an evaluative case study</a>
+<br><i> Uğur Can Altun, Ismail Sergen Göçmen, Emre Sülün, Erdem Tuna, Eray Tüzün</i>
+<br> Empirical Software Engineering Journal
+<br><button data-toggle="collapse" data-target="#demo59">See Abstract</button><br>
+
+            <div id="demo59" class="collapse">
+            Context:
+Software development comprises many processes, including Code Review (CR) and Bug Tracking (BT). Although no perfect practices exist, recognizing bad practices helps avoid detrimental habits in CR and BT.
+
+Objective:
+This study investigates CR and BT process smells in industrial settings using Smellyzer, a detection tool based on established smell taxonomies. We aimed to explore the challenges, insights, and outcomes of applying a smell detection tool in real-world software projects. 
+                    
+Methods:
+We conducted an evaluative case study involving a large-scale proprietary company, analyzing CR and BT smells in a large software project using Smellyzer. We collected data through pre-surveys, focus groups, questionnaires, follow-up study and tool-based analyses, and then analyzed these data using triangulation and grounded theory methods.
+
+Results:
+Practitioners confirmed the presence of CR and BT smells in their workflows and provided detailed feedback on root causes and their impacts on development efficiency. They also rated the tool’s usefulness at identifying CR smells as 5 out of 5 and BT smells as 4.6 out of 5. Its practicality, measured by the System Usability Scale, scored 77.5 for CR and 80.0 for BT smell detection.
+              
+Conclusion:
+This study highlights the presence of CR and BT smells in industrial settings and their potential to affect workflow efficiency and software quality. While our tool, Smellyzer, proved effective in identifying these smells, the findings emphasize the importance of integrating theoretical frameworks with practical solutions. Future work should explore these smells across diverse project contexts and investigate their influence on development practices over time.
+</div>
+</div>
+</li>  
+<br> 
+
+       
+<li>
+<div style="text-align: justify">
 <a href="https://arxiv.org/abs/2412.18531">Automated Code Review In Practice</a>
 <br><i> Umut Cihan, Vahid Haratian, Arda İçöz, Mert Kaan Gül, Ömercan Devran, Emircan Furkan Bayendur, Baykal Mehmet Uçar, Eray Tüzün</i>
 <br> ICSE 2025 47th International Conference on Software Engineering
