@@ -399,7 +399,7 @@ former-members:
   - name: Işık Özsoy
     img: /img/people/isikozsoy.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Code Review Smells and Bug Tracking Smells
-    pos: Software engineer at LAYERMARK
+    pos:  MSc Student at University of Stuttgart
     website: https://www.linkedin.com/in/isikozsoy
     url: https://www.linkedin.com/in/isikozsoy
     github: https://www.github.com/isikozsoy
@@ -434,6 +434,7 @@ former-members:
   - name: Mehmet Bahattin Dulkadiroğlu
     img: /img/people/Mehmet_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
+    pos: MSc Student at University of Illinois Chicago
     website: linkedin.com/in/mehmetbahattindulkadiroglu
     url: linkedin.com/in/mehmetbahattindulkadiroglu
     github: github.com/mbdulkadiroglu
