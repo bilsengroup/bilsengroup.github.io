@@ -23,13 +23,6 @@ graduate-students:
     website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
     twitter: https://twitter.com/Fereshte_Vedadi
-  - name: Yahya Elnouby
-    img: /img/people/Yahya_E.jpeg
-    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
-    website: https://www.linkedin.com/in/yahyaelnouby/
-    url: https://www.linkedin.com/in/yahyaelnouby/
-    github: https://github.com/YahyaElnouby
-    twitter: https://twitter.com/Yahya_Elnouby26
   - name: Kübra Çağlar
     img: /img/people/kubra_.jpg
     desc: BSc from Electrical and Electronics Engineering, Bilkent University. <br> Software Analytics
@@ -538,6 +531,14 @@ former-members:
     url: https://www.linkedin.com/in/berkcakar/
     github:  https://github.com/friberk
     twitter: https://twitter.com/friiberk
+  - name: Yahya Elnouby
+    img: /img/people/Yahya_E.jpeg
+    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
+    pos: Software developer at Turkcell Global Bilgi 
+    website: https://www.linkedin.com/in/yahyaelnouby/
+    url: https://www.linkedin.com/in/yahyaelnouby/
+    github: https://github.com/YahyaElnouby
+    twitter: https://twitter.com/Yahya_Elnouby26
 ---
 
 {% include list-circles.html items=page.PI%}
