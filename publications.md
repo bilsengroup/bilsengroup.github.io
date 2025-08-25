@@ -15,6 +15,35 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.sciencedirect.com/science/article/pii/S0164121225002584?via%3Dihub">SAA: A framework for improving the software development process via 
+visualization-based software analytics</a>
+<br><i>Lara Merdol, Eray Tüzün, Ugur Dogrusoz</i>
+<br> Journal of Systems and Software
+<br><button data-toggle="collapse" data-target="#demo59">See Abstract</button><br>
+
+            <div id="demo59" class="collapse">
+            Context:
+Software artifacts contain crucial information about a project. Analyzing these artifacts and their relationships yields valuable insights. During a software project’s lifecycle, software tracking tools are used to monitor artifacts. Mining metadata from modern software tracking tools provides extensive data for constructing comprehensive software artifact traceability graphs. These graphs aid decision-making in software development. While prior studies have used various software artifact graphs for analysis, comprehensive graphs are underexplored. Moreover, existing studies often lack interactive visualization for exploratory analysis.
+
+Objective:
+ A unified traceability graph with interactive visualization can illuminate a broader range of issues and enhance understanding through visual cues.
+                    
+Methods:
+This article introduces the Software Artifact Analyzer (SAA) framework, leveraging artifact traceability graphs to support diverse analyses. A sample SAA tool demonstrates framework implementation, evaluated through quantitative and qualitative methods with focus groups and surveys.
+
+Results:
+Participants praised its potential to improve software processes but noted challenges in graph complexity management. Based on the surveys, the tool’s usability score was 74.5 out of 100, which is above average on the System Usability Scale (SUS), indicating its practicality. 
+              
+Conclusion:
+The SAA framework offers broad applicability by enabling seamless implementation of new software analysis methods, providing project decision-makers with insightful visualizations of the analysis results.
+</div>
+</div>
+</li>  
+<br> 
+
+       
+<li>
+<div style="text-align: justify">
 <a href="https://link.springer.com/article/10.1007/s10664-025-10664-8">Process smells in practice: an evaluative case study</a>
 <br><i> Uğur Can Altun, Ismail Sergen Göçmen, Emre Sülün, Erdem Tuna, Eray Tüzün</i>
 <br> Empirical Software Engineering Journal
