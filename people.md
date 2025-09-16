@@ -146,6 +146,18 @@ research-volunteers:
     website: https://www.linkedin.com/in/mustafaozkanir/
     url: https://www.linkedin.com/in/mustafaozkanir/
     github: https://github.com/mustafaozkanir
+  - name: Veli Karakaya 
+    img: /img/people/veli_karakaya_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> LLM Evaluation
+    website: https://www.linkedin.com/in/veli-karakaya-a5594024a/
+    url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
+    github: https://github.com/velikarakaya
+  - name: Tevfik Emre Sungur 
+    img: /img/people/Tevfik_Sungur_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/tevfik-emre-sungur/
+    url: https://www.linkedin.com/in/tevfik-emre-sungur/
+    github: https://github.com/7evf0
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
