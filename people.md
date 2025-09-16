@@ -59,7 +59,7 @@ graduate-students:
     website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     github: https://github.com/MustafaAltunhan
-   - name: Tevfik Emre Sungur 
+  - name: Tevfik Emre Sungur 
     img: /img/people/Tevfik_ Sungur_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/tevfik-emre-sungur/
