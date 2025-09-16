@@ -15,6 +15,36 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/395359325_Automated_Inline_Comment_Smell_Detection_and_Repair_with_Large_Language_Models">Automated Inline Comment Smell Detection and Repair with Large Language Models</a>
+<br><i>Hatice Kübra Çağlar, Semih Çağlar, Eray Tüzün</i>
+<br> ASE 2025 Conference
+<br><button data-toggle="collapse" data-target="#demo60">See Abstract</button><br>
+
+            <div id="demo60" class="collapse">
+            Context:
+Code comments play a critical role in improving code readability, maintainability, and collaborative development. However, comments may deviate from best practices due to software evolution, where code changes are not reflected in comments, as well as practitioner-related issues such as vague descriptions, redundancy, or misaligned intent. These issues lead to various comment smells that degrade software quality. While prior studies have explored comment inconsistencies, most are limited in scope, either addressing a narrow subset of smells or focusing solely on detection without considering repair.
+
+
+Objective:
+This study evaluates the effectiveness of large language models (LLMs) in both detecting and repairing inline code comment smells, using a comprehensive taxonomy of code comment smell types.
+
+                    
+Methods:
+We extended a prior data set by incorporating repaired versions of smelly comments, resulting in 2,211 unique instances. Four LLMs—GPT-4o-mini, o3-mini, DeepSeek-V3, and Codestral-2501—are evaluated under zero-shot and few-shot prompting strategies. To account for non-deterministic behavior in LLM outputs and ensure robustness, each configuration is executed five times. Detection performance is measured using accuracy, macro F1 score, and Matthews correlation coefficient (MCC); repair is evaluated using SBERT similarity, METEOR, and ROUGE-L. Our multi-stage pipeline feeds detection outputs into the repair phase, where the detection result with the highest macro F1 score is used to simulate the best possible repair scenario. Median scores across runs are reported for comparison.
+
+Results:
+o3-mini with few-shot prompting achieves the highest median detection performance: macro F1 of 0.41, MCC of 0.50, and accuracy of 0.72, exceeding the baseline of GPT-4. For repair, Codestral-2501 in the zero-shot setting yields the best results with a median SBERT score of 0.61, followed by DeepSeek-V3 and GPT-4o-mini at 0.53, and o3-mini at 0.46. Few-shot prompts improve detection, while zero-shot prompts are more effective for repair. 
+              
+Conclusion:
+Lightweight LLMs such as o3-mini can achieve strong detection performance when guided by effective few-shot prompts. For example, o3-mini with few-shot prompting attains the highest median detection results: macro F1 of 0.41, MCC of 0.50, and accuracy of 0.72, surpassing the GPT-4 baseline. In contrast, repair tasks benefit more from zero-shot prompting, though they introduce challenges such as overfitting and the risk of generating new smells. Our findings support the development of practical tools, including a GitHub-integrated comment repair assistant, and motivate future work on dynamic prompt selection and multilingual benchmark construction.
+</div>
+</div>
+</li>  
+<br> 
+
+     
+<li>
+<div style="text-align: justify">
 <a href="https://www.sciencedirect.com/science/article/pii/S0164121225002584?via%3Dihub">SAA: A framework for improving the software development process via 
 visualization-based software analytics</a>
 <br><i>Lara Merdol, Eray Tüzün, Ugur Dogrusoz</i>
