@@ -153,7 +153,7 @@ research-volunteers:
     url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     github: https://github.com/velikarakaya
   - name: Tevfik Emre Sungur 
-    img: /img/people/Tevfik_Sungur_.jpeg
+    img: /img/people/Tevfik_ Sungur_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/tevfik-emre-sungur/
     url: https://www.linkedin.com/in/tevfik-emre-sungur/
