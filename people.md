@@ -58,7 +58,13 @@ graduate-students:
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
-    github: https://github.com/MustafaAltunhan   
+    github: https://github.com/MustafaAltunhan
+   - name: Tevfik Emre Sungur 
+    img: /img/people/Tevfik_ Sungur_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/tevfik-emre-sungur/
+    url: https://www.linkedin.com/in/tevfik-emre-sungur/
+    github: https://github.com/7evf0  
 research-volunteers:
   - name: Metehan Saçakçı
     img: /img/people/Metehan-Sacakci-Vesikalık.jpg
@@ -152,12 +158,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     github: https://github.com/velikarakaya
-  - name: Tevfik Emre Sungur 
-    img: /img/people/Tevfik_ Sungur_.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/tevfik-emre-sungur/
-    url: https://www.linkedin.com/in/tevfik-emre-sungur/
-    github: https://github.com/7evf0
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
