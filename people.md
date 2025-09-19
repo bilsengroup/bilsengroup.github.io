@@ -133,6 +133,10 @@ research-volunteers:
     website: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     github: https://github.com/velikarakaya
+  - name: Hüseyin Özgür Kamalı
+    img: /img/people/ozgur_kamali_.jpg
+    desc: BSc from Computer Engineering, Ankara University <br> Software Analytics
+    github: https://github.com/dev-zgr
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
