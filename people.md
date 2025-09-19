@@ -69,8 +69,8 @@ research-volunteers:
   - name: Selin Bahar Gündoğar
     img: /img/people/Selin_.png
     desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
-    website: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
-    url: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
+    website: https://www.linkedin.com/in/selinbahargundogar/
+    url: https://www.linkedin.com/in/selinbahargundogar/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
   - name: Mehmet Can Bıyık
     img: /img/people/Mehmet_Can_Bıyık_photo.jpg
