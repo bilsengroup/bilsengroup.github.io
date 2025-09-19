@@ -20,8 +20,8 @@ graduate-students:
   - name: Fereshteh Vedadi
     img: /img/people/Fereshteh_.jpeg
     desc: Bachelor's degree and Master's degree from University of Tabriz. <br> Software Analytics.
-    website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
-    url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6
+    website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
+    url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
     twitter: https://twitter.com/Fereshte_Vedadi
   - name: Kübra Çağlar
     img: /img/people/kubra_.jpg
@@ -66,37 +66,12 @@ graduate-students:
     url: https://www.linkedin.com/in/tevfik-emre-sungur/
     github: https://github.com/7evf0  
 research-volunteers:
-  - name: Metehan Saçakçı
-    img: /img/people/Metehan-Sacakci-Vesikalık.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
-    website: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
-    url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
-    github: https://github.com/msacakci
-    twitter: https://twitter.com/Msacakci
   - name: Selin Bahar Gündoğar
     img: /img/people/Selin_.png
     desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
     website: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     url: https://www.linkedin.com/in/selin-bahar-g%C3%BCndo%C4%9Far-1881581b6/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
-  - name: Kutay Tire
-    img: /img/people/kutay2_.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Automatic PR Generation
-    website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
-    url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
-    github: https://github.com/kutaytire
-  - name: Atakan Şerifoğlu
-    img: /img/people/atakan_.png
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/atakanserifoglu/
-    url: https://www.linkedin.com/in/atakanserifoglu/
-    github: https://github.com/atakanserifoglu
-  - name: Ali Tunahan Işik
-    img: /img/people/AliT_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/ali-tunahan/
-    url: https://www.linkedin.com/in/ali-tunahan/
-    github: https://github.com/ali-tunahan
   - name: Mehmet Can Bıyık
     img: /img/people/Mehmet_Can_Bıyık_photo.jpg
     desc: BSc from Computer Science, Bilkent University <br> Legacy Code Refactor Analysis via LLMs
@@ -117,7 +92,7 @@ research-volunteers:
     github: https://github.com/erayyap
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
     website: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
     url: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
     github: https://github.com/ilkelatifoglu
@@ -551,6 +526,36 @@ former-members:
     url: https://www.linkedin.com/in/yahyaelnouby/
     github: https://github.com/YahyaElnouby
     twitter: https://twitter.com/Yahya_Elnouby26
+  - name: Kutay Tire
+    img: /img/people/kutay2_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Automatic PR Generation
+    pos: MSc student at university of Texas at Austin
+    website: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
+    url: https://www.linkedin.com/in/kutay-tire-0a4bb0206/
+    github: https://github.com/kutaytire
+  - name: Atakan Şerifoğlu
+    img: /img/people/atakan_.png
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    pos: COO at Deeployed
+    website: https://www.linkedin.com/in/atakanserifoglu/
+    url: https://www.linkedin.com/in/atakanserifoglu/
+    github: https://github.com/atakanserifoglu
+  - name: Ali Tunahan Işik
+    img: /img/people/AliT_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    pos: CEO at Deeployed
+    website: https://www.linkedin.com/in/ali-tunahan/
+    url: https://www.linkedin.com/in/ali-tunahan/
+    github: https://github.com/ali-tunahan
+  - name: Metehan Saçakçı
+    img: /img/people/Metehan-Sacakci-Vesikalık.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
+    pos: Software engineer at Havelsan
+    website: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
+    url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
+    github: https://github.com/msacakci
+    twitter: https://twitter.com/Msacakci
+    
 ---
 
 {% include list-circles.html items=page.PI%}
