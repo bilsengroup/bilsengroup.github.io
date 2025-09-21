@@ -361,7 +361,7 @@ former-members:
     img: /img/people/erdemtuna.jpg
     desc: MSc from Bilkent University <br> Impact of Code Review Process Smells
     pos: Software engineer at Picus Security
-    website: https://www.erdemtuna.me/
+    website: https://www.linkedin.com/in/erdem-tuna/
     url: https://www.linkedin.com/in/erdem-tuna/
     github: https://github.com/erdemtuna
   - name: Beste Guney
