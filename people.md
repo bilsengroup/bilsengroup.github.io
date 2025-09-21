@@ -325,10 +325,9 @@ former-members:
     img: /img/people/berfinkucuk.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Characterization of duplicate bugs.
     pos: Software engineer at Udemy
-    website: https://tr.linkedin.com/in/berfinkucuk
-    url: https://tr.linkedin.com/in/berfinkucuk
+    website: https://www.linkedin.com/in/berfinkucuk/
+    url: https://www.linkedin.com/in/berfinkucuk/
     github: https://github.com/berfinkucuk
-    twitter: https://tr.linkedin.com/in/berfinkucuk
   - name: Cansu Moran
     img: /img/people/cansumoran.jpg
     desc: BSc in Bilkent University. <br> Systematic labelling bias in defect management.
