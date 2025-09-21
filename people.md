@@ -287,7 +287,7 @@ former-members:
     img: /img/people/mustafayasar.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Process Smells
     pos: Software engineer at Tiga Healthcare Technologies
-    website: www.linkedin.com/search/results/all/?keywords=Mustafa%20Ya%C5%9Far&origin=GLOBAL_SEARCH_HEADER&sid=.Y*
+    website: https://www.linkedin.com/in/mustafayasar2828/
     url: www.linkedin.com/in/mustafayasar2828
     github: https://github.com/mustafayasar28
   - name: Khushbakht Ali
