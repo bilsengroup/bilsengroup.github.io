@@ -446,10 +446,10 @@ former-members:
     img: /img/people/arda_.jpg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     pos: MSc student at Bilkent University
-    website: linkedin.com/in/arda-icoz/
-    url: linkedin.com/in/arda-icoz/
-    github:  github.com/ardaicoz
-    twitter: twitter.com/ardaaicoz
+    website: https://www.linkedin.com/in/arda-icoz/
+    url: https://www.linkedin.com/in/arda-icoz/
+    github: https://github.com/ardaicoz
+    twitter: https://x.com/ardaaicoz
   - name: Ali Emir Güzey
     img: /img/people/Ali_Emir_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
