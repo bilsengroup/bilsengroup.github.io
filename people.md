@@ -421,7 +421,7 @@ former-members:
     pos: MSc student at University of Illinois Chicago
     website: linkedin.com/in/mehmetbahattindulkadiroglu
     url: linkedin.com/in/mehmetbahattindulkadiroglu
-    github: github.com/mbdulkadiroglu
+    github: https://github.com/mbdulkadiroglu
   - name: Ahmet Selim Çakir
     img: /img/people/ahmet_.jpg
     desc: Student at Garip Zeycan Science High School <br> Software Analytics
