@@ -137,6 +137,13 @@ research-volunteers:
     img: /img/people/ozgur_kamali_.jpg
     desc: BSc from Computer Engineering, Ankara University <br> Software Analytics
     github: https://github.com/dev-zgr
+  - name: Mehmet Dedeler 
+    img: /img/people/mehmet_Dedeler_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> AI-Driven Bug Analysis
+    website: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
+    url: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
+    github: https://github.com/mehmetdedeler
+    twitter: https://x.com/mehmet_ded
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
