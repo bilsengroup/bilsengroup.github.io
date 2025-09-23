@@ -573,8 +573,8 @@ former-members:
     img: /img/people/Metehan-Sacakci-Vesikalık.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Mining Software Repositories
     pos: Software engineer at Havelsan
-    website: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
-    url: https://www.linkedin.com/in/metehan-sacakci-100b351b6/
+    website: https://www.linkedin.com/in/metehan-sa%C3%A7ak%C3%A7%C4%B1-100b351b6/
+    url: https://www.linkedin.com/in/metehan-sa%C3%A7ak%C3%A7%C4%B1-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
     
