@@ -146,10 +146,16 @@ research-volunteers:
     twitter: https://x.com/mehmet_ded
   - name: Begüm Filiz Öz 
     img: /img/people/Begüm_Filiz_Öz_.heic
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics using LLMs
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics Using LLMs
     website: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
     url: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
     github: https://github.com/begumfilizoz
+  - name: Berke Kuzey Ardıç 
+    img: /img/people/Berke_Kuzey_Ardıç_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Bug Fixing via LLM Agents
+    website: https://www.linkedin.com/in/berkekuzeyardic/
+    url: https://www.linkedin.com/in/berkekuzeyardic/
+    github: https://github.com/kuzeyardic
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
