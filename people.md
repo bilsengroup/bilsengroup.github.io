@@ -145,7 +145,7 @@ research-volunteers:
     github: https://github.com/mehmetdedeler
     twitter: https://x.com/mehmet_ded
   - name: Begüm Filiz Öz 
-    img: /img/people/Begüm_Filiz_Öz_.heic
+    img: /img/people/Begüm_Filiz_Öz_.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics Using LLMs
     website: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
     url: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
