@@ -184,8 +184,8 @@ part-time-engineers:
   - name: Can Yılmaz
     img: /img/people/Can Yılmaz.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software process smells
-    website: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
-    url: https://www.linkedin.com/in/can-y%C4%B1lmaz-342506237/
+    website: https://www.linkedin.com/in/canyilmaz7/
+    url: https://www.linkedin.com/in/canyilmaz7/
     github: https://github.com/Can-Yilmaz
   - name: Uğur Can Altun
     img: /img/people/canaltun.jpg
