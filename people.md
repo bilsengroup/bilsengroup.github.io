@@ -415,8 +415,8 @@ former-members:
     img: /img/people/eren.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Bug Workflow Analysis
     pos: MSc student at Delft Univeristy of Technology
-    website: https://www.linkedin.com/in/cagrieren-74ab49168/
-    url: https://www.linkedin.com/in/cagrieren-74ab49168/
+    website: https://www.linkedin.com/in/cagri-eren/
+    url: https://www.linkedin.com/in/cagri-eren/
     github: https://github.com/cagri26ren
     twitter: https://twitter.com/arEren18
   - name: Kerem Şahin
