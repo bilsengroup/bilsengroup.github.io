@@ -321,8 +321,8 @@ former-members:
     img: /img/people/shirin.jpg
     desc: BSc from Information Technologies, Tabriz University. <br> MSc from Bilkent University. <br> Process Smells and Software Analytics
     pos: PhD student at University of Zurich
-    website: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
-    url: https://www.linkedin.com/in/shirin-pirouzkhah-6a4b72149/
+    website: https://www.linkedin.com/in/shirin-p-6a4b72149/
+    url: https://www.linkedin.com/in/shirin-p-6a4b72149/
     github: https://github.com/shirinpirouzkhaah
   - name: Utku Ünal
     img: /img/people/utkuunal.jpg
