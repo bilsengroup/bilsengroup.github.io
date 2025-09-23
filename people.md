@@ -144,6 +144,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
     github: https://github.com/mehmetdedeler
     twitter: https://x.com/mehmet_ded
+  - name: Begüm Filiz Öz 
+    img: /img/people/Begüm_Filiz_Öz_.heic
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics using LLMs
+    website: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
+    url: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
+    github: https://github.com/begumfilizoz
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
