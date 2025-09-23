@@ -546,7 +546,7 @@ former-members:
     pos: Software developer at Turkcell Global Bilgi 
     website: https://www.linkedin.com/in/yahyaelnouby/
     url: https://www.linkedin.com/in/yahyaelnouby/
-    github: https://github.com/YahyaElnouby
+    github: https://github.com/YahyaMohamed26
     twitter: https://twitter.com/Yahya_Elnouby26
   - name: Kutay Tire
     img: /img/people/kutay2_.jpeg
