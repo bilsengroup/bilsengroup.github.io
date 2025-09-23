@@ -160,8 +160,8 @@ part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
-    website: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
-    url: https://www.linkedin.com/in/muhammet-abdullah-ko%C3%A7/
+    website: https://www.linkedin.com/in/muhammet-abdullah-koc/
+    url: https://www.linkedin.com/in/muhammet-abdullah-koc/
     github: https://github.com/abdullah-koc
   - name: Eylül Çağlar
     img: /img/people/Eylul.jpeg
