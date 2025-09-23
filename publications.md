@@ -47,7 +47,7 @@ Lightweight LLMs such as o3-mini can achieve strong detection performance when g
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/395025445_Towards_Automated_Detection_of_Inline_Code_Comment_Smells">Towards Automated Detection of Inline Code Comment Smells</a>
 <br><i>İpek Öztaş, Utku Boran Torun, Eray Tüzün</i>
-<br> the International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)
+<br> The International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)
 <br><button data-toggle="collapse" data-target="#demo60">See Abstract</button><br>
 
             <div id="demo60" class="collapse">
