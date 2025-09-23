@@ -437,8 +437,8 @@ former-members:
     img: /img/people/Mehmet_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
     pos: MSc student at University of Illinois Chicago
-    website: linkedin.com/in/mehmetbahattindulkadiroglu
-    url: linkedin.com/in/mehmetbahattindulkadiroglu
+    website: https://www.linkedin.com/in/mbdulkadiroglu/
+    url: https://www.linkedin.com/in/mbdulkadiroglu/
     github: https://github.com/mbdulkadiroglu
   - name: Ahmet Selim Çakir
     img: /img/people/ahmet_.jpg
