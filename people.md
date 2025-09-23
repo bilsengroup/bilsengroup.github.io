@@ -245,8 +245,8 @@ former-members:
     img: /img/people/kaanunlu.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Gamification and Human Computer Interaction
     pos: MSc student at Aalto University
-    website: https://kaanunlu.cargo.site/
-    url: https://kaanunlu.cargo.site/
+    website: https://www.linkedin.com/in/kaan-unlu-the-designer/
+    url: https://www.linkedin.com/in/kaan-unlu-the-designer/
     github: https://github.com/Paledomain
   - name: Zeynep Cankara
     img: /img/people/zeynepcankara.jpg
