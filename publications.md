@@ -18,9 +18,9 @@ papers:
 <a href="https://www.researchgate.net/publication/395359325_Automated_Inline_Comment_Smell_Detection_and_Repair_with_Large_Language_Models">Automated Inline Comment Smell Detection and Repair with Large Language Models</a>
 <br><i>Hatice Kübra Çağlar, Semih Çağlar, Eray Tüzün</i>
 <br> ASE 2025 Conference
-<br><button data-toggle="collapse" data-target="#demo60">See Abstract</button><br>
+<br><button data-toggle="collapse" data-target="#demo61">See Abstract</button><br>
 
-            <div id="demo60" class="collapse">
+            <div id="demo61" class="collapse">
             Context:
 Code comments play a critical role in improving code readability, maintainability, and collaborative development. However, comments may deviate from best practices due to software evolution, where code changes are not reflected in comments, as well as practitioner-related issues such as vague descriptions, redundancy, or misaligned intent. These issues lead to various comment smells that degrade software quality. While prior studies have explored comment inconsistencies, most are limited in scope, either addressing a narrow subset of smells or focusing solely on detection without considering repair.
 
@@ -42,7 +42,37 @@ Lightweight LLMs such as o3-mini can achieve strong detection performance when g
 </li>  
 <br> 
 
-     
+
+<li>
+<div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/395025445_Towards_Automated_Detection_of_Inline_Code_Comment_Smells">Towards Automated Detection of Inline Code Comment Smells</a>
+<br><i>İpek Öztaş, Utku Boran Torun, Eray Tüzün</i>
+<br> the International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)
+<br><button data-toggle="collapse" data-target="#demo60">See Abstract</button><br>
+
+            <div id="demo60" class="collapse">
+            Context:
+Code comments are important in software development because they directly influence software maintainability and overall quality. Bad practices of code comments lead to code comment smells, negatively impacting software maintenance. Recent research has been conducted on classifying inline code comment smells, yet automatically detecting these still remains a challenge.
+
+
+Objective:
+We aim to automatically detect and classify inline code comment smells through machine learning (ML) models and a large language model (LLM) to determine how accurately each smell type can be detected. 
+
+                    
+Methods:
+We enhanced a previously labeled dataset, where comments are labeled according to a determined taxonomy, by augmenting it with additional code segments and their associated comments. GPT-4, a large language model, was used to classify code comment smells on both the original and augmented datasets to evaluate its performance. In parallel, we trained and tested seven different machine learning algorithms on the augmented dataset to compare their classification performance against GPT-4.
+
+Results:
+The performance of models-particularly Random Forest, which achieved an overall accuracy of 69%, along with Gradient Boosting and Logistic Regression, each achieving 66% and 65%, respectively-establishes a solid baseline for future research in this domain. The Random Forest model outperformed all other ML models, by achieving the highest Matthew's Correlation Coefficient (MCC) score of 0.44. The augmented dataset improved the overall classification accuracy of the GPT-4 model's predictions from 34% to 55%.
+              
+Conclusion:
+This study contributes to software maintainability by exploring the automatic detection and classification of inline code comment smells. We have made our augmented dataset and code ar-tifacts available online, offering a valuable resource for developing automated comment smell detection tools.
+</div>
+</div>
+</li>  
+<br> 
+
+
 <li>
 <div style="text-align: justify">
 <a href="https://www.sciencedirect.com/science/article/pii/S0164121225002584?via%3Dihub">SAA: A framework for improving the software development process via 
