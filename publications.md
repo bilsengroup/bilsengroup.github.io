@@ -17,7 +17,7 @@ papers:
 <div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/395359325_Automated_Inline_Comment_Smell_Detection_and_Repair_with_Large_Language_Models">Automated Inline Comment Smell Detection and Repair with Large Language Models</a>
 <br><i>Hatice Kübra Çağlar, Semih Çağlar, Eray Tüzün</i>
-<br> ASE 2025 Conference
+<br> The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 <br><button data-toggle="collapse" data-target="#demo61">See Abstract</button><br>
 
             <div id="demo61" class="collapse">
