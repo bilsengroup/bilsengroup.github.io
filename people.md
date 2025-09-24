@@ -206,7 +206,6 @@ summer-interns:
     desc: BSc from Computer Science, Bilkent University. <br> Mining Software Repositories
     website: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
     url: https://www.linkedin.com/in/fatih-sevban-uyanik-4082bb167/
-    github: https://github.com/FatihSevbanUyanik
     twitter: https://twitter.com/SevbanUyan
   - name: Büşra Büyükgebiz
     img: /img/people/busrabuyukgebiz.jpg
@@ -238,8 +237,6 @@ former-members:
   - name: İrem Yurdakul
     img: /img/people/iremyurdakul.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Engineering Education and Serious Games
-    website: https://www.linkedin.com/in/iremyurdakul96/
-    url: https://www.linkedin.com/in/iremyurdakul96/
     github: https://github.com/iremyurdakul
   - name: Kaan Ünlü
     img: /img/people/kaanunlu.jpg
@@ -389,7 +386,6 @@ former-members:
     pos: MSc student at ETH Zurich
     website: https://www.linkedin.com/in/beste-guney-23b5541b1/
     url: https://www.linkedin.com/in/beste-guney-23b5541b1/
-    github: https://github.com/Beste-Guney
   - name: Ayberk Tecimer
     img: /img/people/ayberktecimer.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics and Mining Software Repositories
@@ -467,7 +463,6 @@ former-members:
     website: https://www.linkedin.com/in/arda-icoz/
     url: https://www.linkedin.com/in/arda-icoz/
     github: https://github.com/ardaicoz
-    twitter: https://x.com/ardaaicoz
   - name: Ali Emir Güzey
     img: /img/people/Ali_Emir_.jpg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics
