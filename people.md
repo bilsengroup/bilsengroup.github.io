@@ -158,7 +158,7 @@ research-volunteers:
     github: https://github.com/kuzeyardic
   - name: Akif Emre Köşüş
     img: /img/people/Akif_Emre_Kosus_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    desc: BSc from Computer Science, Bilkent University <br> Bug Report Creation via Chatbots
     website: https://www.linkedin.com/in/akif-kosus/
     url: https://www.linkedin.com/in/akif-kosus/
     github: https://github.com/akifkosus
