@@ -156,6 +156,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/berkekuzeyardic/
     url: https://www.linkedin.com/in/berkekuzeyardic/
     github: https://github.com/kuzeyardic
+  - name: Akif Emre Köşüş
+    img: /img/people/Akif_Emre_Kosus.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: www.linkedin.com/in/akif-kosus
+    url: www.linkedin.com/in/akif-kosus 
+    github: https://github.com/akifkosus
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
