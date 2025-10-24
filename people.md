@@ -543,7 +543,7 @@ former-members:
     twitter: https://twitter.com/friiberk
   - name: Yahya Elnouby
     img: /img/people/Yahya_E.jpeg
-    desc: BSc in Bilkent University. <br> Gamification in Software Engineering
+    desc: BSc and MSc from Bilkent University. <br> Gamification in Software Engineering
     pos: Software developer at Turkcell Global Bilgi 
     website: https://www.linkedin.com/in/yahyaelnouby/
     url: https://www.linkedin.com/in/yahyaelnouby/
