@@ -15,6 +15,37 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="
+https://www.researchgate.net/profile/Emre-Dinc-4/research">Judge the Votes: A System to Classify Bug Reports and Give Suggestions</a>
+<br><i>Emre Dinç, Eray Tüzün</i>
+<br> 2nd ACM International Conference on AI-powered Software (AIware 2025)
+<br><button data-toggle="collapse" data-target="#demo62">See Abstract</button><br>
+
+            <div id="demo62" class="collapse">
+            Context:
+A large number of bug reports are submitted in software projects on a daily basis, examined manually by practitioners to determine if code changes are needed (valid) or not (invalid). Invalid bug reports cause a great waste of resources, thus automated bug report classification is widely studied. However, there exists a gap using LLMs and prompting techniques for bug report classification.
+
+
+Objective:
+The aim of this study is to apply various LLM and ML methods to classify bug reports as valid or invalid, and to determine strengths and weaknesses of the LLMs for bug report classification. 
+
+                    
+Methods:
+We trained machine learning models on the dataset, and established a retrieval augmented generation pipeline by indexing the training data to see how it affects LLM performance in classification. Lastly, we compared the performance of the majority vote of the three models we chose and compared it with the Judge LLM which is provided both with examples and models votes.
+
+Results:
+Fine-tuned transformers proved to be the most effective classifiers, with RoBERTa achieving the highest F1 score of 0.909. In contrast, zero-shot LLMs have shown a poor performance, with F1 scores ranging from 0.531 to 0.737. Although RAG-based few-shot prompting significantly boosted LLM performance, lifting the top score to 0.815, they still did not surpass the fine-tuned models. Finally, our Judge LLM pipeline yielded an F1 score of 0.871.
+              
+Conclusion:
+Our evaluation confirms that fine-tuned semantic classifiers remain the most cost-effective and highest-accuracy solution for binary bug-report classification. Using RAG with LLMs substantially improves model performance, although the scores do not surpass our top fine-tuned models.
+</div>
+</div>
+</li>  
+<br> 
+
+           
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/395359325_Automated_Inline_Comment_Smell_Detection_and_Repair_with_Large_Language_Models">Automated Inline Comment Smell Detection and Repair with Large Language Models</a>
 <br><i>Hatice Kübra Çağlar, Semih Çağlar, Eray Tüzün</i>
 <br> The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
