@@ -15,8 +15,7 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
-<a href="
-https://www.researchgate.net/profile/Emre-Dinc-4/research">Judge the Votes: A System to Classify Bug Reports and Give Suggestions</a>
+<a href="https://www.researchgate.net/publication/396939770_Judge_the_Votes_A_System_to_Classify_Bug_Reports_and_Give_Suggestions">Judge the Votes: A System to Classify Bug Reports and Give Suggestions</a>
 <br><i>Emre Dinç, Eray Tüzün</i>
 <br> 2nd ACM International Conference on AI-powered Software (AIware 2025)
 <br><button data-toggle="collapse" data-target="#demo62">See Abstract</button><br>
