@@ -78,18 +78,6 @@ research-volunteers:
     website: https://www.linkedin.com/in/mehmet-can-bıyık
     url: https://www.linkedin.com/in/mehmet-can-bıyık
     github: https://github.com/mehmet-canb
-  - name: Orhun Aysan
-    img: /img/people/orhun_..jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Requirement Smells
-    website: https://www.linkedin.com/in/aysanorhun
-    url: https://www.linkedin.com/in/aysanorhun
-    github: https://github.com/aysanorhun
-  - name: Eray Yapagci
-    img: /img/people/eray_..jpg
-    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Reproduction
-    website: https://www.linkedin.com/in/eray-yapağcı-376a37233
-    url: https://www.linkedin.com/in/eray-yapağcı-376a37233
-    github: https://github.com/erayyap
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
@@ -578,6 +566,20 @@ former-members:
     url: https://www.linkedin.com/in/metehan-sa%C3%A7ak%C3%A7%C4%B1-100b351b6/
     github: https://github.com/msacakci
     twitter: https://twitter.com/Msacakci
+  - name: Orhun Aysan
+    img: /img/people/orhun_..jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Requirement Smells
+    pos: MSc student at Bilkent University
+    website: https://www.linkedin.com/in/aysanorhun
+    url: https://www.linkedin.com/in/aysanorhun
+    github: https://github.com/aysanorhun
+  - name: Eray Yapagci
+    img: /img/people/eray_..jpg
+    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Reproduction
+    pos: MSc student at Bilkent University
+    website: https://www.linkedin.com/in/eray-yapağcı-376a37233
+    url: https://www.linkedin.com/in/eray-yapağcı-376a37233
+    github: https://github.com/erayyap
     
 ---
 
