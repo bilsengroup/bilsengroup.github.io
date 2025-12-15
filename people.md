@@ -150,6 +150,13 @@ research-volunteers:
     website: https://www.linkedin.com/in/akif-kosus/
     url: https://www.linkedin.com/in/akif-kosus/
     github: https://github.com/akifkosus
+  - name: Şükrü Eren Gökırmak
+    img: /img/people/Şükrü_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
+    website:  https://linkedin.com/in/sukruerengokirmak
+    url:  https://linkedin.com/in/sukruerengokirmak
+    github: https://github.com/erengokirmak
+    twitter: https://x.com/ErenGokirmak
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
