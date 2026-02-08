@@ -157,6 +157,12 @@ research-volunteers:
     url:  https://linkedin.com/in/sukruerengokirmak
     github: https://github.com/erengokirmak
     twitter: https://x.com/ErenGokirmak
+  - name: Uğurcan Doğruçam
+    img: /img/people/Uğurcan_Doğruçam_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> AI-Assisted Bug Reporting and Validity Analysis System
+    website:  https://www.linkedin.com/in/ugurcandogrucam/
+    url:  https://www.linkedin.com/in/ugurcandogrucam/
+    github: https://github.com/ugurcan2306
 part-time-engineers:
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
