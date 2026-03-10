@@ -23,12 +23,6 @@ graduate-students:
     website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
     twitter: https://twitter.com/Fereshte_Vedadi
-  - name: Kübra Çağlar
-    img: /img/people/kubra_.jpg
-    desc: BSc from Electrical and Electronics Engineering, Bilkent University. <br> Software Analytics
-    website: https://www.linkedin.com/in/hkubracaglar/
-    url: https://www.linkedin.com/in/hkubracaglar/
-    github: https://github.com/KubraCaglar
   - name: Giray Akyol
     img: /img/people/Giray_.jpg
     desc: BSc in Bilkent University <br> Software Analytics
@@ -593,6 +587,13 @@ former-members:
     website: https://www.linkedin.com/in/eray-yapağcı-376a37233
     url: https://www.linkedin.com/in/eray-yapağcı-376a37233
     github: https://github.com/erayyap
+  - name: Kübra Çağlar
+    img: /img/people/kubra_.jpg
+    desc: BSc and MSc from Bilkent University <br> Software Analytics
+    pos: Software engineer at Udemy
+    website: https://www.linkedin.com/in/hkubracaglar/
+    url: https://www.linkedin.com/in/hkubracaglar/
+    github: https://github.com/KubraCaglar
     
 ---
 
