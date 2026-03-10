@@ -589,7 +589,7 @@ former-members:
     github: https://github.com/erayyap
   - name: Kübra Çağlar
     img: /img/people/kubra_.jpg
-    desc: BSc and MSc from Bilkent University <br> Software Analytics
+    desc: MSc from Bilkent University <br> Software Analytics
     pos: Software engineer at Udemy
     website: https://www.linkedin.com/in/hkubracaglar/
     url: https://www.linkedin.com/in/hkubracaglar/
