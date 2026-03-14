@@ -47,12 +47,6 @@ graduate-students:
     website:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/
     url:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/ 
     github:  https://github.com/mtdemircan
-  - name: Mustafa Yasir Altunhan 
-    img: /img/people/yasir.altunhan.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
-    url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
-    github: https://github.com/MustafaAltunhan
   - name: Tevfik Emre Sungur 
     img: /img/people/Tevfik_ Sungur_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
@@ -594,7 +588,13 @@ former-members:
     website: https://www.linkedin.com/in/hkubracaglar/
     url: https://www.linkedin.com/in/hkubracaglar/
     github: https://github.com/KubraCaglar
-    
+  - name: Mustafa Yasir Altunhan 
+    img: /img/people/yasir.altunhan.jpeg
+    desc: MSc from Computer Science, Bilkent University <br> Software Analytics
+    pos: Software engineer at EHSIM
+    website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
+    url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
+    github: https://github.com/MustafaAltunhan  
 ---
 
 {% include list-circles.html items=page.PI%}
