@@ -54,12 +54,6 @@ graduate-students:
     url: https://www.linkedin.com/in/tevfik-emre-sungur/
     github: https://github.com/7evf0  
 research-volunteers:
-  - name: Selin Bahar Gündoğar
-    img: /img/people/Selin_.png
-    desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
-    website: https://www.linkedin.com/in/selinbahargundogar/
-    url: https://www.linkedin.com/in/selinbahargundogar/
-    github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
   - name: Mehmet Can Bıyık
     img: /img/people/Mehmet_Can_Bıyık_photo.jpg
     desc: BSc from Computer Science, Bilkent University <br> Legacy Code Refactor Analysis via LLMs
@@ -594,7 +588,14 @@ former-members:
     pos: Software engineer at EHSIM
     website: https://www.linkedin.com/in/mustafa-yasir-altunhan/
     url: https://www.linkedin.com/in/mustafa-yasir-altunhan/
-    github: https://github.com/MustafaAltunhan  
+    github: https://github.com/MustafaAltunhan
+  - name: Selin Bahar Gündoğar
+    img: /img/people/Selin_.png
+    desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
+    pos: Software engineer at Ministry of Treasury and Finance
+    website: https://www.linkedin.com/in/selinbahargundogar/
+    url: https://www.linkedin.com/in/selinbahargundogar/
+    github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
 ---
 
 {% include list-circles.html items=page.PI%}
