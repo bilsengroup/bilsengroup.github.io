@@ -15,7 +15,36 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
-<a href="https://www.researchgate.net/publication/402095101_ImproBR_Bug_Report_Improver_Using_LLMs">ImproBR:Bug Report Improver Using LLMs</a>
+<a href="https://arxiv.org/pdf/2603.25391">LACY: Simulating Expert Mentoring for Software Onboarding
+with Code Tours</a>
+<br><i>Zeynep Begüm Kara, Aytekin İsmail, Ece Ateş, İzgi Nur Tamcı, Zehra İyigün, Selin Şirin Aslangül, Ömercan Devran, Baykal Mehmet Uçar, Eray Tüzün</i>
+<br> ACM International Conference on the Foundations of Software Engineering (FSE 2026-Industry Track)
+<br><button data-toggle="collapse" data-target="#demo71">See Abstract</button><br>
+
+            <div id="demo71" class="collapse">
+            Context:
+Every software organization faces the onboarding challenge: helping newcomers navigate complex codebases, compensate for insufficient documentation, and comprehend code they did not author. Expert walkthroughs are among the most effective forms of support, yet they are expensive, repetitive, and do not scale.
+
+Objective:
+We present Lacy, a hybrid human-AI onboarding system that captures expert mentoring in reusable code tours—to our knowledge, the first hybrid approach combining AI-generated content with expert curation in code tours.
+                    
+Methods:
+Our design is grounded in requirements derived from 20+ meetings, surveys, and interviews across a year-long industry partnership with Beko. Supporting features include Voice-to-Tour capture, comprehension quizzes, podcasts, and a dashboard. We deployed Lacy on Beko’s production environment and conducted a controlled study on a legacy finance system (30K+ LOC).
+
+Results:
+Learners using expert-guided tours achieved 83% quiz scores versus 57% for AI-only tours, preferred tours over traditional self-study, and reported they would need fewer expert consultations. Experts found tour creation less burdensome than live walkthroughs. 
+              
+Conclusion:
+Beko has since adopted Lacy for organizational onboarding, and we release our code and study instruments as a replication package.
+</div>
+</div>
+</li>  
+<br> 
+
+           
+<li>
+<div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/402095101_ImproBR_Bug_Report_Improver_Using_LLMs">ImproBR: Bug Report Improver Using LLMs</a>
 <br><i>Emre Furkan Akyol, Mehmet Dedeler, Eray Tüzün</i>
 <br> 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
 <br><button data-toggle="collapse" data-target="#demo70">See Abstract</button><br>
