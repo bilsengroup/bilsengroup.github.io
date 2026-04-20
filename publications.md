@@ -15,6 +15,35 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://dl.acm.org/doi/abs/10.1145/3779119">Predicting the Next Generation of Key Developers: A Dual-Methodology Approach</a>
+<br><i>Fereshteh Vedadi, Ali Emir Güzey, Giray Akyol, Eray Tüzün</i>
+<br> ACM Transactions on Software Engineering and Methodology (TOSEM)
+<br><button data-toggle="collapse" data-target="#demo63">See Abstract</button><br>
+
+            <div id="demo63" class="collapse">
+            Context:
+In software projects, certain developers hold significant influence either by overseeing the entire project, focusing on specific components, or facilitating communication and coordination among teams. These key developers are vital in ensuring the project's overall success and ongoing maintenance. Given the significance of these individuals, proactively predicting them enables organizations to gain a competitive edge by nurturing their future talents. Numerous studies have focused on identifying a developer's current role in software projects across various contexts. However, there are limited investigations into forecasting a developer's future role within a project.
+
+Objective:
+Our research aims to address this gap by utilizing two distinct methodologies, each characterized by its unique set of features, to introduce an effective approach for predicting future key developers of a project based on developers’ initial activities.
+
+                    
+Methods:
+Our first methodology leverages four established predictive models: k-Nearest Neighbors, Logistic Regression, Random Forest, and Naïve Bayes, trained on a set of features inspired by sports analytics. These features are analogous to those used to assess athletes’ performance in different kinds of sports and emphasize the evaluation of developers’ technical proficiency and collaborative dynamics within their first six months of contribution to software projects. The second methodology involves extracting young (inexperienced) and mature (experienced) developers using a neural embedding algorithm. Inspired by sports analytics, the aim is to connect the inexperienced and experienced statuses of developers. A multilayer perceptron (MLP) is trained on the historical embeddings of key developers. By applying diachronic alignment techniques, the current embedding space is mapped onto the past embedding space, allowing the trained MLP to use these aligned current embeddings to predict future developers.
+
+Results:
+We assessed our methodologies across four open-source projects: Vuejs-Core, Spring-Security, Moby, and Gitea. Based on the obtained results from the first methodology, Random Forest appears to be the most effective model among the four models evaluated in this study, achieving up to 72.29% F1 Score in predicting key developers based on their historical performance and collaboration metrics, utilizing two different sources of ground truth data. Meanwhile, the second methodology achieved up to 70.89% F1 Score with the AlignOP alignment technique in the same projects. While both methods are effective, results showed that combining the two methodologies can achieve up to 73.64% F1 Score, leveraging the strengths of both approaches.
+              
+Conclusion:
+This combined approach not only enhances prediction accuracy but also provides a framework for organizations to proactively predict and cultivate future key developers, thereby contributing to the long-term success and sustainability of software projects.
+</div>
+</div>
+</li>  
+<br> 
+
+           
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/396939770_Judge_the_Votes_A_System_to_Classify_Bug_Reports_and_Give_Suggestions">Judge the Votes: A System to Classify Bug Reports and Give Suggestions</a>
 <br><i>Emre Dinç, Eray Tüzün</i>
 <br> 2nd ACM International Conference on AI-powered Software (AIware 2025)
