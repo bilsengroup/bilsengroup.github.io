@@ -15,6 +15,35 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://ieeexplore.ieee.org/document/11025643">RefExpo: Unveiling Software Project Structures through Advanced Dependency Graph Extraction</a>
+<br><i>Vahid Haratian, Pouria Derakhshanfar, Vladimir Kovalenko, Eray Tüzün</i>
+<br> IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR 2025)
+<br><button data-toggle="collapse" data-target="#demo65">See Abstract</button><br>
+
+            <div id="demo65" class="collapse">
+            Context:
+The dependency graph (DG) of a software project offers valuable insights for identifying its key components and, hence has been leveraged in numerous studies. Nevertheless, there is a lack of reusable tools for DG extraction. Existing tools are either outdated and difficult to configure, or fail to provide accurate analysis. However, Integrated Development Environments (IDEs) are designed to address the above issues.
+
+Objective:
+This study introduces RefExpo2, a reusable DG extraction tool that supports multiple languages, such as Java, Python, and JavaScript.
+
+                    
+Methods:
+RefExpo is a plugin based on IntelliJ which is a wellmaintained and reputed IDE. In addition, we compile an initial version of our dataset consisting of 20 Java and Python projects. We evaluated RefExpo’s validity at two levels: specific language features and comparisons against other existing tools, which we refer to as the micro and macro levels. 
+
+Results:
+Our evaluation shows RefExpo achieving 92% and 100% recall on micro test suites Judge and PyCG for Python and Java, respectively. In macrolevel experiments, RefExpo outperformed existing tools by at least 31 % and 7 % in finding unique and shared results (nonoverlapping and overlapping with other tools).
+              
+Conclusion:
+The installable version of RefExpo is available on the IntelliJ marketplace3. Additionally, a short video describing its functionality is available on YouTube 1.1https://youtu.be/eCnPUlj6YgA
+</div>
+</div>
+</li>  
+<br> 
+
+      
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/profile/Ali-Isik 14/publication/389371831_Enhancing_Pull_Request_Reviews_Leveraging_Large_Language_Models_to_Detect_Inconsistencies_Between_Issues_and_Pull_Requests/links/67c0360696e7fb48b9d0b66c/Enhancing-Pull-Request-Reviews-Leveraging-Large-Language-Models-to-Detect-Inconsistencies-Between-Issues-and-Pull-Requests.pdf">Enhancing Pull Request Reviews: Leveraging Large Language Models to Detect Inconsistencies Between Issues and Pull Requests</a>
 <br><i>Ali Tunahan Işık, Hatice Kübra Çağlar, Eray Tüzün</i>
 <br> IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge 2025)
