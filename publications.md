@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/402095101_ImproBR_Bug_Report_Improver_Using_LLMs">ImproBR:BugReportImproverUsingLLMs</a>
+<br><i>Emre Furkan Akyol, Mehmet Dedeler, Eray Tüzün</i>
+<br> 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
+<br><button data-toggle="collapse" data-target="#demo70">See Abstract</button><br>
+
+            <div id="demo70" class="collapse">
+            Context:
+Bug tracking systems (BTS) play a crucial role in software maintenance , yet developers frequently struggle with low-quality user-submitted reports that omit essential details such as Steps to Reproduce (S2R), Observed Behavior (OB), and Expected Behavior (EB). These inadequate descriptions lead to non-reproducible bugs, delaying resolution and wasting developer effort.
+
+Objective:
+We propose an LLM-based pipeline that automatically detects and improves bug reports by addressing missing, incomplete, and ambiguous S2R, OB, and EB sections. By restructuring instructions and generating clear, reproducible steps, our primary goal is to refine raw bug reports into complete, consistent, and actionable documents for developers.
+                    
+Methods:
+ImproBR employs a multi-stage methodology centered on detection and improvement. After preprocessing raw bug reports, a hybrid detector that combines fine-tuned DistilBERT, heuristic analysis, and LLM analyzer identifies missing or ambiguous S2R, OB, and EB sections. Guided by the detector's output, ImproBR then uses GPT-4o mini with section-specific few-shot prompts to generate improvements. To enhance reliability and relevance, a Retrieval-Augmented Generation (RAG) pipeline supplements the LLM with contextual information from a knowledge base.
+
+Results:
+We evaluate ImproBR on Mojira, the bug tracker for Minecraft, a large-scale domain of user-generated, often low-quality bug reports, with reports on average only 7.9% structurally complete, improved to an average of 96.4% complete, by generating missing S2R, OB, and EB sections. Our manual evaluation of 139 challenging, real-world bug reports confirmed this practical impact. ImproBR more than doubled the proportion of executable S2R, from 28.8% to 67.6% on average, and raised the number of reproducible bug reports from just 1 to 13. The average run-time of our improvement pipeline for a single bug report is 23.94 seconds, helping developers avoid wasting time. 
+              
+Conclusion:
+These results show that ImproBR not only ensures structural completeness but also generates more semantically and procedurally accurate content for developers.
+</div>
+</div>
+</li>  
+<br> 
+
+         
+<li>
+<div style="text-align: justify">
 <a href="https://ieeexplore.ieee.org/abstract/document/11334455">The Future of Generative AI in Software Engineering: A Vision From Industry and Academia in the European Genius Project</a>
 <br><i>Robin Gröpler, Steffen Klepke, Jack Johns, Andreas Dreschinski, Klaus Schmid, Benedikt Dornauer, Eray Tüzün, Joost Noppen, Mohammad Reza Mousavi, Yongjian Tang, Johannes Viehmann, Selin Şirin Aslangül, Beum Seuk Lee, Adam Ziolkowski, Eric Zie</i>
 <br> 2nd IEEE/ACM International Conference on AI-powered Software (AIware 2025)
