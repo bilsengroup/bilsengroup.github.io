@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://ieeexplore.ieee.org/abstract/document/11334455">The Future of Generative AI in Software Engineering: A Vision From Industry and Academia in the European Genius Project</a>
+<br><i>Robin Gröpler, Steffen Klepke, Jack Johns, Andreas Dreschinski, Klaus Schmid, Benedikt Dornauer, Eray Tüzün, Joost Noppen, Mohammad Reza Mousavi, Yongjian Tang, Johannes Viehmann, Selin Şirin Aslangül, Beum Seuk Lee, Adam Ziolkowski, Eric Zie</i>
+<br> 2nd IEEE/ACM International Conference on AI-powered Software (AIware 2025)
+<br><button data-toggle="collapse" data-target="#demo69">See Abstract</button><br>
+
+            <div id="demo69" class="collapse">
+            Context:
+Generative AI (GenAI) has recently emerged as a groundbreaking force in Software Engineering, capable of generating code, identifying bugs, recommending fixes, and supporting quality assurance. While its use in coding tasks shows considerable promise, applying GenAI across the entire Software Development Life Cycle (SDLC) has not yet been fully explored. Critical uncertainties in areas such as reliability, accountability, security, and data privacy demand deeper investigation and coordinated action. 
+
+Objective:
+The GENIUS project, comprising over 30 European industrial and academic partners, aims to address these challenges by advancing AI integration across all SDLC phases.
+                    
+Methods:
+It focuses on GenAI's potential, the development of innovative tools, and emerging research challenges, actively shaping the future of software engineering. This vision paper presents a shared perspective on the future of GenAI-driven software engineering, grounded in cross-sector dialogue as well as experiences and findings within the GENIUS consortium.
+
+Results:
+The paper explores four central elements: (1) a structured overview of current challenges in GenAI adoption across the SDLC; (2) a forward-looking vision outlining key technological and methodological advances expected over the next five years; (3) anticipated shifts in the roles and required skill sets of software professionals; and (4) the contribution of GENIUS in realising this transformation through practical tools and industrial validation.  
+              
+Conclusion:
+This paper focuses on aligning technical innovation with business relevance. It aims to inform both research agendas and industrial strategies, providing a foundation for reliable, scalable, and industry-ready GenAI solutions for software engineering teams.
+</div>
+</div>
+</li>  
+<br> 
+
+            
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/390212488_BugCraft_End-to-End_Crash_Bug_Reproduction_Using_LLM_Agents_in_Minecraft">BugCraft: End-to-End Crash Bug Reproduction Using LLM Agents in Minecraft</a>
 <br><i>Eray Yapağcı, Yavuz Alp Sencer Öztürk, Eray Tüzün</i>
 <br> The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
