@@ -15,27 +15,27 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
-<a href="https://www.researchgate.net/publication/395359325_Automated_Inline_Comment_Smell_Detection_and_Repair_with_Large_Language_Models">Automated Classification of Human Code Review Comments with Large Language Models</a>
-<br><i>Semih Çağlar, Şükrü Eren Gökırmak, Eray Tüzün</i>
-<br> The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+<a href="https://www.researchgate.net/profile/Ali-Isik 14/publication/389371831_Enhancing_Pull_Request_Reviews_Leveraging_Large_Language_Models_to_Detect_Inconsistencies_Between_Issues_and_Pull_Requests/links/67c0360696e7fb48b9d0b66c/Enhancing-Pull-Request-Reviews-Leveraging-Large-Language-Models-to-Detect-Inconsistencies-Between-Issues-and-Pull-Requests.pdf">Enhancing Pull Request Reviews: Leveraging Large Language Models to Detect Inconsistencies Between Issues and Pull Requests</a>
+<br><i>Ali Tunahan Işık, Hatice Kübra Çağlar, Eray Tüzün</i>
+<br> IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge 2025)
 <br><button data-toggle="collapse" data-target="#demo64">See Abstract</button><br>
 
             <div id="demo64" class="collapse">
             Context:
-Code comments play a critical role in improving code readability, maintainability, and collaborative development. However, comments may deviate from best practices due to software evolution, where code changes are not reflected in comments, as well as practitioner-related issues such as vague descriptions, redundancy, or misaligned intent. These issues lead to various comment smells that degrade software quality. While prior studies have explored comment inconsistencies, most are limited in scope, either addressing a narrow subset of smells or focusing solely on detection without considering repair.
+Efficient Pull Request (PR) review process is critical in software development. This process includes checking the alignment between PRs and their corresponding issues. The traditional manual PR review often struggles with identifying inconsistencies between the intended improvements or fixes outlined in issues and the actual changes proposed in PRs. This difference can lead to overlooked inconsistencies in the PR acceptance process.
 
 Objective:
-This study evaluates the effectiveness of large language models (LLMs) in both detecting and repairing inline code comment smells, using a comprehensive taxonomy of code comment smell types.
+We aim to enhance the PR review process by leveraging modern LLMs to detect inconsistencies between issue descriptions and code changes in submitted PRs.
 
                     
 Methods:
-We extended a prior data set by incorporating repaired versions of smelly comments, resulting in 2,211 unique instances. Four LLMs-GPT-4o-mini, o3-mini, DeepSeek-V3, and Codestral-2501-are evaluated under zero-shot and few-shot prompting strategies. To account for non-deterministic behavior in LLM outputs and ensure robustness, each configuration is executed five times. Detection performance is measured using accuracy, macro F1 score, and Matthews correlation coefficient (MCC); repair is evaluated using SBERT similarity, METEOR, and ROUGE-L. Our multi-stage pipeline feeds detection outputs into the repair phase, where the detection result with the highest macro F1 score is used to simulate the best possible repair scenario. Median scores across runs are reported for comparison.
+We manually labeled a statistically significant sample of PRs from the Transformers repository to assess their alignment with corresponding issue descriptions. Each PR was categorized into one of four groups: exact, missing, tangling, or missing and tangling. This labeled dataset served as the benchmark for evaluating the performance of four widely used models: Llama 3.1-70B-Instruct, Llama-3.1-405B-Instruct, GPT-4o, and GPT 4o mini. The models were tested using three distinct prompts designed to capture different aspects of issues and PRs. Each model was tasked with identifying tangled and missing elements, and their outputs were compared against the manually labeled data to assess their accuracy and reliability.
 
 Results:
-o3-mini with few-shot prompting achieves the highest median detection performance: macro F1 of 0.41, MCC of 0.50, and accuracy of 0.72, exceeding the baseline of GPT-4. For repair, Codestral-2501 in the zero-shot setting yields the best results with a median SBERT score of 0.61, followed by DeepSeek-V3 and GPT-4o-mini at 0.53, and o3-mini at 0.46. Few-shot prompts improve detection, while zero-shot prompts are more effective for repair.
+The manual labeling process in the stratified-sampled Transformers repository revealed the following distribution of PR-issue pair alignments: 68.04% were exact, 16.5% were missing, 13.40% were tangling, and 2.06% exhibited both missing and tangling characteristics. A strong correlation was observed between PR merge status and exact alignment, with 75.46% of merged PRs classified as exact, compared to only 29.03% of unmerged PRs. These findings highlight opportunities for improving the current code review process. For automated classification, the most effective prompt configuration combined issue text, PR text, and PR diff, enabling better detection of alignment inconsistencies. Among the models tested, GPT-4o and Llama-3.1-405B-Instruct delivered the highest performance, achieving the best F1 weighted scores of 0.5948 and 0.6190, respectively.
               
 Conclusion:
-Lightweight LLMs such as o3-mini can achieve strong detection performance when guided by effective few-shot prompts. For example, o3-mini with few-shot prompting attains the highest median detection results: macro F1 of 0.41, MCC of 0.50, and accuracy of 0.72, surpassing the GPT-4 baseline. In contrast, repair tasks benefit more from zero-shot prompting, though they introduce challenges such as overfitting and the risk of generating new smells. Our findings support the development of practical tools, including a GitHub-integrated comment repair assistant, and motivate future work on dynamic prompt selection and multilingual benchmark construction.
+Despite a notable correlation between PR merge status and exact alignment, our analysis revealed that merged PRs can still contain inconsistencies, such as missing or tangling changes. While the tested LLMs showed potential in automating PR-issue alignment, their current performance is limited. This underscores the need for further refinement to enhance their accuracy and reliability. Improved LLM-based tools could streamline the PR review process, reducing manual effort and enhancing code quality.
 </div>
 </div>
 </li>  
