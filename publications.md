@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/profile/Yahya-Elnouby/publication/395502922_DevScholar_A_Reuse Based_Approach_for_Evaluating_Developer_Contribution/links/68dd12d0d221a404b2a444f4/DevScholar-A-Reuse-Based-Approach-for-Evaluating-Developer-Contribution.pdf">DevScholar: A Reuse-Based Approach for Evaluating Developer Contribution</a>
+<br><i>Yahya Elnouby, Selen Uysal, Umut Cihan, Hakan Erdogmus, Eray Tüzün</i>
+<br> Euromicro Conference on Software Engineering and Advanced Applications
+<br><button data-toggle="collapse" data-target="#demo66">See Abstract</button><br>
+
+            <div id="demo66" class="collapse">
+            Context:
+Evaluating each developer’s contributions within collaborative software projects is essential for effective resource allocation, recognition of expertise, and identifying training needs. Traditional metrics such as lines of code (LOCs) or the number of commits fail to provide a comprehensive context since code varies in importance and complexity. On the other hand, writing reusable code is an essential coding practice that can serve as a metric for measuring the quality of the developers’ contributions.
+
+Objective:
+Our goal is to develop a methodology and a practical tool for evaluating developers’ reusable code contributions within a software project.
+                    
+Methods:
+Drawing inspiration from Hirsch’s H-Index, a benchmark metric in academia, we constructed the Developer H-Index (DH-Index). It tracks each method’s usage throughout the project identified via call graphs akin to citations in academic research and links these references to the respective developer contributions. We also created a variation of the DH-Index that weighs method usage with the Lines-of-Code-Weighted Developer H-Index (LWDH-Index). We developed DevScholar, a publicly available prototype that extracts and analyzes method-based contributions from software developers of a Java project. We compared our tool’s capabilities with GitHub Insights on four Open Source Software (OSS) projects, Apollo, Spring Boot, Retrofit, and Dubbo but only presenting the results of Apollo project.
+
+Results:
+LWDH-Index resulted in a stronger metric, as it smoothed out the effect of the disproportionate contribution of frequently called methods that are too simple and of rarely called methods that are too long.
+              
+Conclusion:
+In conclusion, compared to simple metrics based only on LOC or the number of commits, the DH-Index and LWDH-Index offer additional perspectives for evaluating developers’ contributions to reusable code within a software project team.
+</div>
+</div>
+</li>  
+<br> 
+
+         
+<li>
+<div style="text-align: justify">
 <a href="https://ieeexplore.ieee.org/document/11025643">RefExpo: Unveiling Software Project Structures through Advanced Dependency Graph Extraction</a>
 <br><i>Vahid Haratian, Pouria Derakhshanfar, Vladimir Kovalenko, Eray Tüzün</i>
 <br> IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR 2025)
