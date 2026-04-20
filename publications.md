@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://dl.acm.org/doi/pdf/10.1145/3806655">Past, Present, and Future of Bug Tracking in the Generative AI Era</a>
+<br><i>Utku Boran Torun, Mehmet Taha Demircan, Mahmut Furkan Gön, Eray Tüzün</i>
+<br> ACM Transactions on Software Engineering and Methodology (TOSEM)
+<br><button data-toggle="collapse" data-target="#demo67">See Abstract</button><br>
+
+            <div id="demo67" class="collapse">
+            Context:
+Traditional bug tracking systems rely heavily on manual reporting, reproduction, classification, and resolution. These tasks are performed by various stakeholders, including end users, customer support, developers, and testers. This division of responsibilities requires significant coordination in addition to the considerable human time and effort. This reliance widens the communication gap between non-technical end users and developers, who are more technically inclined, slowing the process from bug discovery to resolution and deployment. Moreover, current solutions tend to be highly asynchronous; end users often wait hours, days, or even weeks before receiving an initial response, further delaying fixes and contributing to frustration.
+
+Objective:
+In this study, we examine the evolution of bug tracking practices, moving from early paper-based and manual reporting methods to today’s web-based platforms that dominate modern software development. Building on this trajectory, we outline our vision for the future: an AI-powered bug tracking framework that augments existing systems with intelligent, large language models (LLMs) and agent-driven automation, and we report on early adaptations of key components of this framework that provide initial empirical grounding for its feasibility.
+                    
+Methods:
+Our approach tackles two main challenges: reducing the time to resolution and minimizing coordination overhead by bridging the gap between end-users and developers. In the proposed framework, end users report bugs in natural language. AI-driven agents refine these reports, attempt to reproduce them, and request any missing details. Bug reports are classified according to their severity, priority, and type. Valid and invalid bugs are automatically determined, and the invalid bug reports are either dismissed or resolved via no-code fixes suggested by agents. Valid bugs, once confirmed, are localized and assigned to developers, who review LLM-generated patches and verify their correctness. Verified patches are deployed using continuous integration and continuous development (CI/CD) pipelines.
+
+Results:
+This paper articulates our vision for an AI-powered bug tracking framework and examines the challenges and opportunities of integrating LLMs into bug tracking workflows. 
+              
+Conclusion:
+We position the framework as a forward-looking design that can also augment today’s issue trackers, illustrating how automation can reduce turn around time while reshaping software maintenance into a more efficient, collaborative, and user-centric process.
+</div>
+</div>
+</li>  
+<br> 
+
+            
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/profile/Yahya-Elnouby/publication/395502922_DevScholar_A_Reuse Based_Approach_for_Evaluating_Developer_Contribution/links/68dd12d0d221a404b2a444f4/DevScholar-A-Reuse-Based-Approach-for-Evaluating-Developer-Contribution.pdf">DevScholar: A Reuse-Based Approach for Evaluating Developer Contribution</a>
 <br><i>Yahya Elnouby, Selen Uysal, Umut Cihan, Hakan Erdogmus, Eray Tüzün</i>
 <br> Euromicro Conference on Software Engineering and Advanced Applications
