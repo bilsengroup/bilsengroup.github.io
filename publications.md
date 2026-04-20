@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-89063-5_56">SmartDelta Methodology: Automated Quality Assurance and Optimization for Incremental System Engineering</a>
+<br><i>Benedikt Dornauer, Michael Felderer, Mehrdad Saadatmand, Muhammad Abbas, Nicolas Bonnotte, Andreas Dreschinski, Eduard Paul Enoiu, Eray Tüzün, Baykal Mehmet Uçar, Ömercan Devran, Robin Gröpler</i>
+<br> International Conference on Information Technology-New Generations
+<br><button data-toggle="collapse" data-target="#demo72">See Abstract</button><br>
+
+            <div id="demo72" class="collapse">
+            Context:
+Modern software systems undergo frequent updates, continuously evolving with new versions and variants to offer new features, improve functionality, and expand usability. Given the rapid pace of software evolution, organizations require effective tools and methods to mitigate the challenges associated with these changes, also called deltas. 
+
+Objective:
+To address these challenges, the international SmartDelta Project joined industry and academia to develop and test solutions for incremental development and quality assurance.
+                    
+Methods:
+This paper provides insights into the SmartDelta project achievements and highlights one main contribution: the SmartDelta Methodology, a domain-unspecific concept for delta management in incremental software engineering. 
+
+Results:
+This methodology enables companies to identify gaps in their continuous engineering environment across six stages and helps to discover new tools in various technical areas. 
+              
+Conclusion:
+Additionally, the paper presents seven selected tools at different stages of the methodology.
+</div>
+</div>
+</li>  
+<br>
+
+          
+<li>
+<div style="text-align: justify">
 <a href="https://arxiv.org/pdf/2603.25391">LACY: Simulating Expert Mentoring for Software Onboarding
 with Code Tours</a>
 <br><i>Zeynep Begüm Kara, Aytekin İsmail, Ece Ateş, İzgi Nur Tamcı, Zehra İyigün, Selin Şirin Aslangül, Ömercan Devran, Baykal Mehmet Uçar, Eray Tüzün</i>
