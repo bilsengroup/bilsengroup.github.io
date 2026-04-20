@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/390212488_BugCraft_End-to-End_Crash_Bug_Reproduction_Using_LLM_Agents_in_Minecraft">BugCraft: End-to-End Crash Bug Reproduction Using LLM Agents in Minecraft</a>
+<br><i>Eray Yapağcı, Yavuz Alp Sencer Öztürk, Eray Tüzün</i>
+<br> The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
+<br><button data-toggle="collapse" data-target="#demo68">See Abstract</button><br>
+
+            <div id="demo68" class="collapse">
+            Context:
+Reproducing game bugs, in our case crash bugs in continuously evolving games like Minecraft, is a notoriously manual, time-consuming, and challenging process to automate. Despite the success of LLM-driven bug reproduction in other software domains, games, with their complex interactive environments, remain largely unaddressed. 
+
+Objective:
+This paper introduces BugCraft, a novel end-to-end framework designed to automate the reproduction of crash bugs in Minecraft directly from user-submitted bug reports, addressing the critical gap in automated game bug reproduction. 
+                    
+Methods:
+BugCraft employs a two-stage approach: first, a Step Synthesizer leverages LLMs and Minecraft Wiki knowledge to transform bug reports into high-quality, structured steps to reproduce (S2R). Second, an Action Model, powered by a vision-based LLM agent (GPT-4o) and a custom macro API, executes these S2R steps within Minecraft to trigger the reported crash. To facilitate evaluation, we introduce BugCraft-Bench, a curated dataset of Minecraft crash bug reports.
+
+Results:
+Evaluated on BugCraft-Bench, our framework successfully reproduced 30.23% of crash bugs end-to-end. The Step Synthesizer demonstrated a 66.28% accuracy in generating correct bug reproduction plans, highlighting its effectiveness in interpreting and structuring bug report information. 
+              
+Conclusion:
+BugCraft demonstrates the feasibility of automated reproduction of crash bugs in complex game environments using LLMs, opening promising avenues for game testing and development. The framework and the BugCraft-Bench dataset pave the way for future research in automated game bug analysis and hold potential for generalization to other interactive game platforms. Finally, we make our code open at https://bugcraft2025.github.io/
+</div>
+</div>
+</li>  
+<br> 
+
+           
+<li>
+<div style="text-align: justify">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3806655">Past, Present, and Future of Bug Tracking in the Generative AI Era</a>
 <br><i>Utku Boran Torun, Mehmet Taha Demircan, Mahmut Furkan Gön, Eray Tüzün</i>
 <br> ACM Transactions on Software Engineering and Methodology (TOSEM)
