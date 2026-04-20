@@ -17,7 +17,7 @@ papers:
 <div style="text-align: justify">
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-89063-5_56">SmartDelta Methodology: Automated Quality Assurance and Optimization for Incremental System Engineering</a>
 <br><i>Benedikt Dornauer, Michael Felderer, Mehrdad Saadatmand, Muhammad Abbas, Nicolas Bonnotte, Andreas Dreschinski, Eduard Paul Enoiu, Eray Tüzün, Baykal Mehmet Uçar, Ömercan Devran, Robin Gröpler</i>
-<br> International Conference on Information Technology-New Generations
+<br> The 22nd International Conference on Information Technology-New Generations (ITNG 2025)
 <br><button data-toggle="collapse" data-target="#demo72">See Abstract</button><br>
 
             <div id="demo72" class="collapse">
