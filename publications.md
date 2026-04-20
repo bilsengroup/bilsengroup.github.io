@@ -15,7 +15,7 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
-<a href="https://www.researchgate.net/publication/402095101_ImproBR_Bug_Report_Improver_Using_LLMs">ImproBR:BugReportImproverUsingLLMs</a>
+<a href="https://www.researchgate.net/publication/402095101_ImproBR_Bug_Report_Improver_Using_LLMs">ImproBR:Bug Report Improver Using LLMs</a>
 <br><i>Emre Furkan Akyol, Mehmet Dedeler, Eray Tüzün</i>
 <br> 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
 <br><button data-toggle="collapse" data-target="#demo70">See Abstract</button><br>
