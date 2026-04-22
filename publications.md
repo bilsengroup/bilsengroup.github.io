@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/403258864_Fixpad_Automated_Bug_Fix_Verification_Using_LLM_Agents">Fixpad++: Automated Bug Fix Verification Using LLM Agents</a>
+<br><i>Mustafa Özkan İr, Mehmet Dedeler, Anil Koyuncu, Eray Tüzün</i>
+<br> 3rd ACM/IEEE International Conference on AI-powered Software (AIware 2026)
+<br><button data-toggle="collapse" data-target="#demo76">See Abstract</button><br>
+
+            <div id="demo76" class="collapse">
+            Context:
+Verifying bug fixes before patches are released to end users is a critical step in the software development lifecycle. However, this process is often manual, repetitive, and error-prone, especially for crash bugs triggered through Graphical User Interface (GUI) interactions in desktop applications. Despite recent advancements in LLM-driven software agents, existing work primarily targets bug reproduction without addressing fix verification, while approaches that do focus on verification rely on source code access, making them inapplicable to closed-source GUI-based desktop applications.
+
+Objective:
+This paper introduces Fixpad++, a framework designed to automatically verify bug fixes in the Notepad++ desktop application using LLM-powered agents.
+
+Methods:
+Fixpad++ employs a two-phase approach: first, a multi-modal multi-agent system interacts with the buggy version to reproduce the reported crash using visual parsing and LLM reasoning. Second, upon successful reproduction, a trajectory replay mechanism executes the recorded action sequence on the patched version to validate the fix. We evaluated Fixpad++ on FixPad-Bench, a new dataset of 105 evaluation instances derived from 22 real-world Notepad++ crash bugs, including valid and invalid patches.
+
+Results:
+The system achieved a reproduction success rate of 72.73\% with an average time of 174.07 seconds. Among the successfully reproduced cases, Fixpad++ correctly verified valid fixes with 87.50\% accuracy and detected invalid fixes with 77.05\% accuracy, outperforming OpenAI’s Computer-Using Agent (CUA).
+              
+Conclusion:
+Fixpad++ demonstrates the effectiveness of specialized LLM agent architectures for automated bug fix verification in GUI-based desktop applications, offering a practical solution for automating verification workflows without requiring access to source code.
+</div>
+</div>
+</li>  
+<br>
+
+         
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/402806252_Automated_Classification_of_Human_Code_Review_Comments_with_Large_Language_Models">Automated Classification of Human Code Review Comments with Large Language Models</a>
 <br><i>Semih Çağlar, Şükrü Eren Gökırmak, Eray Tüzün</i>
 <br> The 30th edition of the International Conference on Evaluation and Assessment in Software Engineering (EASE 2026)
