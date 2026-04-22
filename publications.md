@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://arxiv.org/abs/2512.00869">Staying or Leaving? How Job Satisfaction, Embeddedness and Antecedents Predict Turnover Intentions of Software Professionals</a>
+<br><i>Miikka Kuutila, Paul Ralph, Huilian Sophie Qiu, Ronnie de Souza Santos, Morakot Choetkiertikul, Amin Milani Fard, Rana Alkadhi, Xavier Devroey, Gregorio Robles, Hideaki Hata, Sebastian Baltes, Hera Arif, Vladimir Kovalenko, Shalini Chakraborty, Eray Tuzun, Gianisa Adisaputri</i>
+<br> The 48th International Conference on Software Engineering (ICSE 2026)
+<br><button data-toggle="collapse" data-target="#demo74">See Abstract</button><br>
+
+            <div id="demo74" class="collapse">
+            Context:
+Voluntary turnover is common in the software industry, increasing recruitment and onboarding costs and the risk of losing organizational and tacit knowledge.
+
+Objective:
+This study investigates how job satisfaction, work-life balance, job embeddedness, and their antecedents, including job quality, personality traits, attitudes toward technical and sociotechnical infrastructure, and perceptions of organizational justice, relate to software professionals' turnover intentions.
+
+Methods:
+We conducted a geographically diverse cross-sectional survey of software professionals (N = 224) and analyzed the data using partial least squares structural equation modeling (PLS-SEM). Our model includes both reflective and formative constructs and tests 15 hypotheses grounded in occupational psychology and software engineering literature.
+
+Results:
+Job satisfaction and embeddedness were significantly negatively associated with software professionals' turnover intentions, while work-life balance showed no direct effect. The strongest antecedents for job satisfaction were work-life balance and job quality, while organizational justice was the strongest predictor of job embeddedness. 
+              
+Conclusion:
+The resulting PLS-SEM model has considerably higher explanatory power for key outcome variables than previous work conducted in the software development context, highlighting the importance of both psychological (e.g., job satisfaction, job embeddedness) and organizational (e.g., organizational justice, job quality) factors in understanding turnover intentions of software professionals. Our results imply that improving job satisfaction and job embeddedness is the key to retaining software professionals. In turn, enhancing job quality, supporting work-life balance, and ensuring high organizational justice can improve job satisfaction and embeddedness, indirectly reducing turnover intentions.
+</div>
+</div>
+</li>  
+<br>
+
+     
+<li>
+<div style="text-align: justify">
 <a href="https://www.researchgate.net/publication/398227064_The_Software_Infrastructure_Attitude_Scale_SIAS_A_Questionnaire_Instrument_for_Measuring_Professionals%27_Attitudes_Toward_Technical_and_Sociotechnical_Infrastructure">The Software Infrastructure Attitude Scale (SIAS): A Questionnaire Instrument for Measuring Professionals' Attitudes Toward Technical and Sociotechnical Infrastructure</a>
 <br><i>Miikka Kuutila, Paul Ralph, Huilian Sophie Qiu, Ronnie de Souza Santos, Morakot Choetkiertikul, Amin Milani Fard, Rana Alkadhi, Xavier Devroey, Gregorio Robles, Hideaki Hata, Sebastian Baltes, Vladimir Kovalenko, Shalini Chakraborty, Eray Tuzun, Hera Arif, Gianisa Adisaputri, Kelly Garcés, Anielle SL Andrade, Eyram Amedzor, Bimpe Ayoola, Keisha Gaspard-Chickoree, Arazoo Hoseyni</i>
 <br> The 48th International Conference on Software Engineering (ICSE 2026)
