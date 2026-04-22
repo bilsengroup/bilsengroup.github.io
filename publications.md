@@ -15,6 +15,34 @@ papers:
 <ul> 
 <li>
 <div style="text-align: justify">
+<a href="https://www.researchgate.net/publication/398227064_The_Software_Infrastructure_Attitude_Scale_SIAS_A_Questionnaire_Instrument_for_Measuring_Professionals%27_Attitudes_Toward_Technical_and_Sociotechnical_Infrastructure">The Software Infrastructure Attitude Scale (SIAS): A Questionnaire Instrument for Measuring Professionals' Attitudes Toward Technical and Sociotechnical Infrastructure</a>
+<br><i>Miikka Kuutila, Paul Ralph, Huilian Sophie Qiu, Ronnie de Souza Santos, Morakot Choetkiertikul, Amin Milani Fard, Rana Alkadhi, Xavier Devroey, Gregorio Robles, Hideaki Hata, Sebastian Baltes, Vladimir Kovalenko, Shalini Chakraborty, Eray Tuzun, Hera Arif, Gianisa Adisaputri, Kelly Garcés, Anielle SL Andrade, Eyram Amedzor, Bimpe Ayoola, Keisha Gaspard-Chickoree, Arazoo Hoseyni</i>
+<br> The 48th International Conference on Software Engineering (ICSE 2026)
+<br><button data-toggle="collapse" data-target="#demo73">See Abstract</button><br>
+
+            <div id="demo73" class="collapse">
+            Context:
+Recent software engineering (SE) research has highlighted the need for sociotechnical research, implying a demand for customized psychometric scales.
+
+Objective:
+We define the concepts of technical and sociotechnical infrastructure in software engineering, and develop and validate a psychometric scale that measures attitudes toward them.  
+
+Methods:
+Grounded in theories of infrastructure, attitudes, and prior work on psychometric measurement, we defined the target constructs and generated scale items. The scale was administered to 225 software professionals and evaluated using a split sample. We conducted an exploratory factor analysis (EFA) on one half of the sample to uncover the underlying factor structure and performed a confirmatory factor analysis (CFA) on the other half to validate the structure. Further analyses with the whole sample assessed face, criterion-related, and discriminant validity. 
+
+Results:
+EFA supported a two-factor structure (technical and sociotechnical infrastructure), accounting for 65% of the total variance with strong loadings. CFA confirmed excellent model fit. Face and content validity were supported by the item content reflecting cognitive, affective, and behavioral components. Both subscales were correlated with job satisfaction, perceived autonomy, and feedback from the job itself, supporting convergent validity. Regression analysis supported criterion-related validity, while the Heterotrait-Monotrait ratio of correlations (HTMT), the Fornell-Larcker criterion, and model comparison all supported discriminant validity.
+              
+Conclusion:
+The resulting scale is a valid instrument for measuring attitudes toward technical and sociotechnical infrastructure in software engineering research. Our work contributes to ongoing efforts to integrate psychological measurement rigor into empirical and behavioral software engineering research.
+</div>
+</div>
+</li>  
+<br>
+
+           
+<li>
+<div style="text-align: justify">
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-89063-5_56">SmartDelta Methodology: Automated Quality Assurance and Optimization for Incremental System Engineering</a>
 <br><i>Benedikt Dornauer, Michael Felderer, Mehrdad Saadatmand, Muhammad Abbas, Nicolas Bonnotte, Andreas Dreschinski, Eduard Paul Enoiu, Eray Tüzün, Baykal Mehmet Uçar, Ömercan Devran, Robin Gröpler</i>
 <br> The 22nd International Conference on Information Technology-New Generations (ITNG 2025)
