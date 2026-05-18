@@ -145,7 +145,14 @@ research-volunteers:
     website:  https://www.linkedin.com/in/ugurcandogrucam/
     url:  https://www.linkedin.com/in/ugurcandogrucam/
     github: https://github.com/ugurcan2306
-part-time-engineers:
+  - name: Arda Sarıtaş 
+    img: /img/people/Arda_Sarıtaş_.jpeg
+    desc: BSc from Information Systems and Technologies, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/saritasarda/
+    url: https://www.linkedin.com/in/saritasarda/
+    github: https://github.com/ardasaritas
+    twitter: https://x.com/saritas_dev
+part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells and Bug Tracking Smells
