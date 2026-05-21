@@ -146,7 +146,7 @@ research-volunteers:
     url:  https://www.linkedin.com/in/ugurcandogrucam/
     github: https://github.com/ugurcan2306
   - name: Arda Sarıtaş 
-    img: /img/people/Arda_Sarıtaş_.jpeg
+    img: /img/people/arda_saritas_.png
     desc: BSc from Information Systems and Technologies, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/saritasarda/
     url: https://www.linkedin.com/in/saritasarda/
