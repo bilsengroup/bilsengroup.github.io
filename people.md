@@ -152,6 +152,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/saritasarda/
     github: https://github.com/ardasaritas
     twitter: https://x.com/saritas_dev
+  - name: Ansuman Mullick 
+    img: /img/people/ANSHUMAN_MULLICK_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/anshuman-mullick-302820180/
+    url: https://www.linkedin.com/in/anshuman-mullick-302820180/
+    github: https://github.com/ansh348
 part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
