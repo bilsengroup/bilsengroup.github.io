@@ -154,7 +154,7 @@ research-volunteers:
     twitter: https://x.com/saritas_dev
   - name: Ansuman Mullick 
     img: /img/people/ANSHUMAN_MULLICK_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    desc: BSc from Computer Science, Bilkent University <br> Knowledge Graphs and Ontology-Driven Information Extraction
     website: https://www.linkedin.com/in/anshuman-mullick-302820180/
     url: https://www.linkedin.com/in/anshuman-mullick-302820180/
     github: https://github.com/ansh348
