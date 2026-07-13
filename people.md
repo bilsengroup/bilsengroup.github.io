@@ -54,12 +54,6 @@ graduate-students:
     url: https://www.linkedin.com/in/tevfik-emre-sungur/
     github: https://github.com/7evf0  
 research-volunteers:
-  - name: Mehmet Can Bıyık
-    img: /img/people/Mehmet_Can_Bıyık_photo.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Legacy Code Refactor Analysis via LLMs
-    website: https://www.linkedin.com/in/mehmet-can-bıyık
-    url: https://www.linkedin.com/in/mehmet-can-bıyık
-    github: https://github.com/mehmet-canb
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
     desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
@@ -609,6 +603,13 @@ former-members:
     website: https://www.linkedin.com/in/selinbahargundogar/
     url: https://www.linkedin.com/in/selinbahargundogar/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
+  - name: Mehmet Can Bıyık
+    img: /img/people/Mehmet_Can_Bıyık_photo.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Legacy Code Refactor Analysis via LLMs
+    pos: NLP engineer at Databoss
+    website: https://www.linkedin.com/in/mehmet-can-bıyık
+    url: https://www.linkedin.com/in/mehmet-can-bıyık
+    github: https://github.com/mehmet-canb
 ---
 
 {% include list-circles.html items=page.PI%}
