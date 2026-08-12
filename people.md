@@ -52,7 +52,17 @@ graduate-students:
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/tevfik-emre-sungur/
     url: https://www.linkedin.com/in/tevfik-emre-sungur/
-    github: https://github.com/7evf0  
+    github: https://github.com/7evf0
+  - name: Hüseyin Özgür Kamalı
+    img: /img/people/ozgur_kamali_.jpg
+    desc: BSc from Computer Engineering, Ankara University <br> Software Analytics
+    github: https://github.com/dev-zgr
+  - name: Mustafa Özkan İr 
+    img: /img/people/ozkan_..jpg
+    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Fix Verification
+    website: https://www.linkedin.com/in/mustafaozkanir/
+    url: https://www.linkedin.com/in/mustafaozkanir/
+    github: https://github.com/mustafaozkanir 
 research-volunteers:
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
@@ -85,22 +95,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
     url: https://www.linkedin.com/in/emre-furkan-akyol-709310179/
     github: https://github.com/35furkan
-  - name: Mustafa Özkan İr 
-    img: /img/people/ozkan_..jpg
-    desc: BSc from Computer Science, Bilkent University <br> Automated Bug Fix Verification
-    website: https://www.linkedin.com/in/mustafaozkanir/
-    url: https://www.linkedin.com/in/mustafaozkanir/
-    github: https://github.com/mustafaozkanir
   - name: Veli Karakaya 
     img: /img/people/veli_karakaya_.jpg
     desc: BSc from Computer Science, Bilkent University <br> LLM Evaluation
     website: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     github: https://github.com/velikarakaya
-  - name: Hüseyin Özgür Kamalı
-    img: /img/people/ozgur_kamali_.jpg
-    desc: BSc from Computer Engineering, Ankara University <br> Software Analytics
-    github: https://github.com/dev-zgr
   - name: Mehmet Dedeler 
     img: /img/people/mehmet_Dedeler_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> AI-Driven Bug Analysis
