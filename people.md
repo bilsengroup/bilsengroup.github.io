@@ -62,7 +62,13 @@ graduate-students:
     desc: BSc from Computer Science, Bilkent University <br> Automated Bug Fix Verification
     website: https://www.linkedin.com/in/mustafaozkanir/
     url: https://www.linkedin.com/in/mustafaozkanir/
-    github: https://github.com/mustafaozkanir 
+    github: https://github.com/mustafaozkanir
+  - name: Ali Abbasi Dolatabadi 
+    img: /img/people/Ali_Abbasi_.jpg
+    desc: BSc from Computer Science, Yeditepe University <br> Software Analytics
+    website: https://www.linkedin.com/in/ali-abbasi-dolatabadi/
+    url: https://www.linkedin.com/in/ali-abbasi-dolatabadi/
+    github: https://github.com/AliAbc99 
 research-volunteers:
   - name: İlke Latifoğlu
     img: /img/people/ilke_..jpg
