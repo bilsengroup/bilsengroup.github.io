@@ -12,7 +12,7 @@ PI:
 graduate-students:
   - name: Vahid Haratian
     img: /img/people/Vahid_Haratian.jpg
-    desc: BSc from Computer Engineering, Sharif University of Technology <br> Software analytics
+    desc: BSc from Computer Engineering, Sharif University of Technology <br> Software Analytics
     website: https://www.linkedin.com/in/vahid-haratian-754aa2183/
     url: https://www.linkedin.com/in/vahid-haratian-754aa2183/
     github: https://github.com/vharatian
@@ -158,6 +158,13 @@ research-volunteers:
     website: https://www.linkedin.com/in/anshuman-mullick-302820180/
     url: https://www.linkedin.com/in/anshuman-mullick-302820180/
     github: https://github.com/ansh348
+  - name: Delfin Eryilmaz 
+    img: /img/people/Delfin_ Eryilmaz_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/delfin-eryilmaz-49659b369/m
+    url: https://www.linkedin.com/in/delfin-eryilmaz-49659b369/m
+    github: https://github.com/DelfinEryilmaz
+    twitter: https://x.com/DelfinEry
 part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
