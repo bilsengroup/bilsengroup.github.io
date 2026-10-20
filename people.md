@@ -70,13 +70,6 @@ graduate-students:
     url: https://www.linkedin.com/in/ali-abbasi-dolatabadi/
     github: https://github.com/AliAbc99 
 research-volunteers:
-  - name: İlke Latifoğlu
-    img: /img/people/ilke_..jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
-    website: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
-    url: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
-    github: https://github.com/ilkelatifoglu
-    twitter: https://x.com/ilke_latifoglu
   - name: Atakan Akar
     img: /img/people/atakan_..jpg
     desc: BSc from Computer Science, Bilkent University <br> Test Generation via LLMs
@@ -107,38 +100,12 @@ research-volunteers:
     website: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     url: https://www.linkedin.com/in/veli-karakaya-a5594024a/
     github: https://github.com/velikarakaya
-  - name: Mehmet Dedeler 
-    img: /img/people/mehmet_Dedeler_.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> AI-Driven Bug Analysis
-    website: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
-    url: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
-    github: https://github.com/mehmetdedeler
-    twitter: https://x.com/mehmet_ded
-  - name: Begüm Filiz Öz 
-    img: /img/people/Begüm_Filiz_Öz_.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics Using LLMs
-    website: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
-    url: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
-    github: https://github.com/begumfilizoz
-  - name: Berke Kuzey Ardıç 
-    img: /img/people/Berke_Kuzey_Ardıç_.jpg
-    desc: BSc from Computer Science, Bilkent University <br> Bug Fixing via LLM Agents
-    website: https://www.linkedin.com/in/berkekuzeyardic/
-    url: https://www.linkedin.com/in/berkekuzeyardic/
-    github: https://github.com/kuzeyardic
   - name: Akif Emre Köşüş
     img: /img/people/Akif_Emre_Kosus_.jpg
     desc: BSc from Computer Science, Bilkent University <br> Bug Report Creation via Chatbots
     website: https://www.linkedin.com/in/akif-kosus/
     url: https://www.linkedin.com/in/akif-kosus/
     github: https://github.com/akifkosus
-  - name: Şükrü Eren Gökırmak
-    img: /img/people/Şükrü_.jpg
-    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
-    website:  https://linkedin.com/in/sukruerengokirmak
-    url:  https://linkedin.com/in/sukruerengokirmak
-    github: https://github.com/erengokirmak
-    twitter: https://x.com/ErenGokirmak
   - name: Uğurcan Doğruçam
     img: /img/people/Uğurcan_Doğruçam_.jpg
     desc: BSc from Computer Science, Bilkent University <br> AI-Assisted Bug Reporting and Validity Analysis System
@@ -612,7 +579,7 @@ former-members:
   - name: Selin Bahar Gündoğar
     img: /img/people/Selin_.png
     desc: BSc from Computer Engineering, Bilkent University <br> Artifact Traceability Graphs
-    pos: Software engineer at Ministry of Treasury and Finance
+    pos: MSc student at Korea University
     website: https://www.linkedin.com/in/selinbahargundogar/
     url: https://www.linkedin.com/in/selinbahargundogar/
     github: https://github.com/SelinBaharGundogar?tab=overview&from=2023-02-01&to=2023-02-14
@@ -623,6 +590,44 @@ former-members:
     website: https://www.linkedin.com/in/mehmet-can-bıyık
     url: https://www.linkedin.com/in/mehmet-can-bıyık
     github: https://github.com/mehmet-canb
+  - name: Begüm Filiz Öz 
+    img: /img/people/Begüm_Filiz_Öz_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Software Analytics Using LLMs
+    pos: Software engineer at Google Ireland
+    website: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
+    url: https://www.linkedin.com/in/beg%C3%BCm-%C3%B6z-7909081b1/
+    github: https://github.com/begumfilizoz
+  - name: Mehmet Dedeler 
+    img: /img/people/mehmet_Dedeler_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> AI-Driven Bug Analysis
+    pos: Research engineer at Nanyang Technological University, Singapore
+    website: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
+    url: https://www.linkedin.com/in/mehmet-dedeler-b271941bb/
+    github: https://github.com/mehmetdedeler
+    twitter: https://x.com/mehmet_ded
+  - name: Berke Kuzey Ardıç 
+    img: /img/people/Berke_Kuzey_Ardıç_.jpg
+    desc: BSc from Computer Science, Bilkent University <br> Bug Fixing via LLM Agents
+    pos: Software engineer at Microsoft
+    website: https://www.linkedin.com/in/berkekuzeyardic/
+    url: https://www.linkedin.com/in/berkekuzeyardic/
+    github: https://github.com/kuzeyardic
+  - name: İlke Latifoğlu
+    img: /img/people/ilke_..jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
+    pos: MSc student at  Delft University
+    website: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
+    url: https://www.linkedin.com/in/ilke-latifoğlu-5b2409277
+    github: https://github.com/ilkelatifoglu
+    twitter: https://x.com/ilke_latifoglu
+  - name: Şükrü Eren Gökırmak
+    img: /img/people/Şükrü_.jpg
+    desc: BSc from Computer Engineering, Bilkent University <br> Code Review Smells
+    pos: MSc student at Bilkent University
+    website:  https://linkedin.com/in/sukruerengokirmak
+    url:  https://linkedin.com/in/sukruerengokirmak
+    github: https://github.com/erengokirmak
+    twitter: https://x.com/ErenGokirmak
 ---
 
 {% include list-circles.html items=page.PI%}
