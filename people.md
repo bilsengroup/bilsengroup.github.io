@@ -133,7 +133,7 @@ research-volunteers:
     github: https://github.com/DelfinEryilmaz
     twitter: https://x.com/DelfinEry
   - name: Atakan Kaya 
-    img: /img/people/Atakan_Akar_.jpeg
+    img: /img/people/Atakan_Kaya_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> LLM Firewall
     website: https://www.linkedin.com/in/ak35/
     url: https://www.linkedin.com/in/ak35/
