@@ -132,6 +132,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/delfin-eryilmaz-49659b369/m
     github: https://github.com/DelfinEryilmaz
     twitter: https://x.com/DelfinEry
+  - name: Atakan Kaya 
+    img: /img/people/Atakan_Akar_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> LLM Firewall
+    website: https://www.linkedin.com/in/ak35/
+    url: https://www.linkedin.com/in/ak35/
+    github: https://github.com/Atakan-Kaya35
 part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
