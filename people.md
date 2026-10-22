@@ -142,7 +142,7 @@ research-volunteers:
     img: /img/people/Erdem_Kocaoglu_.jpeg
     desc: BSc from Computer Science, Bilkent University <br> Software Analytics
     website: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
-    url: https: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
+    url: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
     github: https://github.com/erdemKocaogluu
     twitter: https://x.com/erdemKocaogluu
 part-time-engineers: 
