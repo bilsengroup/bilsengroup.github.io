@@ -138,6 +138,13 @@ research-volunteers:
     website: https://www.linkedin.com/in/ak35/
     url: https://www.linkedin.com/in/ak35/
     github: https://github.com/Atakan-Kaya35
+  - name: Erdem Kocaoğlu 
+    img: /img/people/Erdem_Kocaoglu_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    website: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
+    url: https: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
+    github: https://github.com/erdemKocaogluu
+    twitter: https://x.com/erdemKocaogluu
 part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
