@@ -23,12 +23,6 @@ graduate-students:
     website: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
     url: https://www.linkedin.com/in/fereshteh-vedadi-6353131a6/
     twitter: https://twitter.com/Fereshte_Vedadi
-  - name: Giray Akyol
-    img: /img/people/Giray_.jpg
-    desc: BSc in Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/giray-akyol-925698223/
-    url: https://www.linkedin.com/in/giray-akyol-925698223/
-    github: https://github.com/GirayAkyol
   - name: Utku Boran Torun
     img: /img/people/Boran_.jpeg
     desc: BSc from Computer Science, Bilkent University. <br> Software Analytics, Machine Learning for Software Engineering
@@ -41,18 +35,6 @@ graduate-students:
     website:  https://www.linkedin.com/in/mfurkangon/
     url:  https://www.linkedin.com/in/mfurkangon/ 
     github:  https://github.com/mfurkangon
-  - name: Mehmet Taha Demircan
-    img: /img/people/Mehmet_Taha_.jpg
-    desc: BSc from Computer Science, TOBB ETU <br> Software Analytics
-    website:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/
-    url:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/ 
-    github:  https://github.com/mtdemircan
-  - name: Tevfik Emre Sungur 
-    img: /img/people/Tevfik_ Sungur_.jpeg
-    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
-    website: https://www.linkedin.com/in/tevfik-emre-sungur/
-    url: https://www.linkedin.com/in/tevfik-emre-sungur/
-    github: https://github.com/7evf0
   - name: Hüseyin Özgür Kamalı
     img: /img/people/ozgur_kamali_.jpg
     desc: BSc from Computer Engineering, Ankara University <br> Software Analytics
@@ -641,6 +623,27 @@ former-members:
     url:  https://linkedin.com/in/sukruerengokirmak
     github: https://github.com/erengokirmak
     twitter: https://x.com/ErenGokirmak
+  - name: Mehmet Taha Demircan
+    img: /img/people/Mehmet_Taha_.jpg
+    desc: BSc from Computer Science, TOBB ETU <br> Software Analytics
+    pos: MSc student at Bilkent University
+    website:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/
+    url:  https://www.linkedin.com/in/mehmet-taha-demircan-608185187/ 
+    github:  https://github.com/mtdemircan
+  - name: Giray Akyol
+    img: /img/people/Giray_.jpg
+    desc: BSc in Bilkent University <br> Software Analytics
+    pos:  Software engineer at AppNava
+    website: https://www.linkedin.com/in/giray-akyol-925698223/
+    url: https://www.linkedin.com/in/giray-akyol-925698223/
+    github: https://github.com/GirayAkyol
+  - name: Tevfik Emre Sungur 
+    img: /img/people/Tevfik_ Sungur_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> Software Analytics
+    pos:  MSc student at Technical University of Munich
+    website: https://www.linkedin.com/in/tevfik-emre-sungur/
+    url: https://www.linkedin.com/in/tevfik-emre-sungur/
+    github: https://github.com/7evf0
 ---
 
 {% include list-circles.html items=page.PI%}
