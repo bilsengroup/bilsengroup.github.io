@@ -127,6 +127,12 @@ research-volunteers:
     url: https://www.linkedin.com/in/erdem-kocao%C4%9Flu-792113324/
     github: https://github.com/erdemKocaogluu
     twitter: https://x.com/erdemKocaogluu
+  - name: Kaan Bilge
+    img: /img/people/Kaan_Bilge_.jpeg
+    desc: BSc from Computer Science, Bilkent University <br> AI-Assisted Software Testing and Agentic Systems
+    website: https://www.linkedin.com/in/kaan-bilge/
+    url: https://www.linkedin.com/in/kaan-bilge/
+    github: https://github.com/KaanBilge
 part-time-engineers: 
   - name: Muhammet Abdullah Koç
     img: /img/people/koc.jpg
